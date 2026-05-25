@@ -1,0 +1,13 @@
+name = "Modrinth modpack temporary name"
+author = "Sofmethod"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "1a09f6665436fd7afe421ff654d972f4c230335812bc5af67ea61ba9c9becf35"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.230"
