@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Documentation/Setup-instructions.md"
-hash = "6a1bcc16b6139e503e324abeffc1574fd32e466b8795c6749e4f7f0f0bc4d88c"
+hash = "d632dbfbee6f2759bc4c7f2ad11ccec2f616c8c348b79f762400e2a64ca27701"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
