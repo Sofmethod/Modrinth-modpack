@@ -27,19 +27,19 @@
 ## Step before you add anything
   1. In Github Desktop, at the top click *current branch*
   2. Click *new branch* name it something descriptive
-     # After you've made your changes:
+     ## After you've made your changes:
      1. Press *commit* at the bottom left
      2. Click *publish branch*
      3. Go to the repo on github.com and *Compare & pull request*, describe your changes
      4. It will be viewed and merged to main, after that everyone's modpack instance updates on launch.
 
-# Adding mods from Modrinth or Curseforge
+## Adding mods from Modrinth or Curseforge
   Open terminal, navigate to your local tepository (cd C:examplefolder\yourrepository, then use this command: ```packwiz modrinth/curseforge add <modname>```
 
-# Updating a mod
+## Updating a mod
   Refer to Open terminal... above, then enter this command: ```packwiz update <modname>```
 
-#Updating or adding a config/datapack/resourcepack
+## Updating or adding a config/datapack/resourcepack
    Navigate to the overwrite\ folder inside your local repository, paste your file in its dedicated folder
    Alternatively if you adjusted a file inside of your local repository you only have to follow the main rule.
   
