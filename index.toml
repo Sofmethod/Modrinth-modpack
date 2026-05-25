@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Documentation/Setup-instructions.md"
-hash = "d632dbfbee6f2759bc4c7f2ad11ccec2f616c8c348b79f762400e2a64ca27701"
+hash = "6abf6bb86780b9a77779e5c591fff9b02fe40c1b6fe09e569a6251d5dc4c7f15"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -425,6 +425,11 @@ hash = "dd7ec3687553b3e83d76b72ca22ec84cb8f4e618585aeb972377c42a7d6ae72a"
 metafile = true
 
 [[files]]
+file = "mods/lithostitched.pw.toml"
+hash = "c0361987f34717e8176fc653261d7ef73fb77c08c3fe0c9e7ed7b50ceb15f4c0"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "0c961c709297bcc89f2f07e1eb1049e4d21a331adb020f1786e5a9a0883e037c"
 metafile = true
@@ -447,6 +452,11 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "ea29f6a99cdfcd69b0062b0595b1b9e9856f55b70eb50453f2c452b66fe78cc0"
+metafile = true
+
+[[files]]
+file = "mods/oh-the-trees-youll-grow.pw.toml"
+hash = "b586f666162c916d768532cbb98f390aa66f4998ca9ab0999bc4a9b7de5bb83f"
 metafile = true
 
 [[files]]
@@ -1306,6 +1316,10 @@ hash = "202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f"
 [[files]]
 file = "overrides/config/lambdynlights.toml"
 hash = "d8c6c00c2f644b936ed3ea0ed706f04f667b2041b7082acf883148a9f717976e"
+
+[[files]]
+file = "overrides/config/lithostitched.json"
+hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
 
 [[files]]
 file = "overrides/config/meadow-common.toml"
