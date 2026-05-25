@@ -1123,6 +1123,16 @@ hash = "5486f656b149dd16ebd97ea62f3410372ad6883604f51e88d14f22c5263a8280"
 metafile = true
 
 [[files]]
+file = "mods/better-modlist.pw.toml"
+hash = "b841dbd591775e39c4c04361bf56cefabbb954dc709608f0ea812a7e4db00530"
+metafile = true
+
+[[files]]
+file = "mods/better-third-person.pw.toml"
+hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
+metafile = true
+
+[[files]]
 file = "mods/biolith.pw.toml"
 hash = "9e8e6fefe7bbb8d00c64a5c9ee6b9dff3c7f18804f7fa7d72f07c37a1cb348a3"
 metafile = true
@@ -1155,6 +1165,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
+file = "mods/cameraoverhaul.pw.toml"
+hash = "f74b4cf5a648f3b55d0319a559d2264f8bc34b8d760c8a60850e32ed2ab6da4d"
 metafile = true
 
 [[files]]
@@ -1368,6 +1383,11 @@ hash = "57e8e8fe9a89d78ff94798e88fea876f363d98459a8ea4c5ad6ba240b92bb75a"
 metafile = true
 
 [[files]]
+file = "mods/dynamicsurroundingsfabric.pw.toml"
+hash = "4995541fb5da57ab155931be858b4c5073c9d9c8bd171e32e09d04fc336685df"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "9b3916150da735ecfdb30e9cbfb54f51e90532bf1d3e995e84fb09e25c7e0e6f"
 metafile = true
@@ -1388,6 +1408,16 @@ hash = "c6d69011793e9278c65ba14423fccdbc2421f62676bad2663ba85ad9c386ae28"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "4fa25309ea7f4f7770ce6588f39711e891d39f70ae0906b842647273a9ce0448"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
+metafile = true
+
+[[files]]
 file = "mods/essential.pw.toml"
 hash = "a7f2473bcd7ff271bb30721f02d4af913ea0d6f31f61a6b5c4046bf873752143"
 metafile = true
@@ -1395,6 +1425,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
+metafile = true
+
+[[files]]
+file = "mods/falling-leaves.pw.toml"
+hash = "2639b92c44a573ac982a9b7bbf719b08ec85a42c5cf800128a058656e78c8d0e"
 metafile = true
 
 [[files]]
@@ -1463,6 +1498,11 @@ hash = "3d47b1d933d04934a606be1cbb67481860c3d68c9ed4efc387c7745d23b732a7"
 metafile = true
 
 [[files]]
+file = "mods/immersive-winds.pw.toml"
+hash = "8053381400929774954f569baf89dfd0e14c1e21177b830f26fa17eb9870eb01"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "f67aa60c765593a8c70f78296a460349c6aef5f4a16d173eae02e8803b545ad4"
 metafile = true
@@ -1520,6 +1560,11 @@ metafile = true
 [[files]]
 file = "mods/kiwi.pw.toml"
 hash = "c8467cb6639000d1be9e801702e028fd2ce9c0dce6f35e1be4c9264667c9efe6"
+metafile = true
+
+[[files]]
+file = "mods/konkrete.pw.toml"
+hash = "054a1887da4f14b791910660a2a7a2035ac1382461b881a65fe07b224c03735f"
 metafile = true
 
 [[files]]
@@ -1583,6 +1628,16 @@ hash = "3f1fe26d26eaf43c0d7916ee8f8cdf7714a478fc6e09883e931a1f354a6532f0"
 metafile = true
 
 [[files]]
+file = "mods/lootr.pw.toml"
+hash = "988377a2fb2346223a83b6545ec52f5b22ebd0e26b63d141427ad389bedfe4f0"
+metafile = true
+
+[[files]]
+file = "mods/lukis-woodland-mansions.pw.toml"
+hash = "0024e497d2569c6e0b20ea51593cefb785c35edf2f2a40a1aae7f6ed96b655b3"
+metafile = true
+
+[[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "0c961c709297bcc89f2f07e1eb1049e4d21a331adb020f1786e5a9a0883e037c"
 metafile = true
@@ -1623,6 +1678,11 @@ hash = "3792eaccd0f29d9bacc9e97cccd40b691c54439ae10c0fe362dfbf08c57000e1"
 metafile = true
 
 [[files]]
+file = "mods/modern-world-creation.pw.toml"
+hash = "db66914d9b56888814b4135142661f98a632b1ab666da823d8cb2f6c7dfc9348"
+metafile = true
+
+[[files]]
 file = "mods/modernfix.pw.toml"
 hash = "e16a311d5197e286f0955f2ebfb46a72d711050e589224f60fcb8e931eb3a386"
 metafile = true
@@ -1640,6 +1700,11 @@ metafile = true
 [[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
+metafile = true
+
+[[files]]
+file = "mods/mowzies-mobs.pw.toml"
+hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
 metafile = true
 
 [[files]]
@@ -1683,6 +1748,11 @@ hash = "215d597764d5c5db89e700fc3495b72dc0a7f09c975de19dc8c580bde3469a5e"
 metafile = true
 
 [[files]]
+file = "mods/pf-neoforge.pw.toml"
+hash = "1ef7ce6d5fe6e584914680f5463508996f0dd1c2bdbc051b8b3b050c85e134ff"
+metafile = true
+
+[[files]]
 file = "mods/placebo.pw.toml"
 hash = "201e0be56d2d9430843688b4a04dea207732b6d60f8001fb9e6396d48aea287f"
 metafile = true
@@ -1705,6 +1775,16 @@ metafile = true
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
 hash = "10d7f603799aa8e4185b440595640e35996bc8d9c1cdcc4a645ca394c8fa5d29"
+metafile = true
+
+[[files]]
+file = "mods/rare-ice.pw.toml"
+hash = "54496c6587f1f5e49f8f89490fde5ba56006584cfa8d1bd80b0f61dfeaef865c"
+metafile = true
+
+[[files]]
+file = "mods/regions-unexplored.pw.toml"
+hash = "445e184eb1e96afc24eef5a79c0f67519fa9908f537057c94529c59220f1c26e"
 metafile = true
 
 [[files]]
@@ -1818,6 +1898,11 @@ hash = "5518dd2f6a5d88e4affb9df628604737893025206d7149579e4c24f909b130a3"
 metafile = true
 
 [[files]]
+file = "mods/transmog.pw.toml"
+hash = "882158c17af560d7798e85bee9b34c4665e5b2497d677574b48ef8edecd82ade"
+metafile = true
+
+[[files]]
 file = "mods/travelersbackpack.pw.toml"
 hash = "51792be52a28307d13f582e7791add6d5974a9fc18ad2679f715c3ab10a9bc8b"
 metafile = true
@@ -1830,6 +1915,11 @@ metafile = true
 [[files]]
 file = "mods/visual-workbench.pw.toml"
 hash = "baba208274c2694de645628138244a4316942cfbf9cf67b8c8dd656013fcbc54"
+metafile = true
+
+[[files]]
+file = "mods/visuality-forge.pw.toml"
+hash = "e58928e10c503de8a82e8de066d7f17e96a1e67d7bc452386dac8695a48874fc"
 metafile = true
 
 [[files]]
