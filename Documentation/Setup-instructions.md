@@ -4,17 +4,17 @@
 ## For a self updating instance:
   1. Install Prism Launcher from prismlauncher.org and log in with your Minecraft account.
   2. Create a new instance with Minecraft 1.21.1 and NeoForge 21.1.230.
-  3. Download packwiz-installer-bootstrap.jar from [packwiz jar](github.com/packwiz/packwiz-installer-bootstrap/releases),
+  3. Download packwiz-installer-bootstrap.jar from github.com/packwiz/packwiz-installer-bootstrap/releases,
      place it in your instances minecraft folder (right-click instance → Open Folder).
   4. In Prism, right-click the instance → Edit → Custom Commands → check the pre-launch box and paste: 
 	    ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Sofmethod/Modrinth-modpack/main/pack.toml```
 
 
 ## Setting up the local repository (if you'd like to add mods, refer to the next section)
-  1. Install GitHub Desktop from [github desktop](desktop.github.com) and log in with your GitHub account.
+  1. Install GitHub Desktop from desktop.github.com and log in with your GitHub account.
   2. Go to the repo on github.com, click the green Code button and copy the URL.
   3. In GitHub Desktop go to File → Clone Repository → URL, paste the URL and choose where to save it on your PC, then click Clone.
-  4. Install Go from [go install](golang.org/dl).
+  4. Install Go from golang.org/dl.
   5. Open a terminal in the repo folder (in GitHub Desktop go to Repository → Open in Terminal) and run: ```go install github.com/packwiz/packwiz@latest```
 
 
