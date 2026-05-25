@@ -426,7 +426,7 @@ metafile = true
 
 [[files]]
 file = "mods/lithostitched.pw.toml"
-hash = "0d15dc9a93f6ce2b7d3bfd3ac04cc6d624f9e6d486fdd074486145a7a44d565b"
+hash = "c0361987f34717e8176fc653261d7ef73fb77c08c3fe0c9e7ed7b50ceb15f4c0"
 metafile = true
 
 [[files]]
@@ -452,11 +452,6 @@ metafile = true
 [[files]]
 file = "mods/oh-the-biomes-weve-gone.pw.toml"
 hash = "ea29f6a99cdfcd69b0062b0595b1b9e9856f55b70eb50453f2c452b66fe78cc0"
-metafile = true
-
-[[files]]
-file = "mods/oh-the-trees-youll-grow.pw.toml"
-hash = "b586f666162c916d768532cbb98f390aa66f4998ca9ab0999bc4a9b7de5bb83f"
 metafile = true
 
 [[files]]
@@ -1316,10 +1311,6 @@ hash = "202b5a7ab19c1cfff344bd6546be24f8c10a3e92632551ca83ab636016e9d72f"
 [[files]]
 file = "overrides/config/lambdynlights.toml"
 hash = "d8c6c00c2f644b936ed3ea0ed706f04f667b2041b7082acf883148a9f717976e"
-
-[[files]]
-file = "overrides/config/lithostitched.json"
-hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
 
 [[files]]
 file = "overrides/config/meadow-common.toml"
