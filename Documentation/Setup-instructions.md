@@ -15,7 +15,7 @@
   2. Go to the repo on github.com, click the green Code button and copy the URL.
   3. In GitHub Desktop go to File → Clone Repository → URL, paste the URL and choose where to save it on your PC, then click Clone.
   4. Install Go from golang.org/dl.
-  5. Open a terminal in the repo folder (in GitHub Desktop go to Repository → Open in Terminal) and run: ```go install github.com/packwiz/packwiz@latest```
+  5. Open a terminal and run: ```go install github.com/packwiz/packwiz@latest```
 
 
 ## Adding mods, configs, datapacks
