@@ -41,5 +41,5 @@
 
 ### Updating or adding a config/datapack/resourcepack
    Navigate to the overwrite\ folder inside your local repository, paste your file in its dedicated folder.
-   Alternatively if you adjusted a file inside of your local repository you only have to follow the main rule.
+   WARNING! Open your repo in the terminal and run ```packwiz refresh``` otherwise it will not register your change.
   
