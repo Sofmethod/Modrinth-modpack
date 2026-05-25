@@ -3,11 +3,11 @@ filename = "dynamictrees-neoforge-1.21.1-1.7.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vdjF5PL5/versions/1sD1u4G2/dynamictrees-neoforge-1.21.1-1.7.0.jar"
-hash-format = "sha512"
-hash = "3e56e073c2fad34f3fdf90946cd6fea2d472e796a816132e51421531e753cccec6f97d1d78e3d5592f2a881c228810e09ed0bd360a8304fc30a21909d3d61a5e"
+hash-format = "sha1"
+hash = "214b57ccd42bc306de8aff347162172fc4ba971b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "vdjF5PL5"
-version = "1sD1u4G2"
+[update.curseforge]
+file-id = 7661136
+project-id = 252818
