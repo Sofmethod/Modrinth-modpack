@@ -1,0 +1,13 @@
+name = "Iron Smelters"
+filename = "IronSmelters-neoforge-1.21.1-21.1.0.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/il2omh0z/versions/5DFWQ4mk/IronSmelters-neoforge-1.21.1-21.1.0.3.jar"
+hash-format = "sha512"
+hash = "57d1f0d0b52dca3385c40d3900eed5616d0880913f31710d8c5be97781d3cb34aa482c08eeddbc8aff814be1bcdd714c8fcb736e2503a080418a171777c54737"
+
+[update]
+[update.modrinth]
+mod-id = "il2omh0z"
+version = "5DFWQ4mk"

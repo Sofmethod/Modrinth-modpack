@@ -1,0 +1,13 @@
+name = "Tinkers Bounce Pad"
+filename = "TinkersBouncePad-neoforge-1.21-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/mqoxwis0/versions/nRTKXeXc/TinkersBouncePad-neoforge-1.21-1.6.0.jar"
+hash-format = "sha512"
+hash = "b8298659d639906bbd54e2bd7719297f5ee832892dbfc511049e21401551900a44a2bcac0b817ed8cf5050c8b8e46de631eaf4ed748fc95b6091d8704ac10961"
+
+[update]
+[update.modrinth]
+mod-id = "mqoxwis0"
+version = "nRTKXeXc"

@@ -1,0 +1,13 @@
+name = "Spells Gone Wrong (Iron's Spells N Spellbooks)"
+filename = "spells_gone_wrong-1.21.1-2.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4ugLsKOh/versions/FSEfp8Sq/spells_gone_wrong-1.21.1-2.0.0.jar"
+hash-format = "sha512"
+hash = "aff02bf924b2016ebe379235fe0574519f6486d9171bd5423e761fbe92a4b6153764a98d1caaf4e6086b93e31bf274ae076194d29b5b3762cf9729474e84edab"
+
+[update]
+[update.modrinth]
+mod-id = "4ugLsKOh"
+version = "FSEfp8Sq"
