@@ -650,10 +650,6 @@ hash = "9d9b074b2425fc4f19808b7d6df4a0baeae39a37e909107aaa85004df1a2d195"
 metafile = true
 
 [[files]]
-file = "overrides/config/DistantHorizons.toml"
-hash = "9bfba95a017faaea269fba29ec832c0d1ff513253235af1e16680009c28fd2f3"
-
-[[files]]
 file = "overrides/config/MouseTweaks.cfg"
 hash = "4069ce1a439d8c37453c1b1e9f2037e0942674c7e48723a39b37eab245792ad4"
 
