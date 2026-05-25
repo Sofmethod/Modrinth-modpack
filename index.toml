@@ -1388,11 +1388,6 @@ hash = "c6d69011793e9278c65ba14423fccdbc2421f62676bad2663ba85ad9c386ae28"
 metafile = true
 
 [[files]]
-file = "mods/epic-samurais.pw.toml"
-hash = "2b5347f5adedf2d94ed456d4fd395dc751067cd0c01074834b864dc17afbbeea"
-metafile = true
-
-[[files]]
 file = "mods/essential.pw.toml"
 hash = "a7f2473bcd7ff271bb30721f02d4af913ea0d6f31f61a6b5c4046bf873752143"
 metafile = true
@@ -1820,11 +1815,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "8e8279c29671803cae3f9ab39c87956e4a4300fe8f9da9a9222850ca3253fb45"
-metafile = true
-
-[[files]]
-file = "mods/wizard-samurai-irons-spells-addon.pw.toml"
-hash = "523e9b5326f4ebcaeb8b059d06a3b6dfbd17a2e9b8eb2e97652fb1545ed33aec"
 metafile = true
 
 [[files]]
