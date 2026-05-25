@@ -26,7 +26,7 @@
 
 ## Step before you add anything
   1. In Github Desktop, at the top click *current branch*
-  2. Click *new branch* name it something descriptive
+  2. Click *new branch*, name it something descriptive
      ## After you've made your changes:
      1. Press *commit* at the bottom left
      2. Click *publish branch*
