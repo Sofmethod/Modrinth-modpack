@@ -222,7 +222,7 @@ hash = "0054bd134920df15043398ab956fd2a92ebef2a562df086502dbcb4b0adb8f74"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "32ff4a81c23d32882a3e67af0f748808553553bd3a9c14ba9507104bfe366119"
+hash = "dbad23704c437cfdf540c7fc5c0fe0c0cd7dfbbaeeaa21ab8a03a351c717a879"
 
 [[files]]
 file = "config/charmofundying-server.toml"
