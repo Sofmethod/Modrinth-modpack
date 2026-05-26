@@ -1822,6 +1822,11 @@ hash = "57e8e8fe9a89d78ff94798e88fea876f363d98459a8ea4c5ad6ba240b92bb75a"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-regions-unexplored.pw.toml"
+hash = "0af45fb2efcd62007bbd7a164b6c9d1cfab78f73ad462d0be8974d1222d703e8"
+metafile = true
+
+[[files]]
 file = "mods/dynamic-trees-terralith.pw.toml"
 hash = "83402557610741e3750f40b2633f20bf89a18ead8b0976799cbc6795ae4e99f0"
 metafile = true
