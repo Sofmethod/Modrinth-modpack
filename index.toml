@@ -2057,11 +2057,6 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
-metafile = true
-
-[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "ddf310eef4cd98907b821b1ea07ddf77a2e70d2effb4fd709fe4a0e662f4ebd5"
 metafile = true
