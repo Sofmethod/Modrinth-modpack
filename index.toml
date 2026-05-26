@@ -853,10 +853,6 @@ file = "config/jade/sort-order.json"
 hash = "dcaa7f184dec1101c0ce8f67a3e35a09806de0d458e4aeb3874885059bb94b93"
 
 [[files]]
-file = "config/jei-server.toml"
-hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
-
-[[files]]
 file = "config/jei/blacklist.json"
 hash = "b4174dc6e985aa90be5002c14e94b956d8d586683c44b7b6710c44d08fb13648"
 
@@ -1015,10 +1011,6 @@ hash = "a5d664ed8aeecd77bd09611cba93d5f8e3194da8140666d3e97a0c4973dd0981"
 [[files]]
 file = "config/naturescompass-common.toml"
 hash = "e769b3fba5d717bc42a38043aee9b08070af87e22700d07a5f6e69c3efca4a31"
-
-[[files]]
-file = "config/neoforge-client.toml"
-hash = "d58d93e2c429410d0abf25507d1679f732e1023b03bb52414348efcf5cf3ddb0"
 
 [[files]]
 file = "config/neoforge-common.toml"
