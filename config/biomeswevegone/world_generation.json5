@@ -26,7 +26,7 @@
 		"biomeswevegone:windswept_desert": false,
 		"biomeswevegone:eroded_borealis": false,
 		"biomeswevegone:coniferous_forest": false,
-		"biomeswevegone:amaranth_grassland": true,
+		"biomeswevegone:amaranth_grassland": false,
 		"biomeswevegone:frosted_coniferous_forest": true,
 		"biomeswevegone:weeping_witch_forest": true,
 		"biomeswevegone:zelkova_forest": true,

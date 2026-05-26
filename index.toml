@@ -306,7 +306,7 @@ hash = "0b05a8814f09fead55b1901b7efab7d3ab87227ea3fc6b5e65a6197261832710"
 
 [[files]]
 file = "config/biomeswevegone/world_generation.json5"
-hash = "0054bd134920df15043398ab956fd2a92ebef2a562df086502dbcb4b0adb8f74"
+hash = "8acfc88eb5633675946aea3321b5eee206d3dd791e8ea89a63fa4008fbfa8869"
 
 [[files]]
 file = "config/c2me.toml"
@@ -1822,6 +1822,11 @@ hash = "57e8e8fe9a89d78ff94798e88fea876f363d98459a8ea4c5ad6ba240b92bb75a"
 metafile = true
 
 [[files]]
+file = "mods/dynamic-trees-terralith.pw.toml"
+hash = "83402557610741e3750f40b2633f20bf89a18ead8b0976799cbc6795ae4e99f0"
+metafile = true
+
+[[files]]
 file = "mods/dynamicsurroundingsfabric.pw.toml"
 hash = "4995541fb5da57ab155931be858b4c5073c9d9c8bd171e32e09d04fc336685df"
 metafile = true
@@ -1909,6 +1914,11 @@ metafile = true
 [[files]]
 file = "mods/gregtechceu-modern.pw.toml"
 hash = "b720e13a9d96e0d79a9a691f5cee6be60747166df2f702579bbe577e155df597"
+metafile = true
+
+[[files]]
+file = "mods/guard-villagers.pw.toml"
+hash = "fb635e99e8d2f90b5e682820384eb06ec91c188c34b09e16cf41e21f10b7001b"
 metafile = true
 
 [[files]]
@@ -2057,11 +2067,6 @@ hash = "535e8e9c6bc184e9771cf4e35795c8f162d89abeb5b9aed9c2ea2988c710776f"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-wildernature.pw.toml"
-hash = "dd7ec3687553b3e83d76b72ca22ec84cb8f4e618585aeb972377c42a7d6ae72a"
-metafile = true
-
-[[files]]
 file = "mods/lithostitched.pw.toml"
 hash = "3f1fe26d26eaf43c0d7916ee8f8cdf7714a478fc6e09883e931a1f354a6532f0"
 metafile = true
@@ -2137,6 +2142,11 @@ hash = "4e93b2710a407b1a518aba64e77d97fd5a2f853b54e2133eac0768ba90bdc5d6"
 metafile = true
 
 [[files]]
+file = "mods/more-villagers.pw.toml"
+hash = "f186680e1906cd6fc01c060f48e4e38b2d7401bbfaab538a52ba1b858bc6c3ae"
+metafile = true
+
+[[files]]
 file = "mods/mouse-tweaks.pw.toml"
 hash = "6bc414cc0f2d4c078fe83f384d786343f701f371d657c5279b5b0df1595804bd"
 metafile = true
@@ -2144,6 +2154,11 @@ metafile = true
 [[files]]
 file = "mods/mowzies-mobs.pw.toml"
 hash = "02aa4dcb8fa24cffcd2182c66683c2a476a95abf53002373f953a49737a587e3"
+metafile = true
+
+[[files]]
+file = "mods/naturalist.pw.toml"
+hash = "c9bc26d57238cb711efc81235656be3b032e893f480f025c9733e955937d5f2c"
 metafile = true
 
 [[files]]
@@ -2557,12 +2572,12 @@ file = "resourcepacks/FreshAnimations_v1.10.4.zip"
 hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
 
 [[files]]
-file = "resourcepacks/Simply Swords Reforged v1.zip"
-hash = "6e64be03e2c8d957d29982ba5508f83ab87e4bdd59f14799f697237ba985ce1a"
+file = "resourcepacks/HumanEraVillagersIllagers[3.9].zip"
+hash = "72b99b7b04f30806228b4e987c5f72e467a7fbd6beb1b08adfca0e88867cef94"
 
 [[files]]
-file = "resourcepacks/lantern-fix.zip"
-hash = "f0a95d67c467df5830146007708b3e576acee12556dda399092ded15672ec259"
+file = "resourcepacks/Simply Swords Reforged v1.zip"
+hash = "6e64be03e2c8d957d29982ba5508f83ab87e4bdd59f14799f697237ba985ce1a"
 
 [[files]]
 file = "resourcepacks/§3Fresh §bFlower Pots.zip"
