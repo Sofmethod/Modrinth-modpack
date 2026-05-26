@@ -9,7 +9,8 @@
   4. In Prism, right-click the instance → Edit → Custom Commands → check the pre-launch box and paste: 
 	    ```"$INST_JAVA" -jar packwiz-installer-bootstrap.jar https://raw.githubusercontent.com/Sofmethod/Modrinth-modpack/main/pack.toml```
 
-     For more performance, add this to your java arguments in your instance settings: ```-XX:+UseZGC -XX:+UnlockExperimentalVMOptions -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump -Xms512m -Xmx16384m```
+     For more performance, add this to your java arguments in your instance settings: ```-XX:+UseZGC -XX:+UnlockExperimentalVMOptions -XX:HeapDumpPath=MojangTricksIntelDriversForPerformance_javaw.exe_minecraft.exe.heapdump```
+     And up your maximum (and minimum if thats an option) memory.
 
 ## Setting up the local repository (if you'd like to add mods, refer to the next section)
   1. Install GitHub Desktop from desktop.github.com and log in with your GitHub account.
