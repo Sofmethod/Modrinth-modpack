@@ -2561,6 +2561,10 @@ file = "resourcepacks/Simply Swords Reforged v1.zip"
 hash = "6e64be03e2c8d957d29982ba5508f83ab87e4bdd59f14799f697237ba985ce1a"
 
 [[files]]
+file = "resourcepacks/lantern-fix.zip"
+hash = "f0a95d67c467df5830146007708b3e576acee12556dda399092ded15672ec259"
+
+[[files]]
 file = "resourcepacks/§3Fresh §bFlower Pots.zip"
 hash = "cb3b1daedc1bd04de8659c5769591c607c1d16eb9ad06033990e1715414f391e"
 
