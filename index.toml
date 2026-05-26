@@ -269,10 +269,6 @@ file = "config/betterthirdperson-common.toml"
 hash = "55406dc103678dc459c50fbb85bcdc7b9e7421576b4ee56e57344dd6c79cf140"
 
 [[files]]
-file = "config/betterwitchhuts-neoforge-1_21.toml"
-hash = "0fa4f192f54dc1fc4f7ac7ab8be7cba88e324fe21571777cb8a6d404f6ce49a9"
-
-[[files]]
 file = "config/biome_replacer.properties"
 hash = "a67afadff9534f2158d562800f1e17d40aa8f8c99e7ef3ab3c1001dfc218e4d3"
 
@@ -781,10 +777,6 @@ file = "config/ferritecore-mixin.toml"
 hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
 
 [[files]]
-file = "config/flywheel-client.toml"
-hash = "4f60afafe27bd7e7098605e5468e89a651b89ffeda1698a06f81bd7161cef767"
-
-[[files]]
 file = "config/fml.toml"
 hash = "e267cb55b85e8d302b467b0dcf74cb3e6a051bf4bb33897fe9b568b8d35487f4"
 
@@ -831,10 +823,6 @@ hash = "bfb348e145fd39f5b53f94d034a6baf4bed2added70097f5ce507324adee6c3e"
 [[files]]
 file = "config/irons_spellbooks-client.toml"
 hash = "3fa2598d7de323567c85ebf73380be870d051381615daecc386d6366b4d7b9d4"
-
-[[files]]
-file = "config/irons_spellbooks-server.toml"
-hash = "b8af7b5dc8e58774cd832abed3657f4c50d8c12cda3f00a7b72b88bb5edbba67"
 
 [[files]]
 file = "config/irons_spellbooks_spell_config/global_config.json"
@@ -1041,20 +1029,12 @@ file = "config/neoforge-server.toml"
 hash = "b1e3b38d612295f8d9dfa0fbdb538a992b7a1a3b7a766c491b4e9fdf3823396f"
 
 [[files]]
-file = "config/offroad-server.toml"
-hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
-
-[[files]]
 file = "config/openloader/data/fixed_swem_replacer_v4.zip"
 hash = "05cf18daab07dd10d23afac70c7d67ba5b02a6bc92c70da1233523ffcfbe1f07"
 
 [[files]]
 file = "config/openloader/options.json"
 hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
-
-[[files]]
-file = "config/openpartiesandclaims-server.toml"
-hash = "1a1c63da454df2892901aafd7e38e1d47dafaa88017def469f09eba832a80c51"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1091,10 +1071,6 @@ hash = "fb305f5918be730c4330a5466fba5ba50b2c5ef979152144a2f6aa2e4ea62c99"
 [[files]]
 file = "config/railways-common.toml"
 hash = "cb0af90a705f48886a1c4ec970dfeb70e91d6961f561b5f1d5a31f5e0cc1edd5"
-
-[[files]]
-file = "config/railways-server.toml"
-hash = "01d1370950239d1a78d2b166652e0ad7dce25d9e89e46565edc3021bec71e206"
 
 [[files]]
 file = "config/rare_ice.properties"
@@ -1155,10 +1131,6 @@ hash = "3e5b250f6fa5e4ffb246fd04e6dcffde1cbf4da77d424e9d88e115444427cb09"
 [[files]]
 file = "config/simulated-client.toml"
 hash = "ae2634e6d32c7fb2e3cfe195f0d5c3a4bd2a1e073890d0abcc982065b41e8219"
-
-[[files]]
-file = "config/simulated-server.toml"
-hash = "43f69b72502cfeb43e4b8584a1a8955120fcd25b31217ce199525127fd76e587"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -1225,10 +1197,6 @@ file = "config/supplementaries-common.toml"
 hash = "76509eed51fb4284bf2d7a76c6c54bd33467d3bb416c907cedbc5a89186fa567"
 
 [[files]]
-file = "config/swem-server.toml"
-hash = "a44654f3319c7a8c5381478b15b99e474c7451798477f85ff8a4b9276be7e162"
-
-[[files]]
 file = "config/swem/swem-client.toml"
 hash = "119224113827a7c8cce789b7887cf90011cc3a71e2d3dd36031d4ad7fe663ea6"
 
@@ -1257,10 +1225,6 @@ file = "config/toms_storage-common.toml"
 hash = "a7ff87dbfa4587eda3e1aa9f8e05102bdf0e6f7961fde07a360e86c6cd69da1f"
 
 [[files]]
-file = "config/toms_storage-server.toml"
-hash = "a880e3220dd5051ed2901cfcba028d59bccfef4af8775232037ed8a2c2e81cf7"
-
-[[files]]
 file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
 hash = "7c70e7df82d014a87dcb2defcf45d9654a22362283c7efe1f81f3b3c04290709"
 
@@ -1283,10 +1247,6 @@ hash = "cd1bd3af16d2f93b16db571d21b5db5d2ac0a7e4637f2c5068dbf184c672838d"
 [[files]]
 file = "config/travelersbackpack-common.toml"
 hash = "37ce5a56214bb9ca267ea3a4bdeee69da309afbbd6f74866efdd6e987a709ce3"
-
-[[files]]
-file = "config/travelersbackpack-server.toml"
-hash = "5a76437c5de30a4627649b628c1729ba34bfac796af5a0b9d16af3c218e00161"
 
 [[files]]
 file = "config/trender.json"
