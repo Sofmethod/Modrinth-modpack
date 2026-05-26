@@ -1,2 +1,5 @@
 documentation/
 README.md
+config/neoforge-common.toml
+config/neoforge-client.toml
+config/neoforge-server.toml
