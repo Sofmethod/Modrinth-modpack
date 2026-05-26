@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Documentation/Setup-instructions.md"
-hash = "d73ef8aae94b01edf9246cb1b5f1f7fff7e147515c200d5dcb08a6901ad70956"
-
-[[files]]
 file = "config/Mekanism/additions-client.toml"
 hash = "ea58e4998b6ad79626af3758814fc8e784b7a2f9047051c03a2f2d05cc888540"
 
