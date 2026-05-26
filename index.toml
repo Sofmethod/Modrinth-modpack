@@ -113,6 +113,14 @@ file = "config/aeroblender-common.toml"
 hash = "c34c0ac1f978b1c80b99fe3b78b8fb29a633392c33b05495e8804d04be6d5449"
 
 [[files]]
+file = "config/aeroclaims-server.toml"
+hash = "b6b53a79d42c70d29a127787f62e4a29fc238eec8534ee984973ac2956197a69"
+
+[[files]]
+file = "config/aeronautics-server.toml"
+hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
+
+[[files]]
 file = "config/aether-client.toml"
 hash = "1eb44b8a4ebc37ceee3bcf09a55f0a4757328df30c8be3eacab5162709be54c9"
 
@@ -302,7 +310,7 @@ hash = "0054bd134920df15043398ab956fd2a92ebef2a562df086502dbcb4b0adb8f74"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "e1416d1241341de7efdb7dcc3d393f984d1b94b4953a18a19332c0b580a2edd3"
+hash = "22091e1e8aa159c032f616804568afcf0f70fe5771ae836fe109099e4fe0ea01"
 
 [[files]]
 file = "config/cameraoverhaul.toml"
@@ -365,6 +373,10 @@ file = "config/copycats-common.toml"
 hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
 
 [[files]]
+file = "config/copycats-server.toml"
+hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
+
+[[files]]
 file = "config/craftedcore.json5"
 hash = "73acea26ceb7840631dd70bafef6bfbe672f6582ab349e12c0466b428f4c365a"
 
@@ -379,6 +391,10 @@ hash = "cce3eab1a290cc1f0eada00031f0577f661f883aee3438cf1139283c65d1f319"
 [[files]]
 file = "config/create-common.toml"
 hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
+
+[[files]]
+file = "config/create-server.toml"
+hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
 file = "config/create_dragons_plus-client.toml"
@@ -689,6 +705,10 @@ file = "config/curios-common.toml"
 hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
 
 [[files]]
+file = "config/curios-server.toml"
+hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
+
+[[files]]
 file = "config/deep_aether-client.toml"
 hash = "01e33dc4e16dcdfcc6f7ed4231a57bcf38d1c268c219585af1c75480acc67a33"
 
@@ -758,7 +778,7 @@ hash = "4067e50c6833df6619e511f2bc09630f16fa22e61cf250a8abbf3354afbe14f0"
 
 [[files]]
 file = "config/fabric/indigo-renderer.properties"
-hash = "d0cf1f624c60265de65d8a50e87b8ac2e25674b76a477c8d9fe8857d1654cc97"
+hash = "9eb9d1f33f3a2d278d5fdc47c0e135a32d794dc327c4a83ee4a2f202c374eca6"
 
 [[files]]
 file = "config/farm_and_charm-common.toml"
@@ -777,8 +797,12 @@ file = "config/ferritecore-mixin.toml"
 hash = "1356f9d52b2dcb2afa5a593e53c286d9c1c3778a6f8b1cf761953b185b7dce78"
 
 [[files]]
+file = "config/flywheel-client.toml"
+hash = "9b9525f6baadc8312819ae21ad8688b20fb887e0e2bec4bceece4cbb296196b8"
+
+[[files]]
 file = "config/fml.toml"
-hash = "e267cb55b85e8d302b467b0dcf74cb3e6a051bf4bb33897fe9b568b8d35487f4"
+hash = "cc59fb1039726fda3ab1eb69b06d9b9aebb7496604ea579cfb735bc5377e7825"
 
 [[files]]
 file = "config/fzzy_config/keybinds.toml"
@@ -817,12 +841,24 @@ file = "config/immersivewind.json"
 hash = "36dec22e5741d74c61a66d1ac5fb6be493463bd6e49e0469b56f1193f9b00ca2"
 
 [[files]]
+file = "config/iris-excluded.json"
+hash = "4d3264b58c502afaeca3f44e8d2db0843c54b8ba957afd21a2d450fe10dafefb"
+
+[[files]]
+file = "config/iris.properties"
+hash = "68b8df58dc2b88e799e80bad4c3b00a7cf7524ea21e5370370dd7da5fddb99e4"
+
+[[files]]
 file = "config/ironfurnaces-common.toml"
 hash = "bfb348e145fd39f5b53f94d034a6baf4bed2added70097f5ce507324adee6c3e"
 
 [[files]]
 file = "config/irons_spellbooks-client.toml"
 hash = "3fa2598d7de323567c85ebf73380be870d051381615daecc386d6366b4d7b9d4"
+
+[[files]]
+file = "config/irons_spellbooks-server.toml"
+hash = "b8af7b5dc8e58774cd832abed3657f4c50d8c12cda3f00a7b72b88bb5edbba67"
 
 [[files]]
 file = "config/irons_spellbooks_spell_config/global_config.json"
@@ -842,7 +878,7 @@ hash = "3741bb54a4535fb5a00fb0ee1f4386f3dd17834aebdf9e89c21fcd3307109709"
 
 [[files]]
 file = "config/jade/jade.json"
-hash = "43bf8b49d6cb6897197a2c6924fe60f5618448ab3bffe790e7e2f765088dbae0"
+hash = "86b65f6309bce4dfef401dafbcdc530ccfae9be674d5847510f54cd8a385ffaa"
 
 [[files]]
 file = "config/jade/plugins.json"
@@ -851,6 +887,10 @@ hash = "d27b077109eb16d1fa40dd7ba95ba550540bb47413f392f9feaf68aafd30d0e2"
 [[files]]
 file = "config/jade/sort-order.json"
 hash = "dcaa7f184dec1101c0ce8f67a3e35a09806de0d458e4aeb3874885059bb94b93"
+
+[[files]]
+file = "config/jei-server.toml"
+hash = "702acd04d99445bce659d04fcc488e1a98c8a803983c31ae262b0f3a47fdc8d3"
 
 [[files]]
 file = "config/jei/blacklist.json"
@@ -937,6 +977,10 @@ file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
 
 [[files]]
+file = "config/lambdynlights.toml"
+hash = "fdd6958ff17541c8d1c891bd1602088bb6888f41229e966387a07311f32ec6d9"
+
+[[files]]
 file = "config/lithostitched.json"
 hash = "d8a63933ec4757186a594debea59dd35724a0a895fe601b324f96217c28312df"
 
@@ -1013,12 +1057,20 @@ file = "config/naturescompass-common.toml"
 hash = "e769b3fba5d717bc42a38043aee9b08070af87e22700d07a5f6e69c3efca4a31"
 
 [[files]]
+file = "config/offroad-server.toml"
+hash = "d5f0ed8390618c769d9cb40a77df04779b7bbe636343b753c1ed6f92d325ae2b"
+
+[[files]]
 file = "config/openloader/data/fixed_swem_replacer_v4.zip"
 hash = "05cf18daab07dd10d23afac70c7d67ba5b02a6bc92c70da1233523ffcfbe1f07"
 
 [[files]]
 file = "config/openloader/options.json"
 hash = "aecd2d223c33257182654d3e8d5286c414508706fa0f0f33b868d4c1c9b7b786"
+
+[[files]]
+file = "config/openpartiesandclaims-server.toml"
+hash = "1a1c63da454df2892901aafd7e38e1d47dafaa88017def469f09eba832a80c51"
 
 [[files]]
 file = "config/patchouli-client.toml"
@@ -1057,8 +1109,12 @@ file = "config/railways-common.toml"
 hash = "cb0af90a705f48886a1c4ec970dfeb70e91d6961f561b5f1d5a31f5e0cc1edd5"
 
 [[files]]
+file = "config/railways-server.toml"
+hash = "01d1370950239d1a78d2b166652e0ad7dce25d9e89e46565edc3021bec71e206"
+
+[[files]]
 file = "config/rare_ice.properties"
-hash = "bb425f353e969ff5d9ad7c7a05ddc829044e04dabe55369f44b82e6079ca14d8"
+hash = "839cf9a84c9db7e8ef4c824a7fa11e23b7225cbe663ddba994a44d8e0f578edc"
 
 [[files]]
 file = "config/regions_unexplored/client.toml"
@@ -1115,6 +1171,10 @@ hash = "3e5b250f6fa5e4ffb246fd04e6dcffde1cbf4da77d424e9d88e115444427cb09"
 [[files]]
 file = "config/simulated-client.toml"
 hash = "ae2634e6d32c7fb2e3cfe195f0d5c3a4bd2a1e073890d0abcc982065b41e8219"
+
+[[files]]
+file = "config/simulated-server.toml"
+hash = "43f69b72502cfeb43e4b8584a1a8955120fcd25b31217ce199525127fd76e587"
 
 [[files]]
 file = "config/skinlayers.json"
@@ -1181,6 +1241,10 @@ file = "config/supplementaries-common.toml"
 hash = "76509eed51fb4284bf2d7a76c6c54bd33467d3bb416c907cedbc5a89186fa567"
 
 [[files]]
+file = "config/swem-server.toml"
+hash = "a44654f3319c7a8c5381478b15b99e474c7451798477f85ff8a4b9276be7e162"
+
+[[files]]
 file = "config/swem/swem-client.toml"
 hash = "119224113827a7c8cce789b7887cf90011cc3a71e2d3dd36031d4ad7fe663ea6"
 
@@ -1209,6 +1273,10 @@ file = "config/toms_storage-common.toml"
 hash = "a7ff87dbfa4587eda3e1aa9f8e05102bdf0e6f7961fde07a360e86c6cd69da1f"
 
 [[files]]
+file = "config/toms_storage-server.toml"
+hash = "a880e3220dd5051ed2901cfcba028d59bccfef4af8775232037ed8a2c2e81cf7"
+
+[[files]]
 file = "config/towns_and_towers/structure_enable_or_disable_new.json5"
 hash = "7c70e7df82d014a87dcb2defcf45d9654a22362283c7efe1f81f3b3c04290709"
 
@@ -1231,6 +1299,10 @@ hash = "cd1bd3af16d2f93b16db571d21b5db5d2ac0a7e4637f2c5068dbf184c672838d"
 [[files]]
 file = "config/travelersbackpack-common.toml"
 hash = "37ce5a56214bb9ca267ea3a4bdeee69da309afbbd6f74866efdd6e987a709ce3"
+
+[[files]]
+file = "config/travelersbackpack-server.toml"
+hash = "5a76437c5de30a4627649b628c1729ba34bfac796af5a0b9d16af3c218e00161"
 
 [[files]]
 file = "config/trender.json"
@@ -1800,8 +1872,8 @@ hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
 metafile = true
 
 [[files]]
-file = "mods/falling-leaves.pw.toml"
-hash = "2639b92c44a573ac982a9b7bbf719b08ec85a42c5cf800128a058656e78c8d0e"
+file = "mods/falling-leaves-forge.pw.toml"
+hash = "107e17092cb624d106bddc63f2165f5e0461ca910e365a864bbae4c4f0de539d"
 metafile = true
 
 [[files]]
@@ -1942,6 +2014,11 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
+metafile = true
+
+[[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "d77c41bf5a8dd470d65e7946d507657a910b54d2e76f4b3ced4fe4addc2d52d4"
 metafile = true
 
 [[files]]
