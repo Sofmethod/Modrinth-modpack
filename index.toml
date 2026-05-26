@@ -113,14 +113,6 @@ file = "config/aeroblender-common.toml"
 hash = "c34c0ac1f978b1c80b99fe3b78b8fb29a633392c33b05495e8804d04be6d5449"
 
 [[files]]
-file = "config/aeroclaims-server.toml"
-hash = "b6b53a79d42c70d29a127787f62e4a29fc238eec8534ee984973ac2956197a69"
-
-[[files]]
-file = "config/aeronautics-server.toml"
-hash = "a9302b0253e494e7d80f0a2785bf4514b0b67da85796437ca032482db62be514"
-
-[[files]]
 file = "config/aether-client.toml"
 hash = "1eb44b8a4ebc37ceee3bcf09a55f0a4757328df30c8be3eacab5162709be54c9"
 
@@ -221,10 +213,6 @@ file = "config/bettercombat/weapon_trails.json"
 hash = "fd14cc025b6d6c54bc2ddff136f0298c0ba132dbe98c2c9c845b47b8286fc45c"
 
 [[files]]
-file = "config/betterdeserttemples-neoforge-1_21.toml"
-hash = "c7355a13f2f7c4eeb3332ab67a2315e0662c7e5b434dc33d4624fccb9e815240"
-
-[[files]]
 file = "config/betterdeserttemples/README.txt"
 hash = "a8248503b691a780ba45cf033a8d74f1f878d27f119f1d8b4b80b2b8745f62db"
 
@@ -241,18 +229,6 @@ file = "config/betterdeserttemples/neoforge-1_21/itemframes.json"
 hash = "219e2aa23ba071c554004d0f6a41e19a1a3845093d8732eb476fd8fc06b7928d"
 
 [[files]]
-file = "config/betterdungeons-neoforge-1_21.toml"
-hash = "b03069c030f940550b4436d2f7c3dab582efa2fcc32b221ac30dbcb0617eab7f"
-
-[[files]]
-file = "config/betterendisland-neoforge-1_21.toml"
-hash = "ffe069fd52a22a7967f4d012382dca670f585635cb721c2190f0595969b662af"
-
-[[files]]
-file = "config/betterfortresses-neoforge-1_21.toml"
-hash = "0bef433c8253f63704694528c33dc854f2b28da084d420a61c43fd62d6e5301b"
-
-[[files]]
 file = "config/betterfortresses/README.txt"
 hash = "5643f5af88b445a96f2c6ea167b97cc640059eda5c849ed3c7b8d5023ab51a86"
 
@@ -263,22 +239,6 @@ hash = "1175dbf9cd2e7c91b1c852a51e3c0203c68484917e877465b283e2370ad62864"
 [[files]]
 file = "config/betterfortresses/neoforge-1_21/itemframes.json"
 hash = "7f059385d75cb78fbe3a0dde697a1ffc8940040e75eaba3989a3350814327051"
-
-[[files]]
-file = "config/betterjungletemples-neoforge-1_21.toml"
-hash = "77ef014bd34c9f66bf40b3e6ae7a67bf7ec2a618b76eafff9f0921577d3ab1b9"
-
-[[files]]
-file = "config/bettermineshafts-neoforge-1_21.toml"
-hash = "37ee9275b9680c2d07d395cf41769c456c9b93adbf85ddf6514ee601977fa099"
-
-[[files]]
-file = "config/betteroceanmonuments-neoforge-1_21.toml"
-hash = "6c09d2a75810e76c719b355c3480d1dc14b135f944f4a85d2118a395efc916c5"
-
-[[files]]
-file = "config/betterstrongholds-neoforge-1_21.toml"
-hash = "3f2ae4edfb2c45137f14dc6a1a4f02958735b9831c0762d19d9e57fe4ff72346"
 
 [[files]]
 file = "config/betterstrongholds/README.txt"
@@ -409,10 +369,6 @@ file = "config/copycats-common.toml"
 hash = "4554d0df9a25e4f58c07df938806bb435fa2556263b60537bcd8f3f3cd28f1c3"
 
 [[files]]
-file = "config/copycats-server.toml"
-hash = "3a2e328d298b0ef379673beffa566eda2d92b4f1d0e00425573b59f0ea66e646"
-
-[[files]]
 file = "config/craftedcore.json5"
 hash = "73acea26ceb7840631dd70bafef6bfbe672f6582ab349e12c0466b428f4c365a"
 
@@ -427,10 +383,6 @@ hash = "cce3eab1a290cc1f0eada00031f0577f661f883aee3438cf1139283c65d1f319"
 [[files]]
 file = "config/create-common.toml"
 hash = "2e77b1d93b40ce3f381ad7eb2a9e6d7148de917518be5c2616939a4369c4b140"
-
-[[files]]
-file = "config/create-server.toml"
-hash = "36216a05f3ed63106ba587c8c24ed6315385829e7f3dae695dcf545aba41a270"
 
 [[files]]
 file = "config/create_dragons_plus-client.toml"
@@ -741,10 +693,6 @@ file = "config/curios-common.toml"
 hash = "9f00a6b9904cf63a36c0c72f8346642962d538aaa78b59943b9de60dda82e6d0"
 
 [[files]]
-file = "config/curios-server.toml"
-hash = "1a3bee95a96f082b8e97cccbce30c1efe1352b616c78e06d5884fd4475668add"
-
-[[files]]
 file = "config/deep_aether-client.toml"
 hash = "01e33dc4e16dcdfcc6f7ed4231a57bcf38d1c268c219585af1c75480acc67a33"
 
@@ -1003,10 +951,6 @@ hash = "d38a7776e362e4de6082078d803c1c9358d9d40526edfe4bdfd29c552aef76d8"
 [[files]]
 file = "config/konkrete/locals/pt_br.local"
 hash = "dca55a2792451b31424cd5c24037141ec57cdca51955d062dd908fa9ca6a3e9c"
-
-[[files]]
-file = "config/lambdynlights.toml"
-hash = "b0fc84a340992593877722b2883ad5ff6e78db36fdb55751f393d82693865022"
 
 [[files]]
 file = "config/lithostitched.json"
