@@ -78,7 +78,7 @@
 [notifications]
 	#configuration options for notifications
 	#prevent notifications of decaying or refreshed chests
-	disable_notifications = false
+	disable_notifications = true
 	#maximum time (in ticks) remaining on a chest before a notification for refreshing or decaying is sent to a player (default 30 seconds, -1 for no delay)
 	# Default: 600
 	# Range: > -1
@@ -112,13 +112,13 @@
 	#how long (in ticks) a refreshing loot containers should take to refresh their contents (default 20 minutes = 20 * 60 * 20)
 	# Default: 24000
 	# Range: > 0
-	refresh_value = 24000
+	refresh_value = 72000
 	#list of loot tables which will refresh (default blank, meaning no chests refresh, in the format of ["modid:loot_table", "othermodid:loot_table"])
 	refresh_loot_tables = []
 	#list of mod IDs whose loot tables will refresh (default blank, meaning no chests refresh, in the format of ["modid", "othermodid"])
 	refresh_modids = []
 	#list of dimensions where loot chests should automatically refresh (default: blank, e.g., ["minecraft:overworld", "othermod:otherdimension"])
-	refresh_dimensions = []
+	refresh_dimensions = [minecraft:overworld, minecraft:the_nether, aether:the_aether, minecraft:the_end]
 	#containers that have already been marked as refreshing will be refreshed during level tick as well as when next trapped
 	perform_refresh_while_ticking = true
 	#containers that have not yet been marked as refreshing will be marked for refresh during level tick as well as when next trapped
