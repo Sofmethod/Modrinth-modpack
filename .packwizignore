@@ -3,3 +3,5 @@ README.md
 config/neoforge-common.toml
 config/neoforge-client.toml
 config/neoforge-server.toml
+default.cfg
+default.cfg.json
