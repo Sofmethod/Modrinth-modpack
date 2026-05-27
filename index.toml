@@ -990,7 +990,7 @@ hash = "4da5bc00c2cc7db774e16f6905929303bfca802367d49133ba9742a6330238ad"
 
 [[files]]
 file = "config/lootr-common.toml"
-hash = "cb848383f0abff383a96a6cbf59bb91135cce38cb71711f3ffe5baca20fabf9a"
+hash = "8b81908685ddb3a21614795be065be8b6b64fe14fcd84779a11c77f2bea8e50e"
 
 [[files]]
 file = "config/meadow-common.toml"
@@ -2455,6 +2455,10 @@ metafile = true
 file = "mods/yungs-bridges.pw.toml"
 hash = "9d9b074b2425fc4f19808b7d6df4a0baeae39a37e909107aaa85004df1a2d195"
 metafile = true
+
+[[files]]
+file = "options.txt"
+hash = "109834c71206ab46a0042fb9834c5213c94967e66930d0d7c9e954e2789532cd"
 
 [[files]]
 file = "resourcepacks/Aether_Excalibur_Support.zip"
