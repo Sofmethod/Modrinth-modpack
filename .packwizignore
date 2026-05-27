@@ -1,7 +1,0 @@
-documentation/
-README.md
-config/neoforge-common.toml
-config/neoforge-client.toml
-config/neoforge-server.toml
-config/default.cfg
-config/default.cfg.json
