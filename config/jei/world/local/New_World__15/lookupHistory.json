@@ -1,0 +1,8 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"minecraft:saddle"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"swem:adventure_saddle_elven"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"swem:adventure_saddle_sultan"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"swem:english_saddle_brown"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"swem:english_saddle_black"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,6 @@
+#number of rows used for last modified history pins
+# Default: 5
+# Range: 1 ~ 12
+historyRows = 5
+#show debug classification logs in minecraft chat
+debugChat = false
