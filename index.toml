@@ -2322,11 +2322,6 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
-file = "mods/room-for-two.pw.toml"
-hash = "e16c56fb3fdcf4bd2001f719bf2cb523f935d60fd7d1bd54a5d534199f7c9a4d"
-metafile = true
-
-[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
