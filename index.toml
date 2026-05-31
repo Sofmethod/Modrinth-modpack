@@ -1472,6 +1472,11 @@ hash = "cc3f6e6e8f1838d16e47cce9241e32176279673efb1438ff4451ccffa9579b14"
 metafile = true
 
 [[files]]
+file = "mods/alltheleaks.pw.toml"
+hash = "7e03652d2003566873ab5103454f7c537471d6c2fea1c2f614507b33ef4434f7"
+metafile = true
+
+[[files]]
 file = "mods/ambientsounds.pw.toml"
 hash = "f3d66527c4f82b44d9409f643332bc15f91b85f033afe147e3d8b421c0ea6d1e"
 metafile = true
@@ -1537,8 +1542,28 @@ hash = "5a21b57951f08465ee9a49e5a7650655291dd441e8ee114c6a7c7caf0a180527"
 metafile = true
 
 [[files]]
+file = "mods/async-locator-refined.pw.toml"
+hash = "45f7a72d3b963282b21664f6c2743f2fa7c8f1a00ce220953fe11b4462e205e7"
+metafile = true
+
+[[files]]
+file = "mods/asynclogger.pw.toml"
+hash = "025fb4216591299e20946b6594ebf8450ccaf7e4ae833a87519ef913ff0caeb1"
+metafile = true
+
+[[files]]
 file = "mods/athena-ctm.pw.toml"
 hash = "f54cf71372645810ce22b0ba68e706139565437150e4cfd22bde4c14606099c4"
+metafile = true
+
+[[files]]
+file = "mods/attributefix.pw.toml"
+hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
+metafile = true
+
+[[files]]
+file = "mods/attributification.pw.toml"
+hash = "7813a1f53221b3210d52db22b8a16b397c3a073dbc60cd9acba584f4e7c6bceb"
 metafile = true
 
 [[files]]
@@ -1549,6 +1574,11 @@ metafile = true
 [[files]]
 file = "mods/backport-copper-age.pw.toml"
 hash = "61854b1ff0419be14d2a4fa1b70b382633e529a95b338c59fbd3f5c47ded96be"
+metafile = true
+
+[[files]]
+file = "mods/badoptimizations.pw.toml"
+hash = "dd56ff2bcc4253d1d70c08333632743fb56cdc4cf5518dc6afc024164633145d"
 metafile = true
 
 [[files]]
@@ -1574,6 +1604,11 @@ metafile = true
 [[files]]
 file = "mods/better-third-person.pw.toml"
 hash = "e1f1588b18947699ddc9b4f7c5b5406c5559155b8cb52dcd0f203c07c31cd0b8"
+metafile = true
+
+[[files]]
+file = "mods/betterf3.pw.toml"
+hash = "c9aca350959a8936b054c7164fb55d789ab1e0d38cff2af48b78f70af2bc0c6d"
 metafile = true
 
 [[files]]
@@ -1609,6 +1644,11 @@ metafile = true
 [[files]]
 file = "mods/caelus.pw.toml"
 hash = "992b0dca9683f225fc774d779762d18a009f2d82b9d051e7c0b55a33a95d9238"
+metafile = true
+
+[[files]]
+file = "mods/calm-the-leaks-ctl.pw.toml"
+hash = "91a1f4840b4bcd7c39e414e5c706167b3bb9d283eb46641196c5d03a72d9021a"
 metafile = true
 
 [[files]]
@@ -1847,6 +1887,11 @@ hash = "a8bd418c6fa0d8fafaeeff65467261713ddd0698f4bd7d6e08b4df8f78303910"
 metafile = true
 
 [[files]]
+file = "mods/effectification.pw.toml"
+hash = "d2bf2d2cfb679fa14d3d4a3f384bc4847e4d807876d4d10db22ae848a0803b34"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "9e2b351f3cabb1252259f5383e6f2fec3e3d90534dbecddef4ed183eba42f35a"
 metafile = true
@@ -1864,6 +1909,11 @@ metafile = true
 [[files]]
 file = "mods/entitytexturefeatures.pw.toml"
 hash = "cf7390cf06a861f7661222773371b429fce4fdd359240ca3c0eff20835471c0c"
+metafile = true
+
+[[files]]
+file = "mods/esc-extra-special-core.pw.toml"
+hash = "fdf2699ffb45d85cda7cf0d2d811ffb125277db657b71b006c8b0e013e5b3846"
 metafile = true
 
 [[files]]
@@ -1944,6 +1994,11 @@ metafile = true
 [[files]]
 file = "mods/iceandfire-ce.pw.toml"
 hash = "3bf33cdda984b2275588cd1b3e0723e3ba2cc817db33d88ffa00c92063a23aa7"
+metafile = true
+
+[[files]]
+file = "mods/iceberg.pw.toml"
+hash = "a2fbecad69fcbff54919864ea8b95e54d140a1a2c637d73307fb366e76066fe6"
 metafile = true
 
 [[files]]
@@ -2034,6 +2089,11 @@ metafile = true
 [[files]]
 file = "mods/ldlib.pw.toml"
 hash = "ddf310eef4cd98907b821b1ea07ddf77a2e70d2effb4fd709fe4a0e662f4ebd5"
+metafile = true
+
+[[files]]
+file = "mods/legendary-tooltips.pw.toml"
+hash = "9ca14134538c66b6d8ef74107f6b15ba9487ec632d984427e84ad38aa47afa60"
 metafile = true
 
 [[files]]
@@ -2229,6 +2289,11 @@ metafile = true
 [[files]]
 file = "mods/prickle.pw.toml"
 hash = "c99c5bac469e8d6ece5aae80f08635e3bbb8367f0c586b6288573c725faefe69"
+metafile = true
+
+[[files]]
+file = "mods/prism-lib.pw.toml"
+hash = "d9b38ba42434eb436d036b1c8add839bee003240dc85cc54ec626aac58c59070"
 metafile = true
 
 [[files]]
@@ -2473,10 +2538,6 @@ file = "resourcepacks/Better Fitting XP Mana Bar for Iron's Spells 'n Spellbooks
 hash = "a73bcf7ec24494c1dc20ed612c22d0739b08923325d74d2c664b0fb200b28f7a"
 
 [[files]]
-file = "resourcepacks/Better+Lanterns+v1.2(mc-1.21).zip"
-hash = "2b1c802be7207ac488c071ba79f54ea44227bd5d7d815f16a710a4e25da8d385"
-
-[[files]]
 file = "resourcepacks/Better-Leaves-9.5.zip"
 hash = "5480640cb2f7674da4f2897ebc48b29a436706614160f4d4d8ad0ead5150fea6"
 
@@ -2489,16 +2550,8 @@ file = "resourcepacks/EclecticTrove-1.20.1-1.3.0.zip"
 hash = "6f7b33c0339094c8038ed1c00a51d72fd454ae552974b5f8f632d0a6318903eb"
 
 [[files]]
-file = "resourcepacks/Ender_Dragon_Reborn-1.0.zip"
-hash = "28d91cf5c91d444147f1ae56de66c360684331dac5c3c8ddb54b9e9a0251f368"
-
-[[files]]
 file = "resourcepacks/FA+All_Extensions-v1.8.1.zip"
 hash = "420ad586300bb4164ff441460ae0d1b2be68933cfd9321746fcef173c0437015"
-
-[[files]]
-file = "resourcepacks/Fancy Crops v1.3.zip"
-hash = "0c26af02ec87d523e195cab9638391febbc0ce39bff3a8978d44b88e28771755"
 
 [[files]]
 file = "resourcepacks/Fire_Rekindled.zip"
@@ -2513,16 +2566,8 @@ file = "resourcepacks/HumanEraVillagersIllagers[3.9].zip"
 hash = "72b99b7b04f30806228b4e987c5f72e467a7fbd6beb1b08adfca0e88867cef94"
 
 [[files]]
-file = "resourcepacks/Simply Swords Reforged v1.zip"
-hash = "6e64be03e2c8d957d29982ba5508f83ab87e4bdd59f14799f697237ba985ce1a"
-
-[[files]]
 file = "resourcepacks/§3Fresh §bFlower Pots.zip"
 hash = "cb3b1daedc1bd04de8659c5769591c607c1d16eb9ad06033990e1715414f391e"
-
-[[files]]
-file = "resourcepacks/§a§lVocal Villagers §r§71.2.zip"
-hash = "c1be212badf20664ed69f098dc68dd6785259c2f1ad30937b00a9f926aefd693"
 
 [[files]]
 file = "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip"
