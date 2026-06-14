@@ -1967,11 +1967,6 @@ hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
-file = "mods/gregtechceu-modern.pw.toml"
-hash = "b720e13a9d96e0d79a9a691f5cee6be60747166df2f702579bbe577e155df597"
-metafile = true
-
-[[files]]
 file = "mods/guard-villagers.pw.toml"
 hash = "fb635e99e8d2f90b5e682820384eb06ec91c188c34b09e16cf41e21f10b7001b"
 metafile = true
