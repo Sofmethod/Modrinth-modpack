@@ -2182,6 +2182,10 @@ hash = "971daeffde0d98b6b1ae9d5808c6cadc3bda9ac29acb3f86b57e6a324f86d8cb"
 metafile = true
 
 [[files]]
+file = "mods/modchecker-1.0.0.jar"
+hash = "307b216807f23b068f23522e7b06e2c963746361d627a7b982ba942a5a978577"
+
+[[files]]
 file = "mods/modern-industrialization.pw.toml"
 hash = "3792eaccd0f29d9bacc9e97cccd40b691c54439ae10c0fe362dfbf08c57000e1"
 metafile = true
