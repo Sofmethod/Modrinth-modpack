@@ -1872,6 +1872,11 @@ hash = "83402557610741e3750f40b2633f20bf89a18ead8b0976799cbc6795ae4e99f0"
 metafile = true
 
 [[files]]
+file = "mods/dynamicsurroundingsfabric.pw.toml"
+hash = "4995541fb5da57ab155931be858b4c5073c9d9c8bd171e32e09d04fc336685df"
+metafile = true
+
+[[files]]
 file = "mods/dynamictrees.pw.toml"
 hash = "9b3916150da735ecfdb30e9cbfb54f51e90532bf1d3e995e84fb09e25c7e0e6f"
 metafile = true
@@ -2170,6 +2175,10 @@ metafile = true
 file = "mods/merequester.pw.toml"
 hash = "971daeffde0d98b6b1ae9d5808c6cadc3bda9ac29acb3f86b57e6a324f86d8cb"
 metafile = true
+
+[[files]]
+file = "mods/modchecker-1.0.0.jar"
+hash = "a2d8bb00bee9c6c935a5be631dc1f33ce8fc3f3938bdfb9b120dd390fe5274e6"
 
 [[files]]
 file = "mods/modern-industrialization.pw.toml"
