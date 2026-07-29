@@ -2087,6 +2087,11 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
+file = "mods/lambdynamiclights.pw.toml"
+hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
+metafile = true
+
+[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "ddf310eef4cd98907b821b1ea07ddf77a2e70d2effb4fd709fe4a0e662f4ebd5"
 metafile = true
@@ -2328,6 +2333,11 @@ metafile = true
 [[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
+metafile = true
+
+[[files]]
+file = "mods/sable-new-sodium-compat.pw.toml"
+hash = "bf7813d122ef675aeddc4c3f2edb448e019fb5a9dbeb60be50e1bc8f60fafd3a"
 metafile = true
 
 [[files]]
