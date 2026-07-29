@@ -1707,6 +1707,11 @@ hash = "1a3eaa6747c1467a235ee17c29c5e0b264ecb3ac1108d2f794d803b95be92660"
 metafile = true
 
 [[files]]
+file = "mods/connector.pw.toml"
+hash = "dfc42a26ddd76ee99cad6f023e0c14c82cbb91d2338f7eeac678a05e3e2a13fa"
+metafile = true
+
+[[files]]
 file = "mods/copycats+-aeronautics-weight.pw.toml"
 hash = "a1e68ec75524eb10a4522c27e3429a43c22861ac3c081686bd948a06bc4cfc91"
 metafile = true
