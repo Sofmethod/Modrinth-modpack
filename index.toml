@@ -2087,11 +2087,6 @@ hash = "27302b0087cf53570cd7a3b4eb550a208cbb6f6ba07210c604176155f39e0078"
 metafile = true
 
 [[files]]
-file = "mods/lambdynamiclights.pw.toml"
-hash = "b85d562b35f68cdbb0f79bbdebc11cb938002c727d9f982ed5743c8488c74ac7"
-metafile = true
-
-[[files]]
 file = "mods/ldlib.pw.toml"
 hash = "ddf310eef4cd98907b821b1ea07ddf77a2e70d2effb4fd709fe4a0e662f4ebd5"
 metafile = true
@@ -2388,6 +2383,11 @@ metafile = true
 [[files]]
 file = "mods/stellaris.pw.toml"
 hash = "21f98908d94bfdf05ebaedc2142a9edc82d1549c8fff601bca5fba3de28bc2c2"
+metafile = true
+
+[[files]]
+file = "mods/supplementaries.pw.toml"
+hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
 metafile = true
 
 [[files]]
