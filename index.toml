@@ -2327,7 +2327,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+hash = "14dd933b66ac458d9fcf4cdee8752231537307dd8de568107aea4dbb0a5fdf24"
 metafile = true
 
 [[files]]
@@ -2343,6 +2343,11 @@ metafile = true
 [[files]]
 file = "mods/simply-tooltips.pw.toml"
 hash = "320d755339086e8fb35709328ad7b094ecbf7c500d61c08c535ec7d277fe1053"
+metafile = true
+
+[[files]]
+file = "mods/simulated-copycats.pw.toml"
+hash = "bfe046bda32074d85647395e9eca88ff6d6d29c4b762866de437d302b81c9d53"
 metafile = true
 
 [[files]]
