@@ -2517,7 +2517,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "109834c71206ab46a0042fb9834c5213c94967e66930d0d7c9e954e2789532cd"
+hash = "32a7fe3a83b7991f4d84ef078e5daff9081213a1adda7e121701f64e25fc60ac"
 
 [[files]]
 file = "resourcepacks/Alacrity.zip"
@@ -2558,6 +2558,10 @@ hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
 [[files]]
 file = "resourcepacks/HumanEraVillagersIllagers[3.9].zip"
 hash = "72b99b7b04f30806228b4e987c5f72e467a7fbd6beb1b08adfca0e88867cef94"
+
+[[files]]
+file = "resourcepacks/golems-refreshed-fa-v2.1.zip"
+hash = "6faad4a859a969d7624e92570f4c52b5b4c23736ffc30526e544f8cc9b209e76"
 
 [[files]]
 file = "resourcepacks/§3Fresh §bFlower Pots.zip"
