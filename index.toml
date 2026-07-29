@@ -1707,11 +1707,6 @@ hash = "1a3eaa6747c1467a235ee17c29c5e0b264ecb3ac1108d2f794d803b95be92660"
 metafile = true
 
 [[files]]
-file = "mods/connector.pw.toml"
-hash = "dfc42a26ddd76ee99cad6f023e0c14c82cbb91d2338f7eeac678a05e3e2a13fa"
-metafile = true
-
-[[files]]
 file = "mods/continuity.pw.toml"
 hash = "2e082857985c7550efdad38a1997b9805051b07fb61b0cd30921e786a8521130"
 metafile = true
@@ -2337,7 +2332,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "14dd933b66ac458d9fcf4cdee8752231537307dd8de568107aea4dbb0a5fdf24"
+hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
 metafile = true
 
 [[files]]
