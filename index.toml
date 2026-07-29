@@ -2327,7 +2327,7 @@ metafile = true
 
 [[files]]
 file = "mods/sable.pw.toml"
-hash = "674aaf0dc67f808f0054cfc7bbe041d6725fcbbe97644a85ffbd946a22d35666"
+hash = "14dd933b66ac458d9fcf4cdee8752231537307dd8de568107aea4dbb0a5fdf24"
 metafile = true
 
 [[files]]
@@ -2382,7 +2382,7 @@ metafile = true
 
 [[files]]
 file = "mods/supplementaries.pw.toml"
-hash = "805c7b44181e5826bdbf4fcc21b14d93cd8ff656747356d325a5cb81a8fa3de5"
+hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
 metafile = true
 
 [[files]]
