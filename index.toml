@@ -2201,6 +2201,11 @@ hash = "90e374f5744d552d2a14d8dec41247810c0ef9994d958f9a57d359bb03103115"
 metafile = true
 
 [[files]]
+file = "mods/monocle-iris.pw.toml"
+hash = "5c55ae702f7ba33591e458deda0d5f769d8bfb8adbe249f212cd603d6c28f04b"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "688a2fcd58d20df93c57e571b054b3c582932a795a255dc13c65b055dc1880b1"
 metafile = true
