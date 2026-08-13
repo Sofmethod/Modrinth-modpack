@@ -1085,6 +1085,10 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/datapacks/swem_replacer.zip"
+hash = "7e0d049e71ea8ce75250cdd77c0718e87a8eddd02d1776b4080772ca484af0ed"
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -1767,11 +1771,6 @@ hash = "52f8600e5c7ab7358bee923cfff7cd2428d7599cb1ff3c0fdbd373330f770587"
 metafile = true
 
 [[files]]
-file = "mods/create-mechanical-companion.pw.toml"
-hash = "bb0261a22d16696bcd0b86b937b00dd49a8fe9fd8df08c7ba2818fc74d408004"
-metafile = true
-
-[[files]]
 file = "mods/create-ore-excavation.pw.toml"
 hash = "10d3389f72e8e8f78518f5b6786ccec4e62dbad117491d2970e8e1f75e390251"
 metafile = true
@@ -1784,11 +1783,6 @@ metafile = true
 [[files]]
 file = "mods/create-steam-n-rails-1.21.1.pw.toml"
 hash = "7c9a7c6b0ba555d29cdff0c2874dfee7d1cd7807f084fcf08b3820b382dc3cb8"
-metafile = true
-
-[[files]]
-file = "mods/create-stellaris.pw.toml"
-hash = "9ae4ab8fe5a73e1f78bf0991f16a9c6d592e0b85f30601fe37b7f26cf0782f58"
 metafile = true
 
 [[files]]
@@ -2378,11 +2372,6 @@ metafile = true
 [[files]]
 file = "mods/squat-grow.pw.toml"
 hash = "6514d9db32d069dcc96b04075e2514d9dd1c63702424843b00336dc392c1630d"
-metafile = true
-
-[[files]]
-file = "mods/stellaris.pw.toml"
-hash = "21f98908d94bfdf05ebaedc2142a9edc82d1549c8fff601bca5fba3de28bc2c2"
 metafile = true
 
 [[files]]
