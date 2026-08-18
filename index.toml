@@ -834,7 +834,7 @@ hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
 
 [[files]]
 file = "config/immediatelyfast.json"
-hash = "a6c9d147a51c9e432c5c74c00285cfc5ba8b6fa4a0c6686051a7168b158d0d7a"
+hash = "030d7c2c4b33a367d6e0ac009e0c47523c61d38ccb9fb68ea920f773645d6f19"
 
 [[files]]
 file = "config/immersivewind.json"
@@ -1086,7 +1086,7 @@ hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
 file = "config/paxi/datapacks/swem_replacer.zip"
-hash = "7e0d049e71ea8ce75250cdd77c0718e87a8eddd02d1776b4080772ca484af0ed"
+hash = "c66e1e6af154a012e54b1533ab24da90cdfd98b3cefd507aa5aa6f25fb81da1c"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
