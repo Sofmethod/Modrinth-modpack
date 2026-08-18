@@ -1082,11 +1082,7 @@ hash = "1c060e845e29386597054765729f34b0933fa3d1ff75cdd686a4e925cfe973d8"
 
 [[files]]
 file = "config/paxi/datapack_load_order.json"
-hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
-
-[[files]]
-file = "config/paxi/datapacks/swem_replacer.zip"
-hash = "c66e1e6af154a012e54b1533ab24da90cdfd98b3cefd507aa5aa6f25fb81da1c"
+hash = "68a9d72c091124fd2b84ccc8b5dd64b9767dd5f28c33f02be545c88d84724dea"
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -1435,10 +1431,6 @@ hash = "58c9270f258d0b224bb7d0f7c927544d5fbe5f1b8027c820e1e14ecbf48fb88c"
 [[files]]
 file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
-
-[[files]]
-file = "datapacks/swem_replacer.zip"
-hash = "7e0d049e71ea8ce75250cdd77c0718e87a8eddd02d1776b4080772ca484af0ed"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
