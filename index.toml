@@ -2514,10 +2514,6 @@ file = "options.txt"
 hash = "32a7fe3a83b7991f4d84ef078e5daff9081213a1adda7e121701f64e25fc60ac"
 
 [[files]]
-file = "resourcepacks/Alacrity.zip"
-hash = "c7546767e3cdd5594487f3e3d536fdfc5eb544425f4d508a54d945562f7bf1fd"
-
-[[files]]
 file = "resourcepacks/Ashen_16x.zip"
 hash = "c798463a9dd0a1cc0baebbaed2f19d670e26a12f31e77ff0fde94c94b06c03cb"
 
