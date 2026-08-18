@@ -2445,13 +2445,18 @@ hash = "3aedb6e42a2edc20e2c2ba06bbc94b0dd370322e87314c085331db01b160f061"
 metafile = true
 
 [[files]]
+file = "mods/world-preview-neoforged-(unofficial).pw.toml"
+hash = "e7b937eee11430edcddc8985d59c7fddb8bd818a04b74d1b5f69cb19cb216320"
+metafile = true
+
+[[files]]
 file = "mods/xaeros-minimap.pw.toml"
-hash = "3f9e51bfceabca41c537e58b8767bdb4273fdafe9f08bc472ebc255554617ad2"
+hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
 metafile = true
 
 [[files]]
 file = "mods/xaeros-world-map.pw.toml"
-hash = "66f85f7c21c70440f919d91a96190854c9af6b50f2214153ea0ab0a5c949ccdc"
+hash = "7481488cc878ce36f7cd69acfff4ffcdc24470916692a54798239331934c9a58"
 metafile = true
 
 [[files]]
