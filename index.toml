@@ -2445,11 +2445,6 @@ hash = "3aedb6e42a2edc20e2c2ba06bbc94b0dd370322e87314c085331db01b160f061"
 metafile = true
 
 [[files]]
-file = "mods/world-preview-neoforged-(unofficial).pw.toml"
-hash = "e7b937eee11430edcddc8985d59c7fddb8bd818a04b74d1b5f69cb19cb216320"
-metafile = true
-
-[[files]]
 file = "mods/xaeros-minimap.pw.toml"
 hash = "4c336c9a00838ff5b5bbf6cd8ae35927186fdfa42258ca15513835e1b12ced2f"
 metafile = true
