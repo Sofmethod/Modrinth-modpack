@@ -1434,7 +1434,7 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "datapacks/swem_replacer.zip"
-hash = "6e19aa7268535efb69756c39ec690323239b1e9cd486ee8cf319c5b413559c7b"
+hash = "255b8cbdddff72b3ce3fb32769eb96b51ce373e7ce1c843962abd43625a2b8f5"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
