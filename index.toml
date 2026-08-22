@@ -830,7 +830,7 @@ hash = "cb326e55a4a76c4741c031ce61b48f96b56dbc327792d457f4eb7894d6a0fad7"
 
 [[files]]
 file = "config/iceandfire/iaf-common.json"
-hash = "a520e5e7909c9e50d1857874f853e6fafff8ac106fabff239868d5c57a57b546"
+hash = "b0760bf32129c15824311b24a5478d64749a7508ba4a51b63035bcab2ed3b041"
 
 [[files]]
 file = "config/immediatelyfast.json"
@@ -1967,11 +1967,6 @@ hash = "e53646f88aeb6bd54c38db50da972abdac91e83c145a8f974107b0ca103b15bc"
 metafile = true
 
 [[files]]
-file = "mods/guard-villagers.pw.toml"
-hash = "fb635e99e8d2f90b5e682820384eb06ec91c188c34b09e16cf41e21f10b7001b"
-metafile = true
-
-[[files]]
 file = "mods/guideme.pw.toml"
 hash = "012e69931380a8d5b73776d255292d7d4c2cd12089273807dda56f944568eba0"
 metafile = true
@@ -2169,6 +2164,11 @@ metafile = true
 [[files]]
 file = "mods/merequester.pw.toml"
 hash = "971daeffde0d98b6b1ae9d5808c6cadc3bda9ac29acb3f86b57e6a324f86d8cb"
+metafile = true
+
+[[files]]
+file = "mods/minecraft-comes-alive-reborn.pw.toml"
+hash = "21fd5aa24c3dcd3da912d6f0fd37df905c108bf613a18bafe9bb97ee2576b42c"
 metafile = true
 
 [[files]]
