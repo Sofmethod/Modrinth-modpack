@@ -15,7 +15,7 @@
 	#Slowness multiplier for blocks
 	# Default: 1.0
 	# Range: 0.0 ~ 1.7976931348623157E308
-	blockSlownessMultiplier = 1.0
+	blockSlownessMultiplier = 0.5
 	#Slowness multiplier for entities
 	# Default: 1.0
 	# Range: 0.0 ~ 1.7976931348623157E308
