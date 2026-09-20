@@ -1,0 +1,13 @@
+name = "Bonsai Crops"
+filename = "BonsaiCrops-0.1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/YBkmr9Ac/versions/4RpaQ4jK/BonsaiCrops-0.1.1.0.jar"
+hash-format = "sha512"
+hash = "71c291ebdedc07f0f12394f96df37b685f9f5e24e897a900f66edf470f7c0bded69a84e7e9b6a19aa731fca07357bab8bc8096933fb06822e593a7dad85fdacb"
+
+[update]
+[update.modrinth]
+mod-id = "YBkmr9Ac"
+version = "4RpaQ4jK"
