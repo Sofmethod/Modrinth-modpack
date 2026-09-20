@@ -1,0 +1,583 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "wood_types"
+	group: "0ED556B59D6FCF3A"
+	id: "3786C0B6F51C02CE"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			id: "2C74D4B2ACF00CFA"
+			rewards: [
+				{
+					count: 4
+					id: "6012FEFB58A3B8F9"
+					item: {
+						count: 1
+						id: "regions_unexplored:pine_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "4C9BA3B911A26814"
+					item: {
+						count: 1
+						id: "minecraft:spruce_log"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "biomesoplenty:jade_cliffs"
+				icon: {
+					id: "regions_unexplored:pine_log"
+				}
+				id: "1A5E3C12EE82E83D"
+				type: "biome"
+			}]
+			x: 1.0d
+			y: 0.0d
+		}
+		{
+			id: "46E757D731899EC7"
+			rewards: [{
+				count: 4
+				id: "1BACD13CCA257205"
+				item: {
+					count: 1
+					id: "biomesoplenty:jacaranda_log"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "biomesoplenty:lavender_field"
+				icon: {
+					id: "biomesoplenty:jacaranda_log"
+				}
+				id: "66323B5CFFB067B3"
+				type: "biome"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			id: "2B0F58DB42896C0B"
+			rewards: [
+				{
+					count: 4
+					id: "4DF2CE4C5A22C51C"
+					item: {
+						count: 1
+						id: "minecraft:oak_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "7107C0A1CE5CC63D"
+					item: {
+						count: 1
+						id: "minecraft:dark_oak_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "2CA30B58F042EA4D"
+					item: {
+						count: 1
+						id: "minecraft:spruce_log"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "biomesoplenty:mediterranean_forest"
+				icon: {
+					id: "minecraft:quartz_pillar"
+				}
+				id: "10EB7F398F1E902C"
+				type: "biome"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			hide_details_until_startable: false
+			id: "06BD42EB56E4C793"
+			rewards: [{
+				count: 4
+				id: "393E1466C48C5179"
+				item: {
+					count: 1
+					id: "minecraft:oak_log"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "biomesoplenty:old_growth_woodland"
+					icon: {
+						id: "minecraft:oak_wood"
+					}
+					id: "6E418B80336711FE"
+					type: "biome"
+				}
+				{
+					biome: "biomesoplenty:spider_nest"
+					icon: {
+						id: "supplementaries:spider_head"
+					}
+					id: "3D206BB9466D0994"
+					type: "biome"
+				}
+				{
+					biome: "biomesoplenty:wintry_origin_valley"
+					icon: {
+						id: "minecraft:snowball"
+					}
+					id: "5BE0ACEFFE72A61A"
+					type: "biome"
+				}
+				{
+					biome: "biomeswevegone:prairie"
+					icon: {
+						id: "biomesoplenty:wildflower"
+					}
+					id: "35D7401C339B25BC"
+					type: "biome"
+				}
+				{
+					biome: "biomesoplenty:orchard"
+					icon: {
+						id: "minecraft:apple"
+					}
+					id: "0B69E2BB14E01BD7"
+					type: "biome"
+				}
+				{
+					biome: "biomeswevegone:lush_stacks"
+					icon: {
+						id: "minecraft:moss_block"
+					}
+					id: "0B2A0B697AEE5977"
+					type: "biome"
+				}
+				{
+					biome: "biomeswevegone:mojave_desert"
+					icon: {
+						id: "chipped:desert_sand"
+					}
+					id: "2DC7C295D6DA358D"
+					type: "biome"
+				}
+			]
+			x: 4.5d
+			y: -3.0d
+		}
+		{
+			id: "33E2F11468128911"
+			rewards: [{
+				count: 4
+				id: "264B7E4D942B3094"
+				item: {
+					count: 1
+					id: "regions_unexplored:redwood_log"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "biomesoplenty:redwood_forest"
+				icon: {
+					id: "regions_unexplored:redwood_log"
+				}
+				id: "3482A85B6C3423B9"
+				type: "biome"
+			}]
+			x: 0.0d
+			y: -1.0d
+		}
+		{
+			id: "27D4F63F7A8E732C"
+			rewards: [
+				{
+					count: 4
+					id: "24262B4F95CEF4A4"
+					item: {
+						count: 1
+						id: "regions_unexplored:maple_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "2C52F92D39B16B4F"
+					item: {
+						count: 1
+						id: "minecraft:oak_log"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "biomesoplenty:seasonal_forest"
+				icon: {
+					id: "regions_unexplored:maple_log"
+				}
+				id: "58A434EDAA08A688"
+				type: "biome"
+			}]
+			x: 1.0d
+			y: -1.0d
+		}
+		{
+			id: "79CCA4A44F7720FE"
+			rewards: [
+				{
+					count: 4
+					id: "376532B21EFDBD3C"
+					item: {
+						count: 1
+						id: "minecraft:cherry_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "7EDBB33BDC048F97"
+					item: {
+						count: 1
+						id: "biomesoplenty:snowblossom_leaves"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "biomesoplenty:snowblossom_grove"
+				icon: {
+					id: "biomesoplenty:snowblossom_sapling"
+				}
+				id: "7390628EF60A18D7"
+				type: "biome"
+			}]
+			x: 2.0d
+			y: -1.0d
+		}
+		{
+			id: "4BC4FC3801F67FC3"
+			rewards: [
+				{
+					count: 4
+					id: "638F2177E48CD1E3"
+					item: {
+						count: 1
+						id: "minecraft:oak_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "2ADD4818BC70FD4A"
+					item: {
+						count: 1
+						id: "minecraft:jungle_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "045F0F91B7C385DC"
+					item: {
+						count: 1
+						id: "regions_unexplored:palm_log"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "biomesoplenty:tropics"
+				icon: {
+					id: "minecraft:jungle_log"
+				}
+				id: "03DFDB78DD00931E"
+				type: "biome"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			id: "629D42DE74AF96F5"
+			rewards: [
+				{
+					count: 4
+					id: "0A11CD75E72F06C8"
+					item: {
+						count: 1
+						id: "minecraft:oak_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "03809E1BE1E2C6F0"
+					item: {
+						count: 1
+						id: "regions_unexplored:maple_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "57F7AECB35E3F602"
+					item: {
+						count: 1
+						id: "regions_unexplored:dead_log"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "biomesoplenty:tundra"
+				icon: {
+					id: "minecraft:snow_block"
+				}
+				id: "13F5FE8198EFE53D"
+				type: "biome"
+			}]
+			x: 1.0d
+			y: -2.0d
+		}
+		{
+			id: "7EDED4398C74810E"
+			rewards: [
+				{
+					count: 4
+					id: "72EA0DC9ECFD26CC"
+					item: {
+						count: 1
+						id: "biomesoplenty:hellbark_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "23F767C0016CA124"
+					item: {
+						count: 1
+						id: "minecraft:oak_log"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "biomesoplenty:undergrowth"
+				icon: {
+					id: "biomesoplenty:hellbark_log"
+				}
+				id: "35FB819925953D78"
+				type: "biome"
+			}]
+			x: 0.0d
+			y: -2.0d
+		}
+		{
+			id: "3E84FC94F6F78186"
+			rewards: [{
+				count: 4
+				id: "5C191DDF94F74386"
+				item: {
+					count: 1
+					id: "minecraft:bamboo_block"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "minecraft:bamboo_jungle"
+				icon: {
+					id: "minecraft:bamboo_block"
+				}
+				id: "1B81C9DB0297CE41"
+				type: "biome"
+			}]
+			x: 2.0d
+			y: -3.0d
+		}
+		{
+			id: "026E836FE46F3022"
+			rewards: [
+				{
+					count: 4
+					id: "33407ED6A7D911EF"
+					item: {
+						count: 1
+						id: "regions_unexplored:cypress_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "17B734D2C0C2FE68"
+					item: {
+						count: 1
+						id: "regions_unexplored:willow_log"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "biomesoplenty:bayou"
+				icon: {
+					id: "regions_unexplored:cypress_log"
+				}
+				id: "3D2130FE8E8CC675"
+				type: "biome"
+			}]
+			x: 1.0d
+			y: -3.0d
+		}
+		{
+			id: "222F6C1D23EAB459"
+			rewards: [{
+				count: 4
+				id: "78236979A3C1A9A6"
+				item: {
+					count: 1
+					id: "regions_unexplored:larch_log"
+				}
+				type: "item"
+			}]
+			tasks: [
+				{
+					biome: "regions_unexplored:boreal_taiga"
+					icon: {
+						id: "regions_unexplored:larch_log"
+					}
+					id: "0FD9B6FE653F5E9A"
+					type: "biome"
+				}
+				{
+					biome: "regions_unexplored:cold_boreal_taiga"
+					icon: {
+						id: "regions_unexplored:larch_log"
+					}
+					id: "6D3CB1075B307B80"
+					type: "biome"
+				}
+			]
+			x: 0.0d
+			y: -3.0d
+		}
+		{
+			id: "24C5D7B514FA9D9A"
+			rewards: [
+				{
+					count: 4
+					id: "54F3047893482E70"
+					item: {
+						count: 1
+						id: "regions_unexplored:socotra_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "44975AF087C57318"
+					item: {
+						count: 1
+						id: "minecraft:acacia_log"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "regions_unexplored:dry_bushland"
+				icon: {
+					id: "regions_unexplored:socotra_log"
+				}
+				id: "3D227367F4965A35"
+				type: "biome"
+			}]
+			x: -1.0d
+			y: -3.0d
+		}
+		{
+			id: "4DA2595571DA2E5F"
+			rewards: [
+				{
+					count: 4
+					id: "770EE2D4E932D7AC"
+					item: {
+						count: 1
+						id: "regions_unexplored:pine_log"
+					}
+					type: "item"
+				}
+				{
+					count: 4
+					id: "6D4CC08C04A8BA9E"
+					item: {
+						count: 1
+						id: "regions_unexplored:dead_log"
+					}
+					type: "item"
+				}
+			]
+			tasks: [{
+				biome: "regions_unexplored:fen"
+				icon: {
+					id: "regions_unexplored:pine_log"
+				}
+				id: "103EE61ABD3C64AF"
+				type: "biome"
+			}]
+			x: -1.0d
+			y: -2.0d
+		}
+		{
+			id: "57A41798B97E17A0"
+			rewards: [{
+				id: "12C24EAF42A33AAC"
+				item: {
+					count: 1
+					id: "regions_unexplored:pine_log"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "regions_unexplored:fungal_fen"
+				icon: {
+					id: "regions_unexplored:stripped_pine_log"
+				}
+				id: "46B9D0896603E9FB"
+				type: "biome"
+			}]
+			x: -1.0d
+			y: -1.0d
+		}
+		{
+			id: "15892CAD50E5A0DB"
+			rewards: [{
+				count: 4
+				id: "6A8350CC9906ED49"
+				item: {
+					count: 1
+					id: "regions_unexplored:larch_log"
+				}
+				type: "item"
+			}]
+			tasks: [{
+				biome: "regions_unexplored:golden_boreal_taiga"
+				icon: {
+					id: "regions_unexplored:larch_log"
+				}
+				id: "2D60F69D508ED3B3"
+				type: "biome"
+			}]
+			x: -1.0d
+			y: 0.0d
+		}
+	]
+}

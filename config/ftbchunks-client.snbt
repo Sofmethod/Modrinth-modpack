@@ -137,7 +137,73 @@
 		# Show entity heads on minimap
 		# Default: true
 		entity_heads: true
-		entity_icon: { }
+		entity_icon: {
+			"naturalist:duck": true
+			"minecraft:axolotl": true
+			"naturalist:bass": true
+			"minecraft:chicken": true
+			"minecraft:glow_squid": true
+			"naturalist:cardinal": true
+			"iceandfire:hippocampus": true
+			"minecraft:parrot": true
+			"minecraft:drowned": true
+			"minecraft:squid": true
+			"minecraft:fox": true
+			"minecraft:cow": true
+			"irons_spellbooks:cryomancer": true
+			"creeperoverhaul:dripstone_creeper": true
+			"naturalist:boar": true
+			"minecraft:cave_spider": true
+			"iceandfire:lightning_dragon": true
+			"naturalist:snake": true
+			"minecraft:bee": true
+			"irons_spellbooks:necromancer": true
+			"minecraft:bat": true
+			"naturalist:deer": true
+			"minecraft:cod": false
+			"iceandfire:fire_dragon": true
+			"minecraft:rabbit": true
+			"minecraft:wolf": true
+			"mowziesmobs:elokosa_howler": true
+			"creeperoverhaul:cave_creeper": true
+			"naturalist:snail": true
+			"mekanismadditions:baby_creeper": true
+			"minecraft:zombie": true
+			"minecraft:sheep": true
+			"minecraft:allay": true
+			"artifacts:mimic": true
+			"naturalist:finch": true
+			"naturalist:firefly": true
+			"iceandfire:sea_serpent": true
+			"mca:female_zombie_villager": true
+			"minecraft:turtle": true
+			"mowziesmobs:ferrous_wroughtnaut": true
+			"creeperoverhaul:bamboo_creeper": true
+			"iceandfire:hippogryph": true
+			"iceandfire:pixie": true
+			"minecraft:witch": true
+			"naturalist:butterfly": true
+			"creeperoverhaul:badlands_creeper": true
+			"naturalist:giraffe": true
+			"minecraft:pig": true
+			"minecraft:pillager": true
+			"irons_spellbooks:pyromancer": true
+			"naturalist:bear": true
+			"minecraft:dolphin": true
+			"naturalist:elephant": true
+			"minecraft:donkey": true
+			"mowziesmobs:elokosa_follower_howler": true
+			"iceandfire:amphithere": true
+			"minecraft:spider": true
+			"minecraft:skeleton": true
+			"naturalist:sparrow": true
+			"minecraft:creeper": true
+			"naturalist:coral_snake": true
+			"naturalist:lizard": true
+			"minecraft:enderman": true
+			"naturalist:tortoise": true
+			"mekanismadditions:baby_skeleton": true
+		}
 		
 		# Minimap font scaling (values not a multiple of 0.5 may look bad)
 		# Default: 0.5

@@ -24,7 +24,7 @@ _version = 4
 				# Note: this is a best effort number. 
 				# The actual render distance may be above or below this number 
 				# depending on your other graphic settings.
-				lodChunkRenderDistanceRadius = 200
+				lodChunkRenderDistanceRadius = 125
 				#
 				# This indicates how far apart drops in LOD quality are. 
 				# 
@@ -499,7 +499,7 @@ _version = 4
 			#
 			# Should Distant Horizons silently, automatically download and install new versions? 
 			# This setting is force disabled on dedicated servers for stability reasons.
-			enableSilentUpdates = false
+			enableSilentUpdates = true
 			#
 			# If DH should use the nightly (provided by Gitlab), or stable (provided by Modrinth) build. 
 			# If [AUTO] is selected DH will update to new stable releases if the current jar is a stable jar 

@@ -1,0 +1,5 @@
+[
+  {"version":1},
+  {"ingredient":{"id":"mca:blueprint"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"morevillagers:blueprint_table"},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]
