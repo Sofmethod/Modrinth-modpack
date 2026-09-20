@@ -2951,6 +2951,11 @@ hash = "9d9b074b2425fc4f19808b7d6df4a0baeae39a37e909107aaa85004df1a2d195"
 metafile = true
 
 [[files]]
+file = "mods/zfastnoise.pw.toml"
+hash = "b24c213b8727e80ca559670e97971c735c4dc4be1d1a4bd637c41450e7654c1e"
+metafile = true
+
+[[files]]
 file = "options.txt"
 hash = "24f8891d3aa23547d62cc2f7c8e62b40f550d30212e15e1d6ae823c57377969b"
 
