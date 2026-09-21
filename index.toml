@@ -718,7 +718,7 @@ hash = "0b05a8814f09fead55b1901b7efab7d3ab87227ea3fc6b5e65a6197261832710"
 
 [[files]]
 file = "config/biomeswevegone/world_generation.json5"
-hash = "8acfc88eb5633675946aea3321b5eee206d3dd791e8ea89a63fa4008fbfa8869"
+hash = "e21520fdfee1d360a2a5a22ca86cd6688290333ce7734ae21faa11304a009a36"
 
 [[files]]
 file = "config/c2me.toml"
@@ -1153,8 +1153,8 @@ file = "config/ftbquests/quests/chapter_groups.snbt"
 hash = "5f2247a44360d6e3774a59bd09fda6d9d17485e61cee75a6fe6348c8ce75786c"
 
 [[files]]
-file = "config/ftbquests/quests/chapters/village.snbt"
-hash = "1ff507db151c46515c72d8b7eb6c0d1bc796c0914c7d90c929e4dd7cb746f95e"
+file = "config/ftbquests/quests/chapters/minecraft_comes_alive.snbt"
+hash = "01df2164556d36fb9a465126b71bbc58bf02331f406b97be672a970cecdc8abb"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/wood_types.snbt"
@@ -2579,6 +2579,11 @@ metafile = true
 [[files]]
 file = "mods/macaws-bridges.pw.toml"
 hash = "0c961c709297bcc89f2f07e1eb1049e4d21a331adb020f1786e5a9a0883e037c"
+metafile = true
+
+[[files]]
+file = "mods/maps3d.pw.toml"
+hash = "603ec08feeb61b4615c3a6de4e54aeb0beec71aed06cf7d7884abf3cd8dc0e6e"
 metafile = true
 
 [[files]]
