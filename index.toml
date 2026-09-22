@@ -1,6 +1,10 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/DistantHorizons.toml"
+hash = "edf28c11cd69f34a8597c6ca1269f3625ad7fb2553eed738d999a3111741d595"
+
+[[files]]
 file = "config/Mekanism/additions-client.toml"
 hash = "ea58e4998b6ad79626af3758814fc8e784b7a2f9047051c03a2f2d05cc888540"
 
@@ -718,7 +722,7 @@ hash = "e21520fdfee1d360a2a5a22ca86cd6688290333ce7734ae21faa11304a009a36"
 
 [[files]]
 file = "config/c2me.toml"
-hash = "c9bc6a620d82497cbfefdf21e2cd02e94979e20a735e7e5272762ffc94325586"
+hash = "6ecef0e71083e199bda6e0dd10ee98f469615e5188e07f02c73eb7d592336ae3"
 
 [[files]]
 file = "config/calmtheleaks-common.toml"
@@ -2175,11 +2179,6 @@ metafile = true
 [[files]]
 file = "mods/chipped.pw.toml"
 hash = "24c6c3fe917ffbcef04e788dec3e003d0ed03433bc00f9cf4f23fe9b85636aa7"
-metafile = true
-
-[[files]]
-file = "mods/chunky.pw.toml"
-hash = "1d5cc2b6dcfd1fc3adba4566b1c29b57ff1175316678c1f22e63cbc3e28a5ba0"
 metafile = true
 
 [[files]]
