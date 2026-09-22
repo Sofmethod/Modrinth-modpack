@@ -2537,11 +2537,6 @@ hash = "9d60cefdf3351e14d55928e572d4102c87b0e5792198884acaeb6a6ff66abd68"
 metafile = true
 
 [[files]]
-file = "mods/lets-do-bloomingnature.pw.toml"
-hash = "2c4c6fee2c93ccbbeaa0fe618c7f2b34bd54f0d8e911bbd644fd27b4fddeac76"
-metafile = true
-
-[[files]]
 file = "mods/lets-do-farm-charm.pw.toml"
 hash = "139243c0b47a2d89147289b8d9ef91178c1c2511f3060e00e3699d0e3adb226b"
 metafile = true
