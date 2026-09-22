@@ -1,10 +1,6 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/DistantHorizons.toml"
-hash = "f3a7c4a015604af18cf9d0398376a0a48f2b67c37150c4006ab6d5745d0c51c6"
-
-[[files]]
 file = "config/Mekanism/additions-client.toml"
 hash = "ea58e4998b6ad79626af3758814fc8e784b7a2f9047051c03a2f2d05cc888540"
 
@@ -1150,11 +1146,71 @@ hash = "122a0205ec0cbf63f1db42f24f6c5c6095f54083f2c4f985c473acd2e228988f"
 
 [[files]]
 file = "config/ftbquests/quests/chapter_groups.snbt"
-hash = "5f2247a44360d6e3774a59bd09fda6d9d17485e61cee75a6fe6348c8ce75786c"
+hash = "1a31720b61cebe41925e3e0ecf8eb5afa7d0d214d8c8f144bb21a6dca1a5d724"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/apotheosis.snbt"
+hash = "888f2ae67206c08d2d4ed3484c16047146018e89e4d8db024c1b9c0115d62df8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/apothic_enchanting.snbt"
+hash = "ac13773e84ecc73095ada964de7b5f7d1d8774675f363b85ad12d1acc7bb67b8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/arboretum.snbt"
+hash = "70fe3327439db88f3296453d69c19f27c3ece3da4be763690284169209e91303"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create.snbt"
+hash = "d8510cf9030460a85539b4660f483c6caa58776c2d36278905ded2c01dbeccb3"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_aeronautics.snbt"
+hash = "4701c3ab1c5dd33a55d597e5eb7f2c62d2820896c346f903c2cac07addcd2cea"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/create_ore_excavation.snbt"
+hash = "b49066a9c1a3bb3c1d0d6b94d6b00844f415d059ea45102f8ce1c2b58e5499dd"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/dragons_and_titans.snbt"
+hash = "2e9820fce200c01a6f7ce166157db9cda93d20db3b74ce802564efa0ecb9d4be"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/farm_and_charm.snbt"
+hash = "d98dc51ab2fa407123f3a0021e2b5624de1a4695537fe3ecf45489d5d56c4774"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/farmers_delight.snbt"
+hash = "1211f262e947aabbb866c39bb80662cd1035c6f82de720ad4c6e9c3710af188f"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/gear_paths.snbt"
+hash = "55b0a0eff2073873505d1a9042bc0e0193028600dc83253550905863f2d7fdd8"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/lets_do_vinery.snbt"
+hash = "2b02aa481b9bb419ef54bf806f4f40c217558cdc04063e7cc6ba0567891682e3"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/minecraft_comes_alive.snbt"
-hash = "01df2164556d36fb9a465126b71bbc58bf02331f406b97be672a970cecdc8abb"
+hash = "01f9cacf1990db408cb5a032341e0798f37f757cfe0f1be02692bedcb9f922f5"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/steam_n_rails.snbt"
+hash = "db4b1e7ddc441a23a44813d4d6325ff6c0fcbe5bbb73fd3380fc5da1b2b6f7fb"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/the_aether.snbt"
+hash = "7a7d9c8ed2f506e0e36438edb851d93c6a3075a8d1129073a06e67f1043c5eec"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/travelers_backpack.snbt"
+hash = "2a3e80167e2462547702405f041132c8b348fd255e7ebad903756287be414235"
+
+[[files]]
+file = "config/ftbquests/quests/chapters/vanilla_farming.snbt"
+hash = "a89d3d4a4ae066b155e044e2ef35dbdf4c4d692760487fa76768c614da8592b7"
 
 [[files]]
 file = "config/ftbquests/quests/chapters/wood_types.snbt"
@@ -1166,7 +1222,7 @@ hash = "29d47ae6d733546ee2443b53597cb260bc70327d34cc7ef8491e66d3cb5500e0"
 
 [[files]]
 file = "config/ftbquests/quests/lang/en_us.snbt"
-hash = "b8b0c30cf81db50a1312d481e81fed259bf7d5da41d868155dfedb889bbccdb9"
+hash = "edef66bbb238e619b2e343773b1812e1a5b3d4a3e3de84e6259380b04ced3e57"
 
 [[files]]
 file = "config/ftbteams-server.snbt"
