@@ -2886,6 +2886,11 @@ hash = "9cfdabfae56ec49c0c3939640e3149a2deebd33dc342f3585e0c82b9ac326ab6"
 metafile = true
 
 [[files]]
+file = "mods/survival-fly.pw.toml"
+hash = "365f17e8de174dc8f0412f3fac31c9d9d6eb212116e1426d371f90980a11e45e"
+metafile = true
+
+[[files]]
 file = "mods/swem.pw.toml"
 hash = "852c057649f166ceb1932d279802cd3dc62b1a63c36d259b6b668983214614d5"
 metafile = true
