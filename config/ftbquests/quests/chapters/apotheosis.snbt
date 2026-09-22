@@ -1,0 +1,360 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apotheosis"
+	group: "2A9BFF28FEFB9E39"
+	icon: {
+		id: "apotheosis:reforging_table"
+	}
+	id: "2F9F4DDEFC7AFF0F"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "apotheosis:boss_summoner"
+			}
+			id: "0ED0CDB0A7689CFE"
+			rewards: [{
+				id: "2A0D59EB79499C62"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apotheosis:progression/root"
+				criterion: ""
+				id: "1478E7E074EC4097"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["0ED0CDB0A7689CFE"]
+			icon: {
+				id: "minecraft:oak_sapling"
+			}
+			id: "3F6BD590DD3CC7E1"
+			rewards: [{
+				id: "2BDDBB78B5A1E38C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apotheosis:progression/haven"
+				criterion: ""
+				id: "32A3ED6497C90347"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3F6BD590DD3CC7E1"]
+			icon: {
+				id: "minecraft:iron_sword"
+			}
+			id: "225C8D823F52A868"
+			rewards: [{
+				id: "242EED8734761041"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apotheosis:progression/frontier"
+				criterion: ""
+				id: "0791BD3ED2FDFF6B"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["225C8D823F52A868"]
+			icon: {
+				id: "minecraft:blaze_powder"
+			}
+			id: "234689B74D934EE4"
+			rewards: [
+				{
+					count: 3
+					id: "0FFC5D121774F1DC"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "213695E63FC889A5"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "apotheosis:progression/ascent"
+				criterion: ""
+				id: "1C4E3B3E55C51EE2"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["234689B74D934EE4"]
+			icon: {
+				id: "minecraft:netherite_sword"
+			}
+			id: "3B8865A67AE5E700"
+			rewards: [
+				{
+					count: 3
+					id: "07AC8D164F1BD0C0"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "223B4139DDABB883"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "apotheosis:progression/summit"
+				criterion: ""
+				id: "3FD613805B934CB2"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3B8865A67AE5E700"]
+			icon: {
+				id: "minecraft:end_crystal"
+			}
+			id: "38869F36C527D7BE"
+			rewards: [
+				{
+					count: 2
+					id: "2AD8E9273DAA582D"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "1093E9826A3F21EB"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "apotheosis:progression/pinnacle"
+				criterion: ""
+				id: "2F815B16A3E87325"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3F6BD590DD3CC7E1"]
+			icon: {
+				id: "apotheosis:salvaging_table"
+			}
+			id: "3A488D3AD3696DCA"
+			rewards: [{
+				id: "00CCED3C4F61C3ED"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "087DA726CF03D801"
+				item: { count: 1, id: "apotheosis:salvaging_table" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3A488D3AD3696DCA"]
+			icon: {
+				id: "apotheosis:gem_cutting_table"
+			}
+			id: "17CEFFB154026F3A"
+			rewards: [{
+				id: "356AB77EEE5B4A25"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "385697496522D464"
+				item: { count: 1, id: "apotheosis:gem_cutting_table" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["17CEFFB154026F3A"]
+			icon: {
+				id: "apotheosis:gem_dust"
+			}
+			id: "2E488F7E62A2A845"
+			rewards: [{
+				id: "1D24A3B4B1820B9A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2A16F5B5B0EE77FB"
+				item: { count: 1, id: "apotheosis:gem_dust" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2E488F7E62A2A845"]
+			icon: {
+				id: "apotheosis:sigil_of_socketing"
+			}
+			id: "3D58CF074AC79685"
+			rewards: [{
+				id: "1F6953A0628EE93B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3AC5DFA96AAADAEB"
+				item: { count: 1, id: "apotheosis:sigil_of_socketing" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3D58CF074AC79685"]
+			icon: {
+				id: "apotheosis:gem_case"
+			}
+			id: "3C100BE29B1AEA15"
+			rewards: [{
+				id: "034A59321AB0FC89"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "37DE878F8E74EEE2"
+				item: { count: 1, id: "apotheosis:gem_case" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3A488D3AD3696DCA"]
+			icon: {
+				id: "apotheosis:simple_reforging_table"
+			}
+			id: "07A659067E8F5F7A"
+			rewards: [{
+				id: "28993D54FBE2F8E7"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "08F8C9C4E6C6E82B"
+				item: { count: 1, id: "apotheosis:simple_reforging_table" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["07A659067E8F5F7A"]
+			icon: {
+				id: "apotheosis:reforging_table"
+			}
+			id: "3B5A43D3EF303575"
+			rewards: [{
+				id: "32D955ACF4FB283B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3838E12FCA29D250"
+				item: { count: 1, id: "apotheosis:reforging_table" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3B5A43D3EF303575"]
+			icon: {
+				id: "apotheosis:sigil_of_rebirth"
+			}
+			id: "199A6725201D0A7B"
+			rewards: [{
+				id: "076DB503B0BBA523"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "19A601A33325D1F8"
+				item: { count: 1, id: "apotheosis:sigil_of_rebirth" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3B5A43D3EF303575"]
+			icon: {
+				id: "apotheosis:augmenting_table"
+			}
+			id: "3A1A29D01046866A"
+			rewards: [{
+				id: "1A4EE57846582990"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "16427B57E2091082"
+				item: { count: 1, id: "apotheosis:augmenting_table" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["3A1A29D01046866A"]
+			icon: {
+				id: "apotheosis:sigil_of_enhancement"
+			}
+			id: "1ED131653BD46932"
+			rewards: [{
+				id: "2F5F2FC942AE6A2B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "376B3BAADB2D112D"
+				item: { count: 1, id: "apotheosis:sigil_of_enhancement" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+	]
+}

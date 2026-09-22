@@ -1,77 +1,51 @@
 {
-	id: "2965BBE013D04BC7"
-	group: ""
-	order_index: 50
+	autofocus_id: "1CF98F0F20B29CD9"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
 	filename: "minecraft_comes_alive"
-	title: "Minecraft Comes Alive"
+	group: "7BF87B81CD8F8965"
 	icon: {
 		id: "mca:wedding_ring"
 	}
-	default_quest_shape: ""
+	id: "2965BBE013D04BC7"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
 	quests: [
 		{
-			id: "1CF98F0F20B29CD9"
-			x: 0.0d
-			y: 0.0d
-			title: "Welcome to the Village"
-			subtitle: "Minecraft Comes Alive"
-			description: [
-				"Your social journey starts here."
-				""
-				"Find and enter a village to get started."
-			]
 			icon: {
 				id: "minecraft:cake"
 			}
-			tasks: [
-				{
-					id: "287987CF961E7514"
-					type: "advancement"
-					advancement: "mca:root"
-					criterion: ""
-				}
-			]
-			rewards: [
-				{
-					id: "11EFCB7DB5B62BE6"
-					type: "xp"
-					xp: 50
-				}
-			]
+			id: "1CF98F0F20B29CD9"
+			rewards: [{
+				id: "11EFCB7DB5B62BE6"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mca:root"
+				criterion: ""
+				id: "287987CF961E7514"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
 		}
 		{
-			id: "16331991702B4578"
-			x: 2.0d
-			y: 0.0d
-			title: "Friendship Found"
-			subtitle: "Reach 50 hearts"
-			description: [
-				"Talk, chat and give gifts to a villager to raise your hearts with them."
-				""
-				"Reach 50 hearts with one villager."
-			]
+			dependencies: ["1CF98F0F20B29CD9"]
 			icon: {
 				id: "minecraft:emerald"
 			}
-			dependencies: [
-				"1CF98F0F20B29CD9"
-			]
-			tasks: [
-				{
-					id: "3417FBAFE6A4A749"
-					type: "advancement"
-					advancement: "mca:friend"
-					criterion: ""
-				}
-			]
+			id: "16331991702B4578"
 			rewards: [
 				{
+					count: 5
 					id: "162F395768F485AF"
-					type: "item"
 					item: {
+						count: 1
 						id: "minecraft:emerald"
-						count: 5
 					}
+					type: "item"
 				}
 				{
 					id: "3D4891703DC2B220"
@@ -79,40 +53,30 @@
 					xp: 100
 				}
 			]
+			tasks: [{
+				advancement: "mca:friend"
+				criterion: ""
+				id: "3417FBAFE6A4A749"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
 		}
 		{
-			id: "3856716478707EFA"
-			x: 4.0d
-			y: 0.0d
-			title: "Best Friends"
-			subtitle: "Reach 200 hearts"
-			description: [
-				"A friendship that will last a lifetime."
-				""
-				"Reach 200 hearts with one villager."
-			]
+			dependencies: ["16331991702B4578"]
 			icon: {
 				id: "minecraft:emerald_block"
 			}
-			dependencies: [
-				"16331991702B4578"
-			]
-			tasks: [
-				{
-					id: "081841D70569F567"
-					type: "advancement"
-					advancement: "mca:best_friend"
-					criterion: ""
-				}
-			]
+			id: "3856716478707EFA"
 			rewards: [
 				{
+					count: 16
 					id: "12B71B9CB9065B91"
-					type: "item"
 					item: {
+						count: 1
 						id: "minecraft:emerald"
-						count: 16
 					}
+					type: "item"
 				}
 				{
 					id: "3A6E0B2182CE1B2F"
@@ -120,40 +84,29 @@
 					xp: 250
 				}
 			]
+			tasks: [{
+				advancement: "mca:best_friend"
+				criterion: ""
+				id: "081841D70569F567"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
 		}
 		{
-			id: "10138D86300792A0"
-			x: 2.0d
-			y: 2.0d
-			title: "Just What I Always Wanted"
-			subtitle: "A perfect gift"
-			description: [
-				"Every villager has their own tastes."
-				""
-				"Find out what one loves, and give them a perfect gift."
-			]
+			dependencies: ["16331991702B4578"]
 			icon: {
 				id: "minecraft:golden_chestplate"
 			}
-			dependencies: [
-				"16331991702B4578"
-			]
-			tasks: [
-				{
-					id: "3443F12BF6334BA5"
-					type: "advancement"
-					advancement: "mca:excellent_gift"
-					criterion: ""
-				}
-			]
+			id: "10138D86300792A0"
 			rewards: [
 				{
 					id: "192FDDA8DDE79C19"
-					type: "item"
 					item: {
-						id: "minecraft:golden_apple"
 						count: 1
+						id: "minecraft:golden_apple"
 					}
+					type: "item"
 				}
 				{
 					id: "04648D881FD974F3"
@@ -161,40 +114,30 @@
 					xp: 100
 				}
 			]
+			tasks: [{
+				advancement: "mca:excellent_gift"
+				criterion: ""
+				id: "3443F12BF6334BA5"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 2.0d
 		}
 		{
-			id: "23D839857A4F572B"
-			x: 2.0d
-			y: -2.0d
-			title: "Merchant"
-			subtitle: "Your first village rank"
-			description: [
-				"Villages recognise the people who help them."
-				""
-				"Earn your first rank in a village."
-			]
+			dependencies: ["16331991702B4578"]
 			icon: {
 				id: "minecraft:leather_helmet"
 			}
-			dependencies: [
-				"16331991702B4578"
-			]
-			tasks: [
-				{
-					id: "35C573E66DEC0001"
-					type: "advancement"
-					advancement: "mca:merchant"
-					criterion: ""
-				}
-			]
+			id: "23D839857A4F572B"
 			rewards: [
 				{
+					count: 8
 					id: "18371D412F5DFA3C"
-					type: "item"
 					item: {
+						count: 1
 						id: "minecraft:emerald"
-						count: 8
 					}
+					type: "item"
 				}
 				{
 					id: "3B023B3A7E45C30C"
@@ -202,38 +145,30 @@
 					xp: 150
 				}
 			]
+			tasks: [{
+				advancement: "mca:merchant"
+				criterion: ""
+				id: "35C573E66DEC0001"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: -2.0d
 		}
 		{
-			id: "3452896B85EF6BE7"
-			x: 4.0d
-			y: -2.0d
-			title: "Noble"
-			subtitle: "Rise through the ranks"
-			description: [
-				"Keep working for the village and earn the rank of Noble."
-			]
+			dependencies: ["23D839857A4F572B"]
 			icon: {
 				id: "minecraft:iron_helmet"
 			}
-			dependencies: [
-				"23D839857A4F572B"
-			]
-			tasks: [
-				{
-					id: "0E17D707E615EDAF"
-					type: "advancement"
-					advancement: "mca:noble"
-					criterion: ""
-				}
-			]
+			id: "3452896B85EF6BE7"
 			rewards: [
 				{
+					count: 16
 					id: "2C661FE052AFFC73"
-					type: "item"
 					item: {
+						count: 1
 						id: "minecraft:emerald"
-						count: 16
 					}
+					type: "item"
 				}
 				{
 					id: "32F0814DA76141BF"
@@ -241,38 +176,30 @@
 					xp: 250
 				}
 			]
+			tasks: [{
+				advancement: "mca:noble"
+				criterion: ""
+				id: "0E17D707E615EDAF"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: -2.0d
 		}
 		{
-			id: "0DE1791F9EBE8070"
-			x: 6.0d
-			y: -2.0d
-			title: "Mayor"
-			subtitle: "Lead the village"
-			description: [
-				"Get promoted to Mayor."
-			]
+			dependencies: ["3452896B85EF6BE7"]
 			icon: {
 				id: "minecraft:diamond_helmet"
 			}
-			dependencies: [
-				"3452896B85EF6BE7"
-			]
-			tasks: [
-				{
-					id: "16C7AD057FF83EC2"
-					type: "advancement"
-					advancement: "mca:mayor"
-					criterion: ""
-				}
-			]
+			id: "0DE1791F9EBE8070"
 			rewards: [
 				{
+					count: 3
 					id: "0E9D3B8A778120D3"
-					type: "item"
 					item: {
+						count: 1
 						id: "minecraft:diamond"
-						count: 3
 					}
+					type: "item"
 				}
 				{
 					id: "1ACD956E8C2392EC"
@@ -280,38 +207,30 @@
 					xp: 400
 				}
 			]
+			tasks: [{
+				advancement: "mca:mayor"
+				criterion: ""
+				id: "16C7AD057FF83EC2"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: -2.0d
 		}
 		{
-			id: "318F59D68812983F"
-			x: 8.0d
-			y: -2.0d
-			title: "Monarch"
-			subtitle: "The highest rank"
-			description: [
-				"Become a Monarch and rule over your own village."
-			]
+			dependencies: ["0DE1791F9EBE8070"]
 			icon: {
 				id: "minecraft:golden_helmet"
 			}
-			dependencies: [
-				"0DE1791F9EBE8070"
-			]
-			tasks: [
-				{
-					id: "097A837408C4965B"
-					type: "advancement"
-					advancement: "mca:monarch"
-					criterion: ""
-				}
-			]
+			id: "318F59D68812983F"
 			rewards: [
 				{
+					count: 5
 					id: "1C65DDE25B6266E5"
-					type: "item"
 					item: {
+						count: 1
 						id: "minecraft:diamond"
-						count: 5
 					}
+					type: "item"
 				}
 				{
 					id: "2B482506905C8A8F"
@@ -319,196 +238,127 @@
 					xp: 600
 				}
 			]
+			tasks: [{
+				advancement: "mca:monarch"
+				criterion: ""
+				id: "097A837408C4965B"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -2.0d
 		}
 		{
-			id: "0B8789B344934525"
-			x: 0.0d
-			y: 2.0d
-			title: "Say It with Flowers"
-			subtitle: "Craft a bouquet"
-			description: [
-				"A little gesture goes a long way."
-				""
-				"Craft a bouquet."
-			]
+			dependencies: ["1CF98F0F20B29CD9"]
 			icon: {
 				id: "mca:bouquet"
 			}
-			dependencies: [
-				"1CF98F0F20B29CD9"
-			]
-			tasks: [
-				{
-					id: "04EC21F59AD722DA"
-					type: "item"
-					item: "mca:bouquet"
-				}
-			]
-			rewards: [
-				{
-					id: "13C59BC7AC99D6B2"
-					type: "xp"
-					xp: 25
-				}
-			]
+			id: "0B8789B344934525"
+			rewards: [{
+				id: "13C59BC7AC99D6B2"
+				type: "xp"
+				xp: 25
+			}]
+			tasks: [{
+				id: "04EC21F59AD722DA"
+				item: { count: 1, id: "mca:bouquet" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
 		}
 		{
-			id: "0FCB47B0AEAF35E2"
-			x: 0.0d
-			y: 4.0d
-			title: "Will You Marry Me?"
-			subtitle: "Craft an engagement ring"
-			description: [
-				"Found someone special? Craft an engagement ring (the regular one; the rose gold version is a different item)."
-			]
+			dependencies: ["0B8789B344934525"]
 			icon: {
 				id: "mca:engagement_ring"
 			}
-			dependencies: [
-				"0B8789B344934525"
-			]
-			tasks: [
-				{
-					id: "0E13ED5231DAACAF"
-					type: "item"
-					item: "mca:engagement_ring"
-				}
-			]
-			rewards: [
-				{
-					id: "0C1D01544B5A634E"
-					type: "xp"
-					xp: 75
-				}
-			]
+			id: "0FCB47B0AEAF35E2"
+			rewards: [{
+				id: "0C1D01544B5A634E"
+				type: "xp"
+				xp: 75
+			}]
+			tasks: [{
+				id: "0E13ED5231DAACAF"
+				item: { count: 1, id: "mca:engagement_ring" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
 		}
 		{
-			id: "216E23EEFA476C53"
-			x: 0.0d
-			y: 6.0d
-			title: "A Touch of Rose Gold"
-			subtitle: "Optional: fancier rings"
-			description: [
-				"Rose gold makes for fancier rings."
-				""
-				"Get a rose gold ingot."
-			]
+			dependencies: ["0FCB47B0AEAF35E2"]
 			icon: {
 				id: "mca:rose_gold_ingot"
 			}
+			id: "216E23EEFA476C53"
 			optional: true
-			dependencies: [
-				"0FCB47B0AEAF35E2"
-			]
-			tasks: [
-				{
-					id: "37EB577315C9DD30"
-					type: "item"
-					item: "mca:rose_gold_ingot"
-				}
-			]
-			rewards: [
-				{
-					id: "2A1FCF9F382FCFDA"
-					type: "xp"
-					xp: 50
-				}
-			]
+			rewards: [{
+				id: "2A1FCF9F382FCFDA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "37EB577315C9DD30"
+				item: { count: 1, id: "mca:rose_gold_ingot" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
 		}
 		{
-			id: "3AA4C3F8E58BF09B"
-			x: 2.0d
-			y: 6.0d
-			title: "Matchmaker"
-			subtitle: "Optional: play cupid"
-			description: [
-				"Sometimes villagers need a little help finding love."
-				""
-				"Craft a matchmaker's ring."
-			]
+			dependencies: ["0FCB47B0AEAF35E2"]
 			icon: {
 				id: "mca:matchmakers_ring"
 			}
+			id: "3AA4C3F8E58BF09B"
 			optional: true
-			dependencies: [
-				"0FCB47B0AEAF35E2"
-			]
-			tasks: [
-				{
-					id: "0248BFCD44C8780C"
-					type: "item"
-					item: "mca:matchmakers_ring"
-				}
-			]
-			rewards: [
-				{
-					id: "2C5563CEB3D428E8"
-					type: "xp"
-					xp: 100
-				}
-			]
+			rewards: [{
+				id: "2C5563CEB3D428E8"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "0248BFCD44C8780C"
+				item: { count: 1, id: "mca:matchmakers_ring" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 6.0d
 		}
 		{
+			dependencies: ["0FCB47B0AEAF35E2"]
+			icon: {
+				id: "mca:wedding_ring"
+			}
 			id: "1BDA415845587F60"
+			rewards: [{
+				id: "1ED391140213BD25"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				id: "1FF8A72812FE19EA"
+				item: { count: 1, id: "mca:wedding_ring" }
+				type: "item"
+			}]
 			x: 2.0d
 			y: 4.0d
-			title: "The Big Day"
-			subtitle: "Craft a wedding ring"
-			description: [
-				"Time to make it official. Craft a wedding ring."
-			]
-			icon: {
-				id: "mca:wedding_ring"
-			}
-			dependencies: [
-				"0FCB47B0AEAF35E2"
-			]
-			tasks: [
-				{
-					id: "1FF8A72812FE19EA"
-					type: "item"
-					item: "mca:wedding_ring"
-				}
-			]
-			rewards: [
-				{
-					id: "1ED391140213BD25"
-					type: "xp"
-					xp: 100
-				}
-			]
 		}
 		{
-			id: "189447868DEC5D5C"
-			x: 4.0d
-			y: 4.0d
-			title: "'Til Death Do Us Part"
-			subtitle: "Get married"
-			description: [
-				"Get engaged and marry a villager."
-			]
+			dependencies: ["1BDA415845587F60"]
 			icon: {
 				id: "mca:wedding_ring"
 			}
-			dependencies: [
-				"1BDA415845587F60"
-			]
-			tasks: [
-				{
-					id: "2B09792A72DDD9AD"
-					type: "advancement"
-					advancement: "mca:marriage"
-					criterion: ""
-				}
-			]
+			id: "189447868DEC5D5C"
 			rewards: [
 				{
+					count: 10
 					id: "248B29CC15BBDF00"
-					type: "item"
 					item: {
+						count: 1
 						id: "minecraft:emerald"
-						count: 10
 					}
+					type: "item"
 				}
 				{
 					id: "1C5F5BE7AF58395D"
@@ -516,38 +366,29 @@
 					xp: 300
 				}
 			]
+			tasks: [{
+				advancement: "mca:marriage"
+				criterion: ""
+				id: "2B09792A72DDD9AD"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 4.0d
 		}
 		{
-			id: "33E4F9FBB5A29CC1"
-			x: 6.0d
-			y: 4.0d
-			title: "Next Generation"
-			subtitle: "Your first baby"
-			description: [
-				"Have your first baby."
-			]
+			dependencies: ["189447868DEC5D5C"]
 			icon: {
 				id: "mca:baby_boy"
 			}
-			dependencies: [
-				"189447868DEC5D5C"
-			]
-			tasks: [
-				{
-					id: "3DDC0D154AF16B40"
-					type: "advancement"
-					advancement: "mca:baby"
-					criterion: ""
-				}
-			]
+			id: "33E4F9FBB5A29CC1"
 			rewards: [
 				{
 					id: "2475A3F0A3867295"
-					type: "item"
 					item: {
-						id: "minecraft:cake"
 						count: 1
+						id: "minecraft:cake"
 					}
+					type: "item"
 				}
 				{
 					id: "1E5C9B6234064891"
@@ -555,162 +396,110 @@
 					xp: 200
 				}
 			]
+			tasks: [{
+				advancement: "mca:baby"
+				criterion: ""
+				id: "3DDC0D154AF16B40"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 4.0d
 		}
 		{
-			id: "393C29130654D8DF"
-			x: 6.0d
-			y: 2.0d
-			title: "A Loving Parent (For Two!)"
-			subtitle: "Twins"
-			description: [
-				"Have two babies for the price of one!"
-			]
+			dependencies: ["33E4F9FBB5A29CC1"]
 			icon: {
 				id: "mca:baby_girl"
 			}
-			dependencies: [
-				"33E4F9FBB5A29CC1"
-			]
-			tasks: [
-				{
-					id: "1366F1C4104A8209"
-					type: "advancement"
-					advancement: "mca:twins"
-					criterion: ""
-				}
-			]
-			rewards: [
-				{
-					id: "2E0CE7CFBB43422E"
-					type: "xp"
-					xp: 250
-				}
-			]
+			id: "393C29130654D8DF"
+			rewards: [{
+				id: "2E0CE7CFBB43422E"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "mca:twins"
+				criterion: ""
+				id: "1366F1C4104A8209"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
 		}
 		{
-			id: "13C7E1167F357E68"
-			x: 8.0d
-			y: 2.0d
-			title: "Family Tree"
-			subtitle: "Keep track of everyone"
-			description: [
-				"Craft a family tree to keep track of who is related to whom."
-			]
+			dependencies: ["33E4F9FBB5A29CC1"]
 			icon: {
 				id: "mca:family_tree"
 			}
+			id: "13C7E1167F357E68"
 			optional: true
-			dependencies: [
-				"33E4F9FBB5A29CC1"
-			]
-			tasks: [
-				{
-					id: "0AD2E12DC7DABABA"
-					type: "item"
-					item: "mca:family_tree"
-				}
-			]
-			rewards: [
-				{
-					id: "0BC457797A884223"
-					type: "xp"
-					xp: 50
-				}
-			]
+			rewards: [{
+				id: "0BC457797A884223"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0AD2E12DC7DABABA"
+				item: { count: 1, id: "mca:family_tree" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 2.0d
 		}
 		{
-			id: "02FB131D7C77207B"
-			x: 8.0d
-			y: 4.0d
-			title: "Chores"
-			subtitle: "Let the kids help"
-			description: [
-				"Let your children do the work."
-			]
+			dependencies: ["33E4F9FBB5A29CC1"]
 			icon: {
 				id: "minecraft:iron_pickaxe"
 			}
-			dependencies: [
-				"33E4F9FBB5A29CC1"
-			]
-			tasks: [
-				{
-					id: "04FE63C770F5C12D"
-					type: "advancement"
-					advancement: "mca:chores"
-					criterion: ""
-				}
-			]
-			rewards: [
-				{
-					id: "135355019DE65649"
-					type: "xp"
-					xp: 100
-				}
-			]
+			id: "02FB131D7C77207B"
+			rewards: [{
+				id: "135355019DE65649"
+				type: "xp"
+				xp: 100
+			}]
+			tasks: [{
+				advancement: "mca:chores"
+				criterion: ""
+				id: "04FE63C770F5C12D"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 4.0d
 		}
 		{
-			id: "3273814A26CA9B76"
-			x: 6.0d
-			y: 6.0d
-			title: "What a Handful"
-			subtitle: "Your baby is now a child"
-			description: [
-				"Your baby has become a child!"
-			]
+			dependencies: ["33E4F9FBB5A29CC1"]
 			icon: {
 				id: "minecraft:wooden_shovel"
 			}
-			dependencies: [
-				"33E4F9FBB5A29CC1"
-			]
-			tasks: [
-				{
-					id: "119D5D10D89F29A2"
-					type: "advancement"
-					advancement: "mca:grow_child"
-					criterion: ""
-				}
-			]
-			rewards: [
-				{
-					id: "28713D58D740D572"
-					type: "xp"
-					xp: 150
-				}
-			]
+			id: "3273814A26CA9B76"
+			rewards: [{
+				id: "28713D58D740D572"
+				type: "xp"
+				xp: 150
+			}]
+			tasks: [{
+				advancement: "mca:grow_child"
+				criterion: ""
+				id: "119D5D10D89F29A2"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
 		}
 		{
-			id: "176F195A6E7180F6"
-			x: 6.0d
-			y: 8.0d
-			title: "They Grow Up So Fast"
-			subtitle: "Raise an adult"
-			description: [
-				"Successfully raise a functioning adult."
-			]
+			dependencies: ["3273814A26CA9B76"]
 			icon: {
 				id: "minecraft:diamond_shovel"
 			}
-			dependencies: [
-				"3273814A26CA9B76"
-			]
-			tasks: [
-				{
-					id: "1358A31C9F8DF148"
-					type: "advancement"
-					advancement: "mca:grow_adult"
-					criterion: ""
-				}
-			]
+			id: "176F195A6E7180F6"
 			rewards: [
 				{
+					count: 10
 					id: "33507B3BDF9BDF0A"
-					type: "item"
 					item: {
+						count: 1
 						id: "minecraft:emerald"
-						count: 10
 					}
+					type: "item"
 				}
 				{
 					id: "06ABA92415AC0968"
@@ -718,40 +507,30 @@
 					xp: 300
 				}
 			]
+			tasks: [{
+				advancement: "mca:grow_adult"
+				criterion: ""
+				id: "1358A31C9F8DF148"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 8.0d
 		}
 		{
-			id: "3AC1EF7315A99104"
-			x: 8.0d
-			y: 8.0d
-			title: "Settling In"
-			subtitle: "A big family"
-			description: [
-				"Start a family with a villager."
-				""
-				"The advancement is awarded once you have three children."
-			]
+			dependencies: ["176F195A6E7180F6"]
 			icon: {
 				id: "minecraft:bread"
 			}
-			dependencies: [
-				"176F195A6E7180F6"
-			]
-			tasks: [
-				{
-					id: "1B0F972E4FAA5535"
-					type: "advancement"
-					advancement: "mca:family"
-					criterion: ""
-				}
-			]
+			id: "3AC1EF7315A99104"
 			rewards: [
 				{
+					count: 3
 					id: "0559E376F1814B08"
-					type: "item"
 					item: {
+						count: 1
 						id: "minecraft:diamond"
-						count: 3
 					}
+					type: "item"
 				}
 				{
 					id: "371427C9854E0ACE"
@@ -759,38 +538,30 @@
 					xp: 500
 				}
 			]
+			tasks: [{
+				advancement: "mca:family"
+				criterion: ""
+				id: "1B0F972E4FAA5535"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 8.0d
 		}
 		{
-			id: "37AE596D74F6041F"
-			x: 6.0d
-			y: 10.0d
-			title: "Back in My Day..."
-			subtitle: "Grandchildren"
-			description: [
-				"Father at least two generations of offspring."
-			]
+			dependencies: ["176F195A6E7180F6"]
 			icon: {
 				id: "minecraft:clock"
 			}
-			dependencies: [
-				"176F195A6E7180F6"
-			]
-			tasks: [
-				{
-					id: "3E231349F9C1621A"
-					type: "advancement"
-					advancement: "mca:grandparent"
-					criterion: ""
-				}
-			]
+			id: "37AE596D74F6041F"
 			rewards: [
 				{
+					count: 5
 					id: "2363C38F36AFC244"
-					type: "item"
 					item: {
+						count: 1
 						id: "minecraft:diamond"
-						count: 5
 					}
+					type: "item"
 				}
 				{
 					id: "09315D79476F3210"
@@ -798,69 +569,49 @@
 					xp: 1000
 				}
 			]
+			tasks: [{
+				advancement: "mca:grandparent"
+				criterion: ""
+				id: "3E231349F9C1621A"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 10.0d
 		}
 		{
-			id: "0B7C7B38EE30CB7F"
-			x: -2.0d
-			y: -2.0d
-			title: "Ancient Cultists"
-			subtitle: "Lore hunter"
-			description: [
-				"Explore the lore of the Sirbens and disturb the slumber of the ancient cultists."
-			]
+			dependencies: ["1CF98F0F20B29CD9"]
 			icon: {
 				id: "mca:book_cult_ancient"
 			}
-			dependencies: [
-				"1CF98F0F20B29CD9"
-			]
-			tasks: [
-				{
-					id: "34D819AE42AB0208"
-					type: "advancement"
-					advancement: "mca:ancient_cultists"
-					criterion: ""
-				}
-			]
-			rewards: [
-				{
-					id: "3C7B11EA5E1FD4EA"
-					type: "xp"
-					xp: 300
-				}
-			]
+			id: "0B7C7B38EE30CB7F"
+			rewards: [{
+				id: "3C7B11EA5E1FD4EA"
+				type: "xp"
+				xp: 300
+			}]
+			tasks: [{
+				advancement: "mca:ancient_cultists"
+				criterion: ""
+				id: "34D819AE42AB0208"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: -2.0d
 		}
 		{
-			id: "1EDBF1F6543457FC"
-			x: -2.0d
-			y: 0.0d
-			title: "Beat Death"
-			subtitle: "Defeat the Grim Reaper"
-			description: [
-				"Defeat the Grim Reaper."
-			]
+			dependencies: ["1CF98F0F20B29CD9"]
 			icon: {
 				id: "minecraft:wither_skeleton_skull"
 			}
-			dependencies: [
-				"1CF98F0F20B29CD9"
-			]
-			tasks: [
-				{
-					id: "00E2C963EAF0B655"
-					type: "advancement"
-					advancement: "mca:adventure/kill_grim_reaper"
-					criterion: ""
-				}
-			]
+			id: "1EDBF1F6543457FC"
 			rewards: [
 				{
 					id: "1BDA650BC8B4A4B0"
-					type: "item"
 					item: {
-						id: "minecraft:totem_of_undying"
 						count: 1
+						id: "minecraft:totem_of_undying"
 					}
+					type: "item"
 				}
 				{
 					id: "0F4B8338D7E57558"
@@ -868,68 +619,54 @@
 					xp: 500
 				}
 			]
+			tasks: [{
+				advancement: "mca:adventure/kill_grim_reaper"
+				criterion: ""
+				id: "00E2C963EAF0B655"
+				type: "advancement"
+			}]
+			x: -2.0d
+			y: 0.0d
 		}
 		{
-			id: "2EB6953B036A07C2"
-			x: -4.0d
-			y: 0.0d
-			title: "Staff of Life"
-			subtitle: "Bring someone back"
-			description: [
-				"Use the staff of life to revive a fallen comrade."
-			]
+			dependencies: ["1EDBF1F6543457FC"]
 			icon: {
 				id: "mca:staff_of_life"
 			}
-			dependencies: [
-				"1EDBF1F6543457FC"
-			]
-			tasks: [
-				{
-					id: "03F7FDC2A25ABCFB"
-					type: "advancement"
-					advancement: "mca:adventure/staff_of_life"
-					criterion: ""
-				}
-			]
-			rewards: [
-				{
-					id: "13CB79DA7CB6A4E6"
-					type: "xp"
-					xp: 250
-				}
-			]
+			id: "2EB6953B036A07C2"
+			rewards: [{
+				id: "13CB79DA7CB6A4E6"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "mca:adventure/staff_of_life"
+				criterion: ""
+				id: "03F7FDC2A25ABCFB"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 0.0d
 		}
 		{
-			id: "2AEF01C60E9031FF"
-			x: -4.0d
-			y: 2.0d
-			title: "A Soul for a Soul"
-			subtitle: "Revive with a scythe"
-			description: [
-				"Use a charged scythe to revive a villager."
-			]
+			dependencies: ["1EDBF1F6543457FC"]
 			icon: {
 				id: "mca:scythe"
 			}
-			dependencies: [
-				"1EDBF1F6543457FC"
-			]
-			tasks: [
-				{
-					id: "2736A5CAB133C49B"
-					type: "advancement"
-					advancement: "mca:adventure/scythe_revive"
-					criterion: ""
-				}
-			]
-			rewards: [
-				{
-					id: "3BE3DFA852701763"
-					type: "xp"
-					xp: 250
-				}
-			]
+			id: "2AEF01C60E9031FF"
+			rewards: [{
+				id: "3BE3DFA852701763"
+				type: "xp"
+				xp: 250
+			}]
+			tasks: [{
+				advancement: "mca:adventure/scythe_revive"
+				criterion: ""
+				id: "2736A5CAB133C49B"
+				type: "advancement"
+			}]
+			x: -4.0d
+			y: 2.0d
 		}
 	]
 }

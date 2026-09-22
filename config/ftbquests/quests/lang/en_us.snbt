@@ -1,34 +1,2073 @@
 {
+	chapter.06346909B6996C03.title: "Farmer's Delight"
+	chapter.097BADEDA326809E.title: "Farm and Charm"
+	chapter.0D6C87D2C4913CFA.title: "Steam 'n' Rails"
+	chapter.166A39D233FD5653.title: "Farming & Cooking"
+	chapter.1994E987B6FA962C.title: "Arms and Armaments"
+	chapter.1B2623C4D4516B26.title: "Traveler's Backpack"
+	chapter.1C786F7166242E43.title: "Let's Do: Vinery"
+	chapter.1D9213F9AA722F79.title: "Create: Ore Excavation"
+	chapter.1E2FB7B0396869F8.title: "The Great Arboretum"
+	chapter.1E5FE99C56BD9136.title: "Create"
+	chapter.2965BBE013D04BC7.title: "Minecraft Comes Alive"
+	chapter.2AB235EBA6D1DF8B.title: "Create Aeronautics"
+	chapter.2F9F4DDEFC7AFF0F.title: "Apotheosis"
+	chapter.30BB47FF74BE0106.title: "The Aether"
+	chapter.319E27ECEA604F97.title: "Vanilla Farming"
+	chapter.360F1DDF756BAC57.title: "The Wyrm and the Sun"
+	chapter.3650819E6CB35A17.title: "Apothic Enchanting"
 	chapter.3786C0B6F51C02CE.title: "Wood types"
-	chapter.61EE8E917D1F109A.title: "Village"
-	chapter_group.059C94E3A75648E7.title: "Building"
 	chapter_group.0ED556B59D6FCF3A.title: "Exploration"
-	quest.06BD42EB56E4C793.title: "Oak"
+	chapter_group.1F97FADF9E58F64A.title: "Otherworldly Realms"
+	chapter_group.28CE0A44F7FD4147.title: "Farming"
+	chapter_group.2A9BFF28FEFB9E39.title: "Magic"
+	chapter_group.4F27AFE9799019C2.title: "Building & Tech"
+	chapter_group.50F9CCAD0465FD55.title: "World Building"
+	chapter_group.61D190AF05DF5BA0.title: "Food and Farm"
+	chapter_group.687D3C1391B84DC2.title: "Building and Tech"
+	chapter_group.7BF87B81CD8F8965.title: "Immersion"
+	quest.002C0975431B4D29.quest_desc: [
+		"Wood: Maple (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Forgotten Forest, Maple Taiga"
+		""
+		"Reward: 16 Maple logs."
+	]
+	quest.002C0975431B4D29.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.002C0975431B4D29.title: "Maple Wood"
+	quest.00433D8A6F7868FE.quest_desc: [
+		"A fire mage set."
+		""
+		"Obtain the helmet."
+	]
+	quest.00433D8A6F7868FE.title: "Pyromancer"
+	quest.006E89C9EC0D0F18.quest_desc: [
+		"A letter arrives with no sender and a wax seal you do not recognise."
+		""
+		"\"The old guardians are stirring. The sun-priests are restless, the frost sleeps lightly, and the iron watcher has begun to walk. Where they wake, the wyrms follow. Gather your strength. Ask the bestiary. -- A friend\""
+		""
+		"Read the letter, then prepare for the road."
+	]
+	quest.006E89C9EC0D0F18.title: "Prologue: The Sealed Letter"
+	quest.007EF921AA00D6FC.quest_desc: [
+		"Fast and elegant."
+		""
+		"Obtain Iron Katana."
+	]
+	quest.007EF921AA00D6FC.title: "Blade of the East"
+	quest.009DCD14B8F41B1D.quest_desc: [
+		"The sun-chief's blessing warms your hands, the sculptor's challenge lives in your stride, and dragonsteel rests on your hip."
+		""
+		"The old guardians sleep again, the wyrms fly on, and this time the world has someone who knows how to stand beside them."
+	]
+	quest.009DCD14B8F41B1D.title: "Epilogue: Sunfire and Frost"
+	quest.00AB63819AD3BDAF.quest_desc: ["Craft a functionality upgrade and place it in the slot on the right side of the backpack to apply it"]
+	quest.00AB63819AD3BDAF.title: "Expand functionality"
+	quest.00D063E090A086C5.quest_desc: ["Enchant an item at level 80."]
+	quest.00D063E090A086C5.title: "Enchantments from the Depths"
+	quest.00E1FBF9D80A68EF.quest_desc: [
+		"Wood: Dark Oak (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Mediterranean Forest"
+		""
+		"Reward: 16 Dark Oak logs."
+	]
+	quest.00E1FBF9D80A68EF.quest_subtitle: "Biomes O' Plenty"
+	quest.00E1FBF9D80A68EF.title: "Dark Oak Wood"
+	quest.00E2590FEEC567CC.quest_desc: ["Place a train signal."]
+	quest.00E2590FEEC567CC.title: "Traffic Control"
+	quest.010465FD56C4BAC7.quest_desc: ["Explore some lesser-known features that Traveler's Backpack has to offer"]
+	quest.010465FD56C4BAC7.title: "Traveler's Backpack Guide"
+	quest.0114E91C45D52514.quest_desc: ["A balanced and diverse meal will keep you fed and healthy for a long time!"]
+	quest.0114E91C45D52514.title: "Nourishing!"
+	quest.0126355273F3AE33.quest_desc: ["Anger a wizard by looting a nearby chest"]
+	quest.0126355273F3AE33.title: "A Fool's Folly"
+	quest.017AA762607AC8B6.quest_desc: ["Operate a pair of Crushing Wheels at maximum speed"]
+	quest.017AA762607AC8B6.title: "Crushing It"
+	quest.01925345A2CF3452.quest_desc: [
+		"Wear it in an accessory slot."
+		""
+		"Obtain a Frostward Ring."
+	]
+	quest.01925345A2CF3452.title: "Frostward Ring"
+	quest.01D4136C7E776605.quest_desc: ["Craft every available Farm and Charm Dish"]
+	quest.01D4136C7E776605.title: "Masterchef Manifest"
+	quest.02287DA7E3FC9ABD.quest_desc: ["Combine Leather, Netherite Tier Upgrade, and Diamond Tier Backpack in Smithing Table to upgrade"]
+	quest.02287DA7E3FC9ABD.title: "Netherite Tier Upgrade"
+	quest.029175FA32DF88E1.quest_desc: ["Craft any custom backpack"]
+	quest.029175FA32DF88E1.title: "Custom Backpacks"
+	quest.02A50F95EB844AB8.quest_desc: ["Kill an Umvuthana Raptor"]
+	quest.02A50F95EB844AB8.title: "Masquerade"
+	quest.02FB131D7C77207B.quest_desc: ["Let your children do the work."]
+	quest.02FB131D7C77207B.quest_subtitle: "Let the kids help"
+	quest.02FB131D7C77207B.title: "Chores"
+	quest.032F3131A5A55D86.quest_desc: ["Use an Encased Fan to process materials"]
+	quest.032F3131A5A55D86.title: "Processing by Particle"
+	quest.033B3131DC2B808D.quest_desc: [
+		"Connect craft to craft."
+		""
+		"Obtain a Docking Connector."
+	]
+	quest.033B3131DC2B808D.title: "Docking Connector"
+	quest.03685B3264EDB1ED.quest_desc: ["Place the custom backpack on the ground and Shift + Right-click it with shears to revert it to a Standard Backpack"]
+	quest.03685B3264EDB1ED.title: "I've found the better one!"
+	quest.03767D0D8356DEB4.quest_desc: ["Assemble a structure mounted on a Clockwork Bearing"]
+	quest.03767D0D8356DEB4.title: "Contraption o'Clock"
+	quest.03ACBB32003BB3CB.quest_desc: ["Connect a Large Cogwheel to a Small Cogwheel, allowing you to change the speed of your Contraption"]
+	quest.03ACBB32003BB3CB.title: "Shifting Gears"
+	quest.03BC038E7F64A182.quest_desc: ["Deter Aechor Plants by planting a flower on Enchanted Grass"]
+	quest.03BC038E7F64A182.title: "Tending The Garden"
+	quest.03F88FEBE88CD5E6.quest_desc: ["Fine-tune your Contraption with a Rotation Speed Controller"]
+	quest.03F88FEBE88CD5E6.title: "Engineers hate this simple trick!"
+	quest.0426D324B322B579.quest_desc: ["Organic Compost slowly decays into Rich Soil, an upgrade for your farms!"]
+	quest.0426D324B322B579.title: "Plant Food"
+	quest.04445B9C1BE7B492.quest_desc: ["Assemble a Sturdy Sheet by refining Powdered Obsidian"]
+	quest.04445B9C1BE7B492.title: "The Sturdiest Rocks"
+	quest.046583E33D09751D.quest_desc: ["Enchant an item at 0% Quanta."]
+	quest.046583E33D09751D.title: "Begone, Flux"
+	quest.046BFBF5126F2002.quest_desc: ["Craft a Bestiary Lectern to learn more about the world of Ice and Fire"]
+	quest.046BFBF5126F2002.title: "Would you Like to Know More?"
+	quest.04CF05FD829098FA.quest_desc: ["Use a Pitchfork on Fertilized Soil"]
+	quest.04CF05FD829098FA.title: "Pitchfork Perfection"
+	quest.04E415B265C9B3E3.quest_desc: ["Place a Water Sprinkler"]
+	quest.04E415B265C9B3E3.title: "Splash and Sprinkle"
+	quest.04ED4D3675BB5038.quest_desc: [
+		"Wood: Acacia (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Baobab Savanna"
+		""
+		"Reward: 16 Acacia logs."
+	]
+	quest.04ED4D3675BB5038.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.04ED4D3675BB5038.title: "Acacia Wood"
+	quest.052AF9BD01BD4EFF.quest_desc: [
+		"Wood: Oak (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Lavender Field, Mediterranean Forest, Old Growth Woodland, Seasonal Forest, Spider Nest, Tropics, Tundra, Undergrowth, Wintry Origin Valley"
+		""
+		"Reward: 16 Oak logs."
+	]
+	quest.052AF9BD01BD4EFF.quest_subtitle: "Biomes O' Plenty"
+	quest.052AF9BD01BD4EFF.title: "Oak Wood"
+	quest.052B338C531C65AA.quest_desc: ["Obtain a Moa Egg"]
+	quest.052B338C531C65AA.title: "Don't Count Your Moas..."
+	quest.0538EBAB4925E859.quest_desc: [
+		"Wood: Cherry (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Sakura Grove"
+		""
+		"Reward: 16 Cherry logs."
+	]
+	quest.0538EBAB4925E859.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.0538EBAB4925E859.title: "Cherry Wood"
+	quest.05953DF56E2A441C.quest_desc: ["Ride a Train through a portal"]
+	quest.05953DF56E2A441C.title: "Dimensional Commuter"
+	quest.0597572A6630AC2A.quest_desc: ["Obtain Standard Traveler's Backpack. Equip it in the back slot (if you are using the mod that adds one), or by clicking the Equip button in the backpack's inventory"]
+	quest.0597572A6630AC2A.title: "Craft basic backpack"
+	quest.05B7A70EAFF25111.quest_desc: [
+		"The world is full of friends and food."
+		""
+		"Everything in this chapter is about growing, raising and cooking."
+	]
+	quest.05B7A70EAFF25111.title: "Husbandry"
+	quest.060859C07F058744.quest_desc: ["Find and collect any Grape Seed."]
+	quest.060859C07F058744.title: "Wild Harvest"
+	quest.060D637AFC81E999.quest_desc: ["Harvest your first Cherry."]
+	quest.060D637AFC81E999.title: "Cherry Picker"
+	quest.06A1E9248560AD9D.quest_desc: [
+		"Wood: Spirit (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Pale Bog"
+		""
+		"Reward: 16 Spirit logs."
+	]
+	quest.06A1E9248560AD9D.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.06A1E9248560AD9D.title: "Spirit Wood"
+	quest.06A5CDC4E2D0CA44.quest_desc: ["Sneak to place your Skillet down as a block"]
+	quest.06A5CDC4E2D0CA44.title: "Sizzling Hot!"
+	quest.06B7C531BAAA90CB.quest_desc: ["Enchant an item with max stats and Quantic Stability."]
+	quest.06B7C531BAAA90CB.title: "Only the Best"
+	quest.072E1389467BD146.quest_desc: [
+		"Wood: Bamboo (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Bamboo Forest"
+		""
+		"Reward: 16 Bamboo logs."
+	]
+	quest.072E1389467BD146.quest_subtitle: "Regions Unexplored"
+	quest.072E1389467BD146.title: "Bamboo Wood"
+	quest.073085C0DC7DF5BE.quest_desc: ["Craft an Inscription Table"]
+	quest.073085C0DC7DF5BE.title: "Quaint Scribe"
+	quest.074FB70FE9FD4A78.quest_desc: ["Obtain dragon armor"]
+	quest.074FB70FE9FD4A78.title: "Suit Up"
+	quest.074FD5E3EDE15FF1.quest_desc: ["Harvest any Wine."]
+	quest.074FD5E3EDE15FF1.title: "The Noble Drop"
+	quest.0750951359603C96.quest_desc: ["Launch an Anvil with Mechanical Ploughs"]
+	quest.0750951359603C96.title: "Blacksmith Artillery"
+	quest.075EE9554A595C34.quest_desc: ["Drink potion"]
+	quest.075EE9554A595C34.title: "Drink Potions"
+	quest.0772A1B76C72E8FD.quest_desc: ["Create a dragon forge brick"]
+	quest.0772A1B76C72E8FD.title: "Another Brick in the Wall"
+	quest.07A659067E8F5F7A.quest_desc: [
+		"A basic table for reforging your gear."
+		""
+		"Obtain a Simple Reforging Table."
+	]
+	quest.07A659067E8F5F7A.title: "Simple Reforging Table"
+	quest.07AD6559B2D30D16.quest_desc: ["Harvest Red and White Jungle Grapes."]
+	quest.07AD6559B2D30D16.title: "Budding Grapes"
+	quest.07DAE733E4B26668.quest_desc: [
+		"Wheat stores neatly as hay bales."
+		""
+		"Obtain a hay bale."
+	]
+	quest.07DAE733E4B26668.title: "Bale It Up"
+	quest.07FCE77262B95685.quest_desc: ["Boost your grape yield by planting seeds on Grapevine Stems."]
+	quest.07FCE77262B95685.title: "Sowing the Future"
+	quest.07FEA315D061F884.quest_desc: [
+		"Wood: Hellbark (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Undergrowth"
+		""
+		"Reward: 16 Hellbark logs."
+	]
+	quest.07FEA315D061F884.quest_subtitle: "Biomes O' Plenty"
+	quest.07FEA315D061F884.title: "Hellbark Wood"
+	quest.08060DC9BE556A60.quest_desc: ["Catch packages from your Chain Conveyor using a Frogport"]
+	quest.08060DC9BE556A60.title: "Hungry hoppers"
+	quest.080B65C6E1AD66DA.quest_desc: ["Watch a fluid-containing item be emptied by an Item Drain"]
+	quest.080B65C6E1AD66DA.title: "Tumble Draining"
+	quest.081205BFA8C23E56.quest_desc: [
+		"Full dragonsteel is the peak of Ice and Fire gear."
+		""
+		"Obtain a Dragonsteel Ice Chestplate."
+	]
+	quest.081205BFA8C23E56.title: "Dragonsteel Frost Plate"
+	quest.081707FBC1FE2228.quest_desc: ["Breed all the animals!"]
+	quest.081707FBC1FE2228.title: "Two by Two"
+	quest.082AD5370736228A.quest_desc: ["Defeat the gold boss"]
+	quest.082AD5370736228A.title: "Extinguished"
+	quest.084DF9751FECDA97.quest_desc: [
+		"A blade of dragonsteel."
+		""
+		"Obtain a Dragonsteel Ice Sword."
+	]
+	quest.084DF9751FECDA97.title: "Draconic Evolution"
+	quest.088959C8A0AC74E0.quest_desc: ["Tame a hippogryph by dropping rabbit feet near it"]
+	quest.088959C8A0AC74E0.title: "Buck Beak"
+	quest.08A6D156D2D64402.quest_desc: [
+		"A dragon lies dead and the mountain is quiet. But others saw it fall, and the sky remembers."
+		""
+		"You have taken your first dragon. The forge and the egg will show what the guardians' strength was for."
+	]
+	quest.08A6D156D2D64402.title: "Wings Over the Mountains"
+	quest.08CA5D3F17BACF1E.quest_desc: ["Acquire the Dead King's scepter."]
+	quest.08CA5D3F17BACF1E.title: "Staff of Blood"
+	quest.08FD4B2A1DAA781F.quest_desc: ["Find the unique weapon Molten Edge."]
+	quest.08FD4B2A1DAA781F.title: "Not Too Hot to Handle"
+	quest.091A1D0DBF514DC1.quest_desc: ["Craft the Dragonskin Spell Book."]
+	quest.091A1D0DBF514DC1.title: "Elder Power"
+	quest.09202922844A875B.quest_desc: [
+		"The letter told you to ask the bestiary. Its pages are blank until you have gathered the manuscripts of those who studied the creatures of the old world: cyclops, hydra, sirens and, above all, the wyrms of fire, ice and lightning."
+		""
+		"Learn what walks the land, then decide which of them you will hunt, tame, or befriend."
+	]
+	quest.09202922844A875B.title: "Act II: The Bestiary"
+	quest.093F25501A343495.quest_desc: ["Craft an Apprentice's Spell Book."]
+	quest.093F25501A343495.title: "Getting the Hang of It"
+	quest.0955FD11632C6938.quest_desc: [
+		"Wood: Pine (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Fen, Fungal Fen, Icy Heights, Pine Slopes"
+		""
+		"Reward: 16 Pine logs."
+	]
+	quest.0955FD11632C6938.quest_subtitle: "Regions Unexplored"
+	quest.0955FD11632C6938.title: "Pine Wood"
+	quest.096C9D8557861637.quest_desc: ["Place down some Organic Compost. It composts better with sun, water and mushrooms!"]
+	quest.096C9D8557861637.title: "Advanced Composting"
+	quest.0975B9559C10C03B.quest_desc: ["Collect all Wine variants."]
+	quest.0975B9559C10C03B.title: "Wine Sommelier"
+	quest.0986FFDB7B857BE0.quest_desc: ["Obtain a Blaze Instruction Manual."]
+	quest.0986FFDB7B857BE0.title: "Defunct Machinery"
+	quest.09DF15AD389659D9.quest_desc: ["Plant grains of Rice in a shallow water puddle"]
+	quest.09DF15AD389659D9.title: "Dipping Your Roots"
+	quest.09E6835400FC7238.quest_desc: ["Place down a Campfire to cook some food"]
+	quest.09E6835400FC7238.title: "Bonfire Lit"
+	quest.09F415D95DAAA3F8.quest_desc: ["Put some tools in the tool slots, then hold Z (default) to swap them with the tool in your main hand"]
+	quest.09F415D95DAAA3F8.title: "Swap Tools"
+	quest.09F9F32509A3D37B.quest_desc: [
+		"Wear the starter mage set."
+		""
+		"Obtain the helmet."
+	]
+	quest.09F9F32509A3D37B.title: "Robes of the Wanderer"
+	quest.0A059BDB6D288D41.quest_desc: ["Have a Zanite Gemstone in your inventory"]
+	quest.0A059BDB6D288D41.title: "Exotic Hardware"
+	quest.0A261B1D4D6DB410.quest_desc: [
+		"Simply Swords adds dozens of weapon types. Start with the longsword."
+		""
+		"Obtain an Iron Longsword."
+	]
+	quest.0A261B1D4D6DB410.title: "Steel and Style"
+	quest.0A2C5351A0AB4FA4.quest_desc: ["Create the legendary fire, ice or lightning dragon weapon"]
+	quest.0A2C5351A0AB4FA4.title: "A Flaming Sword"
+	quest.0A46FB90C9319C9A.quest_desc: ["Acquire a Staff casting implement. Use to Cast!"]
+	quest.0A46FB90C9319C9A.title: "No Longer Short-Staffed"
+	quest.0A55831E4039A661.quest_desc: ["Enter a world of magical creatures"]
+	quest.0A55831E4039A661.title: "Ice and Fire"
+	quest.0A9E4FDD4F9316E7.quest_desc: ["Craft the Vampiric Spellbook"]
+	quest.0A9E4FDD4F9316E7.title: "A piece of Yourself"
+	quest.0ABF696E91887351.quest_desc: ["Obtain Icestone"]
+	quest.0ABF696E91887351.title: "Cold as Ice"
+	quest.0AD6A1B05063B387.quest_desc: [
+		"Faster, tougher drilling."
+		""
+		"Obtain a Diamond Drill."
+	]
+	quest.0AD6A1B05063B387.title: "Diamond Drill"
+	quest.0B1043D9D47CE830.quest_desc: ["Create Dragon Meal to rapidly grow baby dragons"]
+	quest.0B1043D9D47CE830.title: "Dragon Growth Hormone"
+	quest.0B205F393F716445.quest_desc: [
+		"Wood: Acacia (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Dry Bushland"
+		""
+		"Reward: 16 Acacia logs."
+	]
+	quest.0B205F393F716445.quest_subtitle: "Regions Unexplored"
+	quest.0B205F393F716445.title: "Acacia Wood"
+	quest.0B7C7B38EE30CB7F.quest_desc: ["Explore the lore of the Sirbens and disturb the slumber of the ancient cultists."]
+	quest.0B7C7B38EE30CB7F.quest_subtitle: "Lore hunter"
+	quest.0B7C7B38EE30CB7F.title: "Ancient Cultists"
+	quest.0B8789B344934525.quest_desc: [
+		"A little gesture goes a long way."
+		""
+		"Craft a bouquet."
+	]
+	quest.0B8789B344934525.quest_subtitle: "Craft a bouquet"
+	quest.0B8789B344934525.title: "Say It with Flowers"
+	quest.0BFB3D276DEEC04E.quest_desc: [
+		"Wood: Cherry (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Snowblossom Grove"
+		""
+		"Reward: 16 Cherry logs."
+	]
+	quest.0BFB3D276DEEC04E.quest_subtitle: "Biomes O' Plenty"
+	quest.0BFB3D276DEEC04E.title: "Cherry Wood"
+	quest.0C12571AF75A9841.quest_desc: [
+		"Wood: Maple (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Seasonal Forest, Tundra"
+		""
+		"Reward: 16 Maple logs."
+	]
+	quest.0C12571AF75A9841.quest_subtitle: "Biomes O' Plenty"
+	quest.0C12571AF75A9841.title: "Maple Wood"
+	quest.0C2DFB9AF9CDB55D.quest_desc: ["Lower a Hose Pulley and watch it drain or fill a body of fluid"]
+	quest.0C2DFB9AF9CDB55D.title: "Industrial Spillage"
+	quest.0C6F3B393F5CE022.quest_desc: ["Activate a Steam Whistle"]
+	quest.0C6F3B393F5CE022.title: "Voice of an Angel"
+	quest.0CB75B1490F8A8A5.quest_desc: ["Find the unique weapon Soulkeeper."]
+	quest.0CB75B1490F8A8A5.title: "Keeper of Souls"
+	quest.0CD273A3BCECB89E.quest_desc: [
+		"Precise and quick."
+		""
+		"Obtain Iron Rapier."
+	]
+	quest.0CD273A3BCECB89E.title: "The Duelist"
+	quest.0CE1E913F6BEC7EB.quest_desc: ["Produce more than 1000 Train Tracks with the same Mechanical Press"]
+	quest.0CE1E913F6BEC7EB.title: "Track Factory"
+	quest.0CFD19C0F601D0B0.quest_desc: ["Place a Chicken Nest"]
+	quest.0CFD19C0F601D0B0.title: "What Came First...?"
+	quest.0D08C384B1302329.quest_desc: [
+		"The Accessories mod gives you extra slots for rings, amulets and more, and Accessorify lets ordinary items live there too."
+		""
+		"Open the accessories screen and equip something. Tick this off yourself."
+	]
+	quest.0D08C384B1302329.title: "Free Your Slots"
+	quest.0D14FF037AEC17B7.quest_desc: ["Create a Contraption with drills, saws, or harvesters on board"]
+	quest.0D14FF037AEC17B7.title: "Moving with Purpose"
+	quest.0D1EA33D84B74135.quest_desc: ["Assemble your first Train"]
+	quest.0D1EA33D84B74135.title: "All Aboard!"
+	quest.0D5CD37B6A2DE312.quest_desc: [
+		"Wood: Ironwood (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Red Rock Peaks"
+		""
+		"Reward: 16 Ironwood logs."
+	]
+	quest.0D5CD37B6A2DE312.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.0D5CD37B6A2DE312.title: "Ironwood Wood"
+	quest.0D7901560DCBC828.quest_desc: [
+		"A weapon carved from bone."
+		""
+		"Obtain a Dragonbone Sword."
+	]
+	quest.0D7901560DCBC828.title: "Dragonbone Blade"
+	quest.0DD0914DEB9F0A1D.quest_desc: ["Polish some Rose Quartz"]
+	quest.0DD0914DEB9F0A1D.title: "Supercharged"
+	quest.0DE1791F9EBE8070.quest_desc: ["Get promoted to Mayor."]
+	quest.0DE1791F9EBE8070.quest_subtitle: "Lead the village"
+	quest.0DE1791F9EBE8070.title: "Mayor"
+	quest.0DFE7994F4C6D5B8.quest_desc: [
+		"Wood: Socotra (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Dry Bushland"
+		""
+		"Reward: 16 Socotra logs."
+	]
+	quest.0DFE7994F4C6D5B8.quest_subtitle: "Regions Unexplored"
+	quest.0DFE7994F4C6D5B8.title: "Socotra Wood"
+	quest.0E302BA8794596B6.quest_desc: ["Receive the Sun's Blessing"]
+	quest.0E302BA8794596B6.title: "Heliomancer"
+	quest.0E305B928C49F77E.quest_desc: [
+		"Wood: Spruce (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Frosted Coniferous Forest, Weeping Witch Forest, Frosted Taiga, Maple Taiga, Howling Peaks, Rose Fields"
+		""
+		"Reward: 16 Spruce logs."
+	]
+	quest.0E305B928C49F77E.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.0E305B928C49F77E.title: "Spruce Wood"
+	quest.0E6DD789300B6095.quest_desc: ["Craft your first sleeping bag that is required for basic backpack recipe"]
+	quest.0E6DD789300B6095.title: "Getting Started"
+	quest.0E7165CB2F0B2AE7.quest_desc: [
+		"Spin it and the air pushes back."
+		""
+		"Obtain an Andesite Propeller."
+	]
+	quest.0E7165CB2F0B2AE7.title: "Andesite Propeller"
+	quest.0E79653EC0C69E83.quest_desc: ["Defeat an enemy with your Potato Cannon"]
+	quest.0E79653EC0C69E83.title: "Fwoomp!"
+	quest.0E912D8AFDBBB40A.quest_desc: ["Eat everything that is edible, even if it's not good for you."]
+	quest.0E912D8AFDBBB40A.title: "A Balanced Diet"
+	quest.0EA939BC1ED841CD.quest_desc: [
+		"Cast faster."
+		""
+		"Obtain the ring."
+	]
+	quest.0EA939BC1ED841CD.title: "Cast Time Ring"
+	quest.0EBED5606A5350FC.quest_desc: [
+		"Wear accessories in the accessory slots."
+		""
+		"Obtain the ring."
+	]
+	quest.0EBED5606A5350FC.title: "Mana Ring"
+	quest.0ED0CDB0A7689CFE.quest_desc: [
+		"Milestones for unlocking World Tiers in Apotheosis."
+		"Press CTRL+T to open the select screen"
+	]
+	quest.0ED0CDB0A7689CFE.title: "Apothic World Tiers"
+	quest.0F2C87CDE6ADFEE2.quest_desc: [
+		"Wood: Jacaranda (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Lavender Field"
+		""
+		"Reward: 16 Jacaranda logs."
+	]
+	quest.0F2C87CDE6ADFEE2.quest_subtitle: "Biomes O' Plenty"
+	quest.0F2C87CDE6ADFEE2.title: "Jacaranda Wood"
+	quest.0F818F209E4D2554.quest_desc: [
+		"Steam 'n' Rails adds new track types, including a monorail, and lets you lay track on slopes and turns."
+		""
+		"Try out one of the new track types. Tick this off yourself."
+	]
+	quest.0F818F209E4D2554.title: "Tracks Beyond the Ordinary"
+	quest.0FA253B69C73137D.quest_desc: [
+		"Full dragonsteel is the peak of Ice and Fire gear."
+		""
+		"Obtain a Dragonsteel Fire Chestplate."
+	]
+	quest.0FA253B69C73137D.title: "Dragonsteel Fire Plate"
+	quest.0FCB47B0AEAF35E2.quest_desc: ["Found someone special? Craft an engagement ring (the regular one; the rose gold version is a different item)."]
+	quest.0FCB47B0AEAF35E2.quest_subtitle: "Craft an engagement ring"
+	quest.0FCB47B0AEAF35E2.title: "Will You Marry Me?"
+	quest.0FE4611C3963A2F9.quest_desc: [
+		"Forged in dragon fire, ice or lightning."
+		""
+		"Obtain a Dragon Forge Core."
+	]
+	quest.0FE4611C3963A2F9.title: "Dragon Forge"
+	quest.100E935F9062E6C7.quest_desc: ["Watch a fluid-containing item be filled by a Spout"]
+	quest.100E935F9062E6C7.title: "Sploosh"
+	quest.10138D86300792A0.quest_desc: [
+		"Every villager has their own tastes."
+		""
+		"Find out what one loves, and give them a perfect gift."
+	]
+	quest.10138D86300792A0.quest_subtitle: "A perfect gift"
+	quest.10138D86300792A0.title: "Just What I Always Wanted"
+	quest.1018BD1B53994EEA.quest_desc: [
+		"No hero fights on an empty stomach."
+		""
+		"Gather 16 cooked beef."
+	]
+	quest.1018BD1B53994EEA.title: "Provisions"
+	quest.101A69B9EC71BA53.quest_desc: ["Sneak into an Umvuthana grove in disguise"]
+	quest.101A69B9EC71BA53.title: "Birds of a Feather"
+	quest.106CBD2ACFF1E23D.quest_desc: ["A world of flavor awaits you!"]
+	quest.106CBD2ACFF1E23D.title: "Farmer's Delight"
+	quest.10A011E6B35C8FA3.quest_desc: ["Extract or insert items into a container using a Funnel"]
+	quest.10A011E6B35C8FA3.title: "Airport Aesthetic"
+	quest.10A3DF93C974C271.quest_desc: [
+		"Put a drill in the machine."
+		""
+		"Obtain an Iron Drill."
+	]
+	quest.10A3DF93C974C271.title: "Iron Drill"
+	quest.10E82D556D960142.quest_desc: ["Kill a Grottol with a silk touch pickaxe"]
+	quest.10E82D556D960142.title: "You're Coming With Me"
+	quest.10F00311963C2C53.quest_desc: [
+		"Wear it in an accessory slot."
+		""
+		"Obtain a Concentration Amulet."
+	]
+	quest.10F00311963C2C53.title: "Concentration Amulet"
+	quest.113251FCA9EED768.quest_desc: [
+		"Wood: Palm (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Tropics"
+		""
+		"Reward: 16 Palm logs."
+	]
+	quest.113251FCA9EED768.quest_subtitle: "Biomes O' Plenty"
+	quest.113251FCA9EED768.title: "Palm Wood"
+	quest.1144535F432420C4.quest_desc: ["Fall to your death during the Sculptor's challenge"]
+	quest.1144535F432420C4.title: "No One Jumps for the Beef"
+	quest.114E7BF2D01A1761.quest_desc: ["Craft an Enchanted Spell Book."]
+	quest.114E7BF2D01A1761.title: "Master Enchanter"
+	quest.116195D2DFB32DAA.quest_desc: ["Use a Freezer and Icestone to freeze an accessory"]
+	quest.116195D2DFB32DAA.title: "Cool Jewelery!"
+	quest.11A3F38FEC2CE1B0.quest_desc: ["With a tool in hand, use a Cutting Board to break down an item"]
+	quest.11A3F38FEC2CE1B0.title: "Watch Your Fingers"
+	quest.11F055BB76BEB63C.quest_desc: ["Befriend a pixie by dropping cake near it"]
+	quest.11F055BB76BEB63C.title: "Here Comes Your Man"
+	quest.122FC7641A188033.quest_desc: ["Place and power a set of Crushing Wheels"]
+	quest.122FC7641A188033.title: "Wheels of Destruction"
+	quest.124FC155E9B8A466.quest_desc: ["Craft and Place a Fertilized Soil"]
+	quest.124FC155E9B8A466.title: "Groundwork Laid"
+	quest.1260ED4556980427.quest_desc: ["Harvest Red, White, Taiga, and Savanna Grape variants."]
+	quest.1260ED4556980427.title: "Grape Picker"
+	quest.1295FBAAEA0DF4AD.quest_desc: ["Craft and Place a Roaster"]
+	quest.1295FBAAEA0DF4AD.title: "Roast and Boast"
+	quest.12FFA57F9A49E13D.quest_desc: ["Use an Altar to obtain Enchanted Gravitite"]
+	quest.12FFA57F9A49E13D.title: "Pink is the New Blue"
+	quest.1341EBB3C3D46570.quest_desc: [
+		"Wood: Aspen (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Weeping Witch Forest, Black Forest, Maple Taiga"
+		""
+		"Reward: 16 Aspen logs."
+	]
+	quest.1341EBB3C3D46570.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.1341EBB3C3D46570.title: "Aspen Wood"
+	quest.136569D9FE405CE7.quest_desc: ["Welcome to Mowzie's Mobs!"]
+	quest.136569D9FE405CE7.title: "Mowzie's Mobs"
+	quest.13705595CAA2A58E.quest_desc: ["Use a campfire to collect honey from a beehive using a glass bottle, without aggravating the bees."]
+	quest.13705595CAA2A58E.title: "Bee Our Guest"
+	quest.139C2F5B9EAB1BA9.quest_desc: ["Eat a Tomato"]
+	quest.139C2F5B9EAB1BA9.title: "Taste the Red"
+	quest.13C7E1167F357E68.quest_desc: ["Craft a family tree to keep track of who is related to whom."]
+	quest.13C7E1167F357E68.quest_subtitle: "Keep track of everyone"
+	quest.13C7E1167F357E68.title: "Family Tree"
+	quest.13DA75E5D75D2D1D.quest_desc: ["Enchant an item at 50% Arcana."]
+	quest.13DA75E5D75D2D1D.title: "Magical Energy"
+	quest.13EA2D2A6F0808AA.quest_desc: ["Create Chocolate Glazed Berries, a Honeyed Apple, and a Sweet Roll all from the same Spout"]
+	quest.13EA2D2A6F0808AA.title: "Balanced Diet"
+	quest.13EBE77D5B3C63F3.quest_desc: [
+		"Steer your creation."
+		""
+		"Obtain a Steering Wheel."
+	]
+	quest.13EBE77D5B3C63F3.title: "Take the Wheel"
+	quest.14376FB33B853A77.quest_desc: ["Place and power an Encased Fan"]
+	quest.14376FB33B853A77.title: "Wind Maker"
+	quest.1490BD9759591E6D.quest_desc: ["Extend a Rope Pulley over 200 blocks deep"]
+	quest.1490BD9759591E6D.title: "Rope to Nowhere"
+	quest.14BC3DCCDDB0EA83.quest_desc: [
+		"The sun-chief's song has stopped. The frost no longer stirs. The iron watcher stands still for the first time in an age."
+		""
+		"And in the silence, you hear something new: the beat of great wings, far to the north."
+	]
+	quest.14BC3DCCDDB0EA83.title: "Interlude: The Silence"
+	quest.15110356DD679A24.quest_desc: ["Pump from a body of lava large enough to be considered infinite"]
+	quest.15110356DD679A24.title: "Tapping the Mantle"
+	quest.15284331F1CCE4E7.quest_desc: [
+		"Wood: Ebony (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Forgotten Forest, Ebony Woods, Fragment Jungle"
+		""
+		"Reward: 16 Ebony logs."
+	]
+	quest.15284331F1CCE4E7.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.15284331F1CCE4E7.title: "Ebony Wood"
+	quest.152A57B71063BEB3.quest_desc: ["Obtain a Regeneration Stone from the Silver Dungeon. The final dungeon awaits..."]
+	quest.152A57B71063BEB3.title: "Battle Hardened"
+	quest.1556D105FB5B8324.quest_desc: [
+		"Mounts a propeller to your contraption."
+		""
+		"Obtain a Propeller Bearing."
+	]
+	quest.1556D105FB5B8324.title: "Propeller Bearing"
+	quest.15772B52A0E39AD1.quest_desc: ["Find the unique weapon Thunderbrand."]
+	quest.15772B52A0E39AD1.title: "Thunder Time"
+	quest.157C673AFA9110D0.quest_desc: [
+		"Thrust for your ship."
+		""
+		"Obtain a Portable Engine."
+	]
+	quest.157C673AFA9110D0.title: "Portable Engine"
+	quest.15930125ED720B7A.quest_desc: ["Use a Hoe on Fertilized Soil"]
+	quest.15930125ED720B7A.title: "To Hoe or Not to Hoe"
+	quest.15B609731252F172.quest_desc: ["Craft an Altar"]
+	quest.15B609731252F172.title: "Do You Believe in Magic?"
+	quest.15D12DBC53CA57B9.quest_desc: ["Find the unique weapon Bramblethorn."]
+	quest.15D12DBC53CA57B9.title: "Spore Galore"
+	quest.15E5DBB4FFA3144A.quest_desc: ["Use pipes to pull honey from a Bee Nest or Beehive"]
+	quest.15E5DBB4FFA3144A.title: "Autonomous Bee-Keeping"
+	quest.162C9B7DC3C15DCA.quest_desc: ["Kill a Grottol with a fortune pickaxe"]
+	quest.162C9B7DC3C15DCA.title: "Double Or Nothing!"
+	quest.16331991702B4578.quest_desc: [
+		"Talk, chat and give gifts to a villager to raise your hearts with them."
+		""
+		"Reach 50 hearts with one villager."
+	]
+	quest.16331991702B4578.quest_subtitle: "Reach 50 hearts"
+	quest.16331991702B4578.title: "Friendship Found"
+	quest.165B01F3A5F57F6B.quest_desc: [
+		"Keep your distance from what you hunt."
+		""
+		"Obtain a Dragonbone Bow."
+	]
+	quest.165B01F3A5F57F6B.title: "Dragonbone Bow"
+	quest.166ADB42D839D0AE.quest_desc: ["Obtain an enchanting table, and begin to unveil the mystery."]
+	quest.166ADB42D839D0AE.title: "The Secrets of Enchanting"
+	quest.16B121170BC8B86D.quest_desc: [
+		"Wood: Dead (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Tundra"
+		""
+		"Reward: 16 Dead logs."
+	]
+	quest.16B121170BC8B86D.quest_subtitle: "Biomes O' Plenty"
+	quest.16B121170BC8B86D.title: "Dead Wood"
+	quest.16C4615DB62B22F9.quest_desc: ["Craft a dragon flute to stop runaway dragons"]
+	quest.16C4615DB62B22F9.title: "The Song of the Dragons"
+	quest.16D13F28C4D495DC.quest_desc: ["Place a Water Wheel and use it to generate torque"]
+	quest.16D13F28C4D495DC.title: "Harnessed Hydraulics"
+	quest.16D2752A390DAB56.quest_desc: ["Get your drying results"]
+	quest.16D2752A390DAB56.title: "From Waste to Growth"
+	quest.16F7AF9B5C1C6A72.quest_desc: [
+		"Use an Ore Vein Finder to locate ore veins."
+		""
+		"Obtain an Ore Vein Finder."
+	]
+	quest.16F7AF9B5C1C6A72.title: "Prospecting"
+	quest.16FD594E4053F0BC.quest_desc: ["Kill a Frostmaw"]
+	quest.16FD594E4053F0BC.title: "Rude Awakening"
+	quest.1702597C6D29B063.quest_desc: ["Right-click with backpack in hand on Cauldron with water to clear the dye"]
+	quest.1702597C6D29B063.title: "Don't like the color?"
+	quest.1717A7893CF71527.quest_desc: ["Use Sturdy Sheets to create a casing for railway components"]
+	quest.1717A7893CF71527.title: "The Locomotive Age"
+	quest.1737032D3092292E.quest_desc: ["Put down a Cooking Pot and start preparing meals!"]
+	quest.1737032D3092292E.title: "Dinner's Served!"
+	quest.176F195A6E7180F6.quest_desc: ["Successfully raise a functioning adult."]
+	quest.176F195A6E7180F6.quest_subtitle: "Raise an adult"
+	quest.176F195A6E7180F6.title: "They Grow Up So Fast"
+	quest.17837DCDBE3F7BE2.quest_desc: [
+		"Simulated is the backbone of Create Aeronautics: assembly, redstone parts and the tools every physical contraption needs."
+		""
+		"Obtain a Physics Assembler."
+	]
+	quest.17837DCDBE3F7BE2.title: "Simulated Contraptions"
+	quest.179D4F714ACDD627.quest_desc: ["Put items up for sale using a Table Cloth"]
+	quest.179D4F714ACDD627.title: "Open for business"
+	quest.17A23D147B351367.quest_desc: [
+		"Control your speed."
+		""
+		"Obtain a Throttle Lever."
+	]
+	quest.17A23D147B351367.title: "Throttle Up"
+	quest.17C4DFF9F4ADBA71.quest_desc: ["Throw a Rotten Tomato at one of these pesky raiders!"]
+	quest.17C4DFF9F4ADBA71.title: "Boo! Hiss!"
+	quest.17CEFFB154026F3A.quest_desc: [
+		"Uses Gem Dust and Rarity Materials to upgrade Gems."
+		""
+		"Obtain a Gem Cutting Table."
+	]
+	quest.17CEFFB154026F3A.title: "Gem Cutting Table"
+	quest.1807FB59A28F1331.quest_desc: ["Witness your Cuckoo Clock announce bedtime"]
+	quest.1807FB59A28F1331.title: "Is it Time?"
+	quest.1808F1B97C0DC508.quest_desc: ["Obtain a Seashelf"]
+	quest.1808F1B97C0DC508.title: "The Purity of the Seas"
+	quest.189447868DEC5D5C.quest_desc: ["Get engaged and marry a villager."]
+	quest.189447868DEC5D5C.quest_subtitle: "Get married"
+	quest.189447868DEC5D5C.title: "'Til Death Do Us Part"
+	quest.18958F0B3E05B0C9.quest_desc: ["Place a Stove"]
+	quest.18958F0B3E05B0C9.title: "Dinner is Coming"
+	quest.189A69DB8380FE01.quest_desc: [
+		"Wear it in an accessory slot."
+		""
+		"Obtain a Silver Ring."
+	]
+	quest.189A69DB8380FE01.title: "Silver Ring"
+	quest.18A12961FF28F9C3.quest_desc: ["Tame an animal."]
+	quest.18A12961FF28F9C3.title: "Best Friends"
+	quest.18D3E399E71ADC97.quest_desc: ["Plant a seed and watch it grow."]
+	quest.18D3E399E71ADC97.title: "A Seedy Place"
+	quest.19219B706408061D.quest_desc: [
+		"Not every biome grows trees (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Dead Sea, Basalt Barrera"
+		""
+		"Reward: 16 bone meal, so you can grow some yourself."
+	]
+	quest.19219B706408061D.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.19219B706408061D.title: "Treeless Wonders"
+	quest.1936653DEFBFF24C.quest_desc: ["Upgrade an Infused Seashelf"]
+	quest.1936653DEFBFF24C.title: "Sleeping in the Cold Below"
+	quest.1946D383ED0B15A1.quest_desc: ["Thank you for downloading Farm and Charm"]
+	quest.1946D383ED0B15A1.title: "Welcome to Farm and Charm!"
+	quest.194A11B57E4C9E8B.quest_desc: [
+		"The best drill money can buy."
+		""
+		"Obtain a Netherite Drill."
+	]
+	quest.194A11B57E4C9E8B.title: "Netherite Drill"
+	quest.19551F268CBCCD23.quest_desc: ["Craft an Inscription Table"]
+	quest.19551F268CBCCD23.title: "Quaint Scribe"
+	quest.1984CB4C5FFC6926.quest_desc: ["Harvest grass, wheat or rice with a Knife to collect Straw"]
+	quest.1984CB4C5FFC6926.title: "Grasping at Straws"
+	quest.198C19770943CF26.quest_desc: ["Enchant an item while having at least 10 of each stat."]
+	quest.198C19770943CF26.title: "Eterna, Quanta, Arcana"
+	quest.199A6725201D0A7B.quest_desc: [
+		"Used to fuel the Reforging Table."
+		""
+		"Obtain a Sigil of Rebirth."
+	]
+	quest.199A6725201D0A7B.title: "Sigil of Rebirth"
+	quest.199CC1BC43AC3B70.quest_desc: [
+		"Wood: Florus (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Forgotten Forest, Allium Shrubland"
+		""
+		"Reward: 16 Florus logs."
+	]
+	quest.199CC1BC43AC3B70.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.199CC1BC43AC3B70.title: "Florus Wood"
+	quest.19F251A8E82464F9.quest_desc: [
+		"Wood: Redwood (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Sparse Redwoods"
+		""
+		"Reward: 16 Redwood logs."
+	]
+	quest.19F251A8E82464F9.quest_subtitle: "Regions Unexplored"
+	quest.19F251A8E82464F9.title: "Redwood Wood"
+	quest.19F7FDFC20D8D8A1.quest_desc: [
+		"You have walked many paths."
+		""
+		"Your legend is complete."
+	]
+	quest.19F7FDFC20D8D8A1.title: "Master of Arms"
+	quest.1A046710CB1FE3E2.quest_desc: ["Trigger an automatic package request using Factory Gauges"]
+	quest.1A046710CB1FE3E2.title: "High Logistics"
+	quest.1A35DF30BDB6F1D4.quest_desc: ["Craft a Knife to scavenge extra goods from plants and animals"]
+	quest.1A35DF30BDB6F1D4.title: "Hunt and Gather"
+	quest.1A69313DDDA89D53.quest_desc: [
+		"Robes to match your staff."
+		""
+		"Obtain the Lightning Dragon Priest Robes."
+	]
+	quest.1A69313DDDA89D53.title: "Lightning Dragon Priest Robes"
+	quest.1A85B59FD2F61E4A.quest_desc: ["Make every available dish in a Cooking Pot"]
+	quest.1A85B59FD2F61E4A.title: "Culinary Conqueror"
+	quest.1AB75D2FB3AF779D.quest_desc: ["Fly on a Phyg!"]
+	quest.1AB75D2FB3AF779D.title: "When Phygs Fly"
+	quest.1ABAE5C2133C6BC6.quest_desc: ["Acquire any type of ink."]
+	quest.1ABAE5C2133C6BC6.title: "Tools of the Trade"
+	quest.1AE38746C8E8BCEC.quest_desc: ["Use a Steam Engine to generate torque"]
+	quest.1AE38746C8E8BCEC.title: "The Powerhouse"
+	quest.1AE4732472F53D68.quest_desc: ["Enchant an item at 100% Quanta."]
+	quest.1AE4732472F53D68.title: "Rolling the Dice"
+	quest.1B07010267EEA237.quest_desc: ["Thank you for downloading Vinery. You're amazing!"]
+	quest.1B07010267EEA237.title: "Welcome to Vinery!"
+	quest.1B1C355D81C543CB.quest_desc: ["Use your Wrench on a pipe that contains a fluid"]
+	quest.1B1C355D81C543CB.title: "Flow Discovery"
+	quest.1B30C71EFF64AB34.quest_desc: [
+		"Wood: Baobab (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Baobab Savanna"
+		""
+		"Reward: 16 Baobab logs."
+	]
+	quest.1B30C71EFF64AB34.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.1B30C71EFF64AB34.title: "Baobab Wood"
+	quest.1B357182B37D2BD2.quest_desc: [
+		"Wood: Zelkova (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Zelkova Forest"
+		""
+		"Reward: 16 Zelkova logs."
+	]
+	quest.1B357182B37D2BD2.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.1B357182B37D2BD2.title: "Zelkova Wood"
+	quest.1B4535933D9E1D35.quest_desc: ["Create some sheets in a Mechanical Press"]
+	quest.1B4535933D9E1D35.title: "Bonk!"
+	quest.1B697B474A8CB566.quest_desc: ["I defeated the Silver Dungeon and all I got was this stupid Hoe"]
+	quest.1B697B474A8CB566.title: "Plunderer's Remorse"
+	quest.1BA2B3FDB43F2F2E.quest_desc: ["Roast every type of food to perfection"]
+	quest.1BA2B3FDB43F2F2E.title: "Roasting Rampage"
+	quest.1BDA415845587F60.quest_desc: ["Time to make it official. Craft a wedding ring."]
+	quest.1BDA415845587F60.quest_subtitle: "Craft a wedding ring"
+	quest.1BDA415845587F60.title: "The Big Day"
+	quest.1BE3C547CD81B4C0.quest_desc: ["Fill backpack tanks with lingering or splash potions and throw them into the world using hose"]
+	quest.1BE3C547CD81B4C0.title: "Spill Potions"
+	quest.1C74FDA81EF822C7.quest_desc: ["Craft a dragon horn to store dragons"]
+	quest.1C74FDA81EF822C7.title: "An Ear-Shattering Roar"
+	quest.1C86351BEC35BEA1.quest_desc: ["Collect all Grape variants."]
+	quest.1C86351BEC35BEA1.title: "Vineyard Visionary"
+	quest.1CF5995A580047B2.quest_desc: ["Get an exact readout with the help of Engineer's Goggles and a Stressometer"]
+	quest.1CF5995A580047B2.title: "Stress for Nerds"
+	quest.1CF98F0F20B29CD9.quest_desc: [
+		"Your social journey starts here."
+		""
+		"Find and enter a village to get started."
+	]
+	quest.1CF98F0F20B29CD9.quest_subtitle: "Minecraft Comes Alive"
+	quest.1CF98F0F20B29CD9.title: "Welcome to the Village"
+	quest.1D01074CF3C2D9B9.quest_desc: ["Use a Knife to extract Ham from Pigs or Hoglins"]
+	quest.1D01074CF3C2D9B9.title: "Wild Butcher"
+	quest.1D16811E1032D51F.quest_desc: ["Find the unique weapon Mjolnir."]
+	quest.1D16811E1032D51F.title: "It Comes Back, Right?"
+	quest.1D2101F8424164C5.quest_desc: [
+		"Click the finished sample drill with the atlas and it records the vein details, so you can filter by that vein."
+		""
+		"Obtain an Ore Vein Atlas."
+	]
+	quest.1D2101F8424164C5.title: "Ore Vein Atlas"
+	quest.1D21A55D6E8C44BC.quest_desc: ["Get hold of an Extendo Grip"]
+	quest.1D21A55D6E8C44BC.title: "Boioioing!"
+	quest.1D2AAD77DC519E17.quest_desc: ["Finally sleep in the Aether"]
+	quest.1D2AAD77DC519E17.title: "A Well Earned Rest"
+	quest.1D7DE33A3AB31008.quest_desc: [
+		"Wood: Sakura (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Sakura Grove"
+		""
+		"Reward: 16 Sakura logs."
+	]
+	quest.1D7DE33A3AB31008.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.1D7DE33A3AB31008.title: "Sakura Wood"
+	quest.1D882935EC526126.quest_desc: ["Enchant an item at 100% Arcana."]
+	quest.1D882935EC526126.title: "Arcane Power"
+	quest.1DDB552CB33BC255.quest_desc: [
+		"Wood: Cika (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Cika Woods"
+		""
+		"Reward: 16 Cika logs."
+	]
+	quest.1DDB552CB33BC255.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.1DDB552CB33BC255.title: "Cika Wood"
+	quest.1DFA11D5F5544A21.quest_desc: ["Craft an arrow from stymhalian bird feathers that flies further"]
+	quest.1DFA11D5F5544A21.title: "Flying Forwards"
+	quest.1E3CEFFFA729458C.quest_desc: [
+		"A locomotive needs something to belch smoke."
+		""
+		"Obtain a Streamlined Smokestack."
+	]
+	quest.1E3CEFFFA729458C.title: "Smokestack"
+	quest.1EA151B150307379.quest_desc: [
+		"Each guardian leaves something behind: the sun-chief's visage, the wrought helmet and the ice crystal of the sleeper."
+		""
+		"Obtain all three."
+	]
+	quest.1EA151B150307379.title: "Spoils of the Guardians"
+	quest.1EA8799171A08DD3.quest_desc: ["Kill a Zephyr with the Hammer of Kingbdogz. Sweet Revenge!"]
+	quest.1EA8799171A08DD3.title: "Ultimate Ban Hammer"
+	quest.1EBCC9792B6C5AF0.quest_desc: ["Leave a Train Seat over 5000 blocks away from where you started travelling"]
+	quest.1EBCC9792B6C5AF0.title: "Field Trip"
+	quest.1ED03B8FCF4EED10.quest_desc: ["Draw fluid from the world"]
+	quest.1ED03B8FCF4EED10.title: "Suck Mode"
+	quest.1ED131653BD46932.quest_desc: [
+		"Used to fuel the Augmenting Table."
+		""
+		"Obtain a Sigil of Enhancement."
+	]
+	quest.1ED131653BD46932.title: "Sigil of Enhancement"
+	quest.1EDBF1F6543457FC.quest_desc: ["Defeat the Grim Reaper."]
+	quest.1EDBF1F6543457FC.quest_subtitle: "Defeat the Grim Reaper"
+	quest.1EDBF1F6543457FC.title: "Beat Death"
+	quest.1FB687F269A3E9A5.quest_desc: ["Obtain a piece of Phoenix armor from the Gold Dungeon"]
+	quest.1FB687F269A3E9A5.title: "Fireproof"
+	quest.1FE833CB0CD8C65A.quest_desc: [
+		"Full dragonsteel is the peak of Ice and Fire gear."
+		""
+		"Obtain a Dragonsteel Lightning Chestplate."
+	]
+	quest.1FE833CB0CD8C65A.title: "Dragonsteel Storm Plate"
+	quest.203ED98D77BBE528.quest_desc: [
+		"Wood: Willow (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Bayou"
+		""
+		"Reward: 16 Willow logs."
+	]
+	quest.203ED98D77BBE528.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.203ED98D77BBE528.title: "Willow Wood"
+	quest.204D23997A7ADFE7.quest_desc: ["Resist her song and kill a siren"]
+	quest.204D23997A7ADFE7.title: "Tie me to the Mast"
+	quest.205669B18C10AF53.quest_desc: [
+		"A staff for the priests of dragons."
+		""
+		"Obtain a Dragon Priest Staff."
+	]
+	quest.205669B18C10AF53.title: "Dragon Priest Staff"
+	quest.205A15B10E255E1E.quest_desc: ["Use a netherite ingot to upgrade a hoe."]
+	quest.205A15B10E255E1E.title: "Serious Dedication"
+	quest.20A04DBA13CC4E70.quest_desc: [
+		"Wood: Pine (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Jade Cliffs"
+		""
+		"Reward: 16 Pine logs."
+	]
+	quest.20A04DBA13CC4E70.quest_subtitle: "Biomes O' Plenty"
+	quest.20A04DBA13CC4E70.title: "Pine Wood"
+	quest.20A41F09EE88D23A.quest_desc: ["Have a full set of gravitite armor in your inventory"]
+	quest.20A41F09EE88D23A.title: "Defying Gravity"
+	quest.20B9CFF335A8E90B.quest_desc: ["Acquire the Dead King's unique tome of tricks."]
+	quest.20B9CFF335A8E90B.title: "Necronomicon"
+	quest.20C085639DD23608.quest_desc: [
+		"A lightning mage set."
+		""
+		"Obtain the helmet."
+	]
+	quest.20C085639DD23608.title: "Electromancer"
+	quest.210D231588F03321.quest_desc: ["Plant any Sniffer seed."]
+	quest.210D231588F03321.title: "Planting the Past"
+	quest.210DC94C5BB2F39B.quest_desc: ["Obtain the Hammer of Kingbdogz from the Bronze Dungeon"]
+	quest.210DC94C5BB2F39B.title: "The Power of the Gods"
+	quest.2165D3B7E3966FAC.quest_desc: ["Enchant an item at level 100."]
+	quest.2165D3B7E3966FAC.title: "Draconic Enchanting"
+	quest.216CFB931C48F612.quest_desc: ["Pick up a Minecart Contraption with at least 200 attached blocks"]
+	quest.216CFB931C48F612.title: "Strong Arms"
+	quest.216E23EEFA476C53.quest_desc: [
+		"Rose gold makes for fancier rings."
+		""
+		"Get a rose gold ingot."
+	]
+	quest.216E23EEFA476C53.quest_subtitle: "Optional: fancier rings"
+	quest.216E23EEFA476C53.title: "A Touch of Rose Gold"
+	quest.21729B50C0E98662.quest_desc: [
+		"Wood: Birch (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Temperate Grove, Overgrowth Woodlands, Howling Peaks"
+		""
+		"Reward: 16 Birch logs."
+	]
+	quest.21729B50C0E98662.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.21729B50C0E98662.title: "Birch Wood"
+	quest.2176435D3BAB7F64.quest_desc: ["Ride a train through a portal."]
+	quest.2176435D3BAB7F64.title: "Dimensional Commuter"
+	quest.219F8BBF362834E4.quest_desc: [
+		"Wood: Jungle (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Fragment Jungle, Tropical Rainforest"
+		""
+		"Reward: 16 Jungle logs."
+	]
+	quest.219F8BBF362834E4.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.219F8BBF362834E4.title: "Jungle Wood"
+	quest.21A2D7331923DF42.quest_desc: [
+		"Find your way back after death."
+		""
+		"Obtain a Recovery Compass."
+	]
+	quest.21A2D7331923DF42.title: "Recovery Compass"
+	quest.21A5A7A79CA2F9B2.quest_desc: [
+		"Cast again sooner."
+		""
+		"Obtain the ring."
+	]
+	quest.21A5A7A79CA2F9B2.title: "Cooldown Ring"
+	quest.21F29BEBE49F07F5.quest_desc: ["Obtain a bucket of molten chocolate"]
+	quest.21F29BEBE49F07F5.title: "A World of Imagination"
+	quest.21F869DFFBB35061.quest_desc: ["Craft the Ironbound Tome."]
+	quest.21F869DFFBB35061.title: "Knowledge Unchained"
+	quest.221C9B61FCCB18DC.quest_desc: ["There's more than meets the eye to this world..."]
+	quest.221C9B61FCCB18DC.title: "Iron's Spells 'n Spellbooks"
+	quest.225C8D823F52A868.quest_desc: [
+		"Equip a full set of Affix items to progress into the Frontier."
+		"Once unlocked, use CTRL+T to activate it"
+	]
+	quest.225C8D823F52A868.title: "World Tier: Frontier"
+	quest.22917146E86CE615.quest_desc: ["Kill a Bluff"]
+	quest.22917146E86CE615.title: "Called Your Bluff"
+	quest.22967907A0EE1679.quest_desc: [
+		"Wood: Willow (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Bayou, Willow Forest"
+		""
+		"Reward: 16 Willow logs."
+	]
+	quest.22967907A0EE1679.quest_subtitle: "Regions Unexplored"
+	quest.22967907A0EE1679.title: "Willow Wood"
+	quest.22CE419D03DD06C1.quest_desc: ["Kill an ice, fire or lightning dragon"]
+	quest.22CE419D03DD06C1.title: "Dragonslayer"
+	quest.22E767534770918C.quest_desc: ["Slay a ghost."]
+	quest.22E767534770918C.title: "Who You Gonna Call?"
+	quest.22E78F952E9B7FA3.quest_desc: ["Sculk sensors are listening."]
+	quest.22E78F952E9B7FA3.title: "Sneak 100"
+	quest.231F4190727520C8.quest_desc: ["Transform a Lightning Rod into a Rod O' Lightning... And hopefully survive the process."]
+	quest.231F4190727520C8.title: "Shocking Discovery"
+	quest.234689B74D934EE4.quest_desc: ["Equip a full set of Uncommon gear and slay an Invader to begin your Ascent"]
+	quest.234689B74D934EE4.title: "World Tier: Ascent"
+	quest.237B6342DF599C9C.quest_desc: ["Equip Engineer's Goggles and a Wrench"]
+	quest.237B6342DF599C9C.title: "Kitted Out"
+	quest.239C5B947D1FBAE3.quest_desc: ["Upgrade an Infused Hellshelf."]
+	quest.239C5B947D1FBAE3.title: "Mastering the Inferno"
+	quest.23D839857A4F572B.quest_desc: [
+		"Villages recognise the people who help them."
+		""
+		"Earn your first rank in a village."
+	]
+	quest.23D839857A4F572B.quest_subtitle: "Your first village rank"
+	quest.23D839857A4F572B.title: "Merchant"
+	quest.23E49D7CE2E66B7D.quest_desc: ["Place an Apple Press."]
+	quest.23E49D7CE2E66B7D.title: "The First Press"
+	quest.23FCB7CD67EF75C1.quest_desc: [
+		"Magic in one hand, a legendary blade in the other."
+		""
+		"Reach the Master Enchanter tier of spellbook and find a runic weapon."
+	]
+	quest.23FCB7CD67EF75C1.title: "Spellblade"
+	quest.24007B1E7A5897A3.quest_desc: ["Assemble a Steam Whistle to your Train and activate it while driving"]
+	quest.24007B1E7A5897A3.title: "Choo Choo!"
+	quest.24698FD7A9F25478.quest_desc: ["Enchant an item at level 60."]
+	quest.24698FD7A9F25478.title: "Mastering Hell and Sea"
+	quest.246F9BFDDB9EBD15.quest_desc: [
+		"Wood: Maple (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Maple Forest"
+		""
+		"Reward: 16 Maple logs."
+	]
+	quest.246F9BFDDB9EBD15.quest_subtitle: "Regions Unexplored"
+	quest.246F9BFDDB9EBD15.title: "Maple Wood"
+	quest.24A955B1F2C7EA58.quest_desc: ["Place a Train Signal"]
+	quest.24A955B1F2C7EA58.title: "Traffic Control"
+	quest.24D523E45E5C7474.quest_desc: ["Obtain a bottle of MissLilitu Wine aged to perfection for 15 years."]
+	quest.24D523E45E5C7474.title: "Vintage Perfection"
+	quest.24EBDD768BC21B7F.quest_desc: ["Obtain a runic weapon."]
+	quest.24EBDD768BC21B7F.title: "Rune Etching"
+	quest.251751CA5E98874B.quest_desc: [
+		"Emeralds without the villagers."
+		""
+		"Obtain some Raw Emerald."
+	]
+	quest.251751CA5E98874B.title: "Raw Emerald"
+	quest.25413BD4D57FA697.quest_desc: ["Harvest an Apple."]
+	quest.25413BD4D57FA697.title: "Forbidden Fruit"
+	quest.258871BD08B247DB.quest_desc: [
+		"Wood: Dark Oak (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Forgotten Forest, Coconino Meadow"
+		""
+		"Reward: 16 Dark Oak logs."
+	]
+	quest.258871BD08B247DB.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.258871BD08B247DB.title: "Dark Oak Wood"
+	quest.25A1D942C2ACA547.quest_desc: ["You can optionally use tanks while crafting basic backpack to get Fluid Tanks Upgrade. It can be applied later too"]
+	quest.25A1D942C2ACA547.title: "(Optional) Fluid Tanks Upgrade"
+	quest.25AE2944C21AF9D9.quest_desc: ["Combine Standard Backpack with any dye(s) in crafting table"]
+	quest.25AE2944C21AF9D9.title: "Dye your backpack!"
+	quest.25B8113B23732C6C.quest_desc: ["Steal an ice crystal from a Frostmaw"]
+	quest.25B8113B23732C6C.title: "Big Brain™ Time"
+	quest.25EE9BC71FFE3B97.quest_desc: [
+		"Wood: Mahogany (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Fragment Jungle, Crag Gardens, Tropical Rainforest"
+		""
+		"Reward: 16 Mahogany logs."
+	]
+	quest.25EE9BC71FFE3B97.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.25EE9BC71FFE3B97.title: "Mahogany Wood"
+	quest.260C1BCCB37D2215.quest_desc: ["Find Wild Crops and collect them"]
+	quest.260C1BCCB37D2215.title: "Harvest of the Wild"
+	quest.261559598DDA641E.quest_desc: [
+		"Dragon fire, dragon frost, dragon lightning: each can temper steel no smith could ever shape."
+		""
+		"Build the forge, fuel it with blood, and make something worthy of the guardians' legacy."
+	]
+	quest.261559598DDA641E.title: "Act III: The Forge"
+	quest.2626094AF9EE419E.quest_desc: ["Obtain a dragon egg"]
+	quest.2626094AF9EE419E.title: "Mother of Dragons"
+	quest.2630890539761365.quest_desc: ["Use sleeping bag by clicking button in equipped backpack screen (Click 3 Dots button if you don't see it)"]
+	quest.2630890539761365.title: "Time to sleep"
+	quest.2635A5EE836E052C.quest_desc: ["Combine ingredients in a Mechanical Mixer"]
+	quest.2635A5EE836E052C.title: "Mixing It Up"
+	quest.264843AEE889DAD3.quest_desc: [
+		"Whatever is out there, it will not be friendly."
+		""
+		"Obtain an iron chestplate."
+	]
+	quest.264843AEE889DAD3.title: "Steel for the Road"
+	quest.267EDBB163BC45C1.quest_desc: ["Apple and Cherry Trees now grow in Plains Biomes."]
+	quest.267EDBB163BC45C1.title: "Fruits of the Field"
+	quest.2684F9B9F0D56B9C.quest_desc: [
+		"Wood: Willow (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Wetland"
+		""
+		"Reward: 16 Willow logs."
+	]
+	quest.2684F9B9F0D56B9C.quest_subtitle: "Biomes O' Plenty"
+	quest.2684F9B9F0D56B9C.title: "Willow Wood"
+	quest.268AEF45CB909587.quest_desc: ["Create the legendary pixie weapon"]
+	quest.268AEF45CB909587.title: "Where Is My Mind?"
+	quest.269F5929CF21074C.quest_desc: ["Find the unique weapon Whisperwind."]
+	quest.269F5929CF21074C.title: "Can you hear it?"
+	quest.26C61590E001B9C3.quest_desc: [
+		"Wood: Dead (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Fen, Marsh"
+		""
+		"Reward: 16 Dead logs."
+	]
+	quest.26C61590E001B9C3.quest_subtitle: "Regions Unexplored"
+	quest.26C61590E001B9C3.title: "Dead Wood"
+	quest.26D25774A7D33807.quest_desc: [
+		"Your network runs on schedule: long trains, working signals, stations across the land."
+		""
+		"A true railway baron."
+	]
+	quest.26D25774A7D33807.title: "The Grand Railway"
+	quest.270E0B5D072E7D99.quest_desc: [
+		"A shinier kind of lift."
+		""
+		"Obtain Pearlescent Levitite."
+	]
+	quest.270E0B5D072E7D99.title: "Pearlescent Levitite"
+	quest.27417D0DC9E806D1.quest_desc: ["Upgrade an Endshelf into a Draconic Endshelf."]
+	quest.27417D0DC9E806D1.title: "The Final Bookshelf"
+	quest.274615A9338025F4.quest_desc: ["Defeat the silver boss"]
+	quest.274615A9338025F4.title: "Dethroned"
+	quest.2768FB68978482B8.quest_desc: ["Place a Feeding Trough"]
+	quest.2768FB68978482B8.title: "Dinner Bell Rings"
+	quest.2769334B7C41EBBF.quest_desc: ["Assemble a windmill and use it to generate torque"]
+	quest.2769334B7C41EBBF.title: "A mild Breeze"
+	quest.277E57CB46C13F2B.quest_desc: ["Combine Leather, Iron Tier Upgrade, and Leather Tier Backpack in Smithing Table to upgrade"]
+	quest.277E57CB46C13F2B.title: "Iron Tier Upgrade"
+	quest.278F61F48AA0FBAB.quest_desc: ["Kill a stymphalian bird"]
+	quest.278F61F48AA0FBAB.title: "Herc was on a Roll!"
+	quest.283F5F6D79B97CD0.quest_desc: [
+		"Keep enemies at a distance."
+		""
+		"Obtain an Iron Glaive."
+	]
+	quest.283F5F6D79B97CD0.title: "Long Reach"
+	quest.284AD51E79325206.quest_desc: ["Enchant an item at level 30."]
+	quest.284AD51E79325206.title: "The Basics"
+	quest.2870ADE39D91B94F.quest_desc: ["Employ a mob at your stock ticker and make your first requests"]
+	quest.2870ADE39D91B94F.title: "Order Up!"
+	quest.28744F719EF888FB.quest_desc: ["Cause Potato Cannon projectiles of different types to collide with each other"]
+	quest.28744F719EF888FB.title: "Veggie Fireworks"
+	quest.2874E5C5DC592018.quest_desc: [
+		"Wood: Pine (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Red Rock Peaks, Black Forest"
+		""
+		"Reward: 16 Pine logs."
+	]
+	quest.2874E5C5DC592018.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.2874E5C5DC592018.title: "Pine Wood"
+	quest.28F5A70C252074EA.quest_desc: ["Kill a Grottol"]
+	quest.28F5A70C252074EA.title: "You Monster..."
+	quest.2903870B61199423.quest_desc: ["Package items from an inventory using the Packager"]
+	quest.2903870B61199423.title: "Post Production"
+	quest.2948998520AB2AE4.quest_desc: [
+		"Wood: Redwood (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Redwood Forest"
+		""
+		"Reward: 16 Redwood logs."
+	]
+	quest.2948998520AB2AE4.quest_subtitle: "Biomes O' Plenty"
+	quest.2948998520AB2AE4.title: "Redwood Wood"
+	quest.29532F0F876DAC5B.quest_desc: [
+		"Wood: Small Oak (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Willow Forest"
+		""
+		"Reward: 16 Small Oak logs."
+	]
+	quest.29532F0F876DAC5B.quest_subtitle: "Regions Unexplored"
+	quest.29532F0F876DAC5B.title: "Small Oak Wood"
+	quest.295DC73701CDCB6C.quest_desc: ["Place and power a Mechanical Pump"]
+	quest.295DC73701CDCB6C.title: "Under Pressure"
+	quest.29793B54F29AC66F.quest_desc: [
+		"Every rider starts with a saddle."
+		""
+		"Obtain a Saddle."
+	]
+	quest.29793B54F29AC66F.title: "Saddle Up"
+	quest.2979CD4508A16517.quest_desc: ["Place Bone Meal inside a Wooden Silo"]
+	quest.2979CD4508A16517.title: "The Art of Drying"
+	quest.2981E7FD34C648D4.quest_desc: [
+		"Wood: Rainbow Eucalyptus (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Fragment Jungle, Crag Gardens"
+		""
+		"Reward: 16 Rainbow Eucalyptus logs."
+	]
+	quest.2981E7FD34C648D4.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.2981E7FD34C648D4.title: "Rainbow Eucalyptus Wood"
+	quest.29A53D37B14CE352.quest_desc: [
+		"Deeper and Darker adds a dimension beyond the Ancient City."
+		""
+		"Enter the Otherside. Tick this off yourself."
+	]
+	quest.29A53D37B14CE352.title: "Cross to the Otherside"
+	quest.29A85B43E291E37C.quest_desc: ["Instruct a train driver with a train schedule."]
+	quest.29A85B43E291E37C.title: "Conductor Instructor"
+	quest.29F3C57AE4532D5E.quest_desc: ["Apply Copper Ingots to stripped wood, creating a waterproof casing for your machines"]
+	quest.29F3C57AE4532D5E.title: "The Copper Age"
+	quest.2A3D7F8837DDB564.quest_desc: ["Collect all Grapejuice variants."]
+	quest.2A3D7F8837DDB564.title: "Nectar of Life"
+	quest.2A5B81C28BE16EAB.quest_desc: ["Place an Fermentation Barrel."]
+	quest.2A5B81C28BE16EAB.title: "The Magic of the Barrel"
+	quest.2A6989A2BFEFD857.quest_desc: [
+		"Break shields and armor."
+		""
+		"Obtain an Iron Greataxe."
+	]
+	quest.2A6989A2BFEFD857.title: "Axe of Ruin"
+	quest.2A821531B848841E.quest_desc: [
+		"Wood: Oak (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Prairie, Forgotten Forest, Coconino Meadow, Orchard, White Mangrove Marshes, Fragment Jungle, Baobab Savanna, Lush Stacks, Mojave Desert, Tropical Rainforest, Overgrowth Woodlands"
+		""
+		"Reward: 16 Oak logs."
+	]
+	quest.2A821531B848841E.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.2A821531B848841E.title: "Oak Wood"
+	quest.2AC4794095E71BB5.quest_desc: ["Create a bookshelf."]
+	quest.2AC4794095E71BB5.title: "Local Librarian"
+	quest.2AC4B73A74590B3D.quest_desc: [
+		"Fine control over power delivery."
+		""
+		"Obtain an Analog Transmission."
+	]
+	quest.2AC4B73A74590B3D.title: "Analog Transmission"
+	quest.2AEF01C60E9031FF.quest_desc: ["Use a charged scythe to revive a villager."]
+	quest.2AEF01C60E9031FF.quest_subtitle: "Revive with a scythe"
+	quest.2AEF01C60E9031FF.title: "A Soul for a Soul"
 	quest.2B0F58DB42896C0B.quest_subtitle: "Visit the Mediterranian Forest"
+	quest.2B444FAD5B4DEC1E.quest_desc: ["Defeat the bronze boss"]
+	quest.2B444FAD5B4DEC1E.title: "Like a Bossaru!"
+	quest.2B76E1E0E19BBAA6.quest_desc: ["Instruct a Mechanical Arm to feed your Blaze Burner"]
+	quest.2B76E1E0E19BBAA6.title: "Combust-o-Tron"
+	quest.2B891718B6C4CE5C.quest_desc: [
+		"Slow, heavy, brutal."
+		""
+		"Obtain Iron Claymore."
+	]
+	quest.2B891718B6C4CE5C.title: "Two Hands"
+	quest.2B9189777643C0CE.quest_desc: ["Transport some items by Chute"]
+	quest.2B9189777643C0CE.title: "Vertical Logistics"
+	quest.2BA3CD90CD961C89.quest_desc: [
+		"Wood: Jungle (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Tropics"
+		""
+		"Reward: 16 Jungle logs."
+	]
+	quest.2BA3CD90CD961C89.quest_subtitle: "Biomes O' Plenty"
+	quest.2BA3CD90CD961C89.title: "Jungle Wood"
+	quest.2BB4E34ADCC4DDC6.quest_desc: ["Craft an Arcane Anvil"]
+	quest.2BB4E34ADCC4DDC6.title: "It's Purple!"
+	quest.2BD81787204B3384.quest_desc: [
+		"Wood: Larch (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Boreal Taiga, Cold Boreal Taiga, Golden Boreal Taiga"
+		""
+		"Reward: 16 Larch logs."
+	]
+	quest.2BD81787204B3384.quest_subtitle: "Regions Unexplored"
+	quest.2BD81787204B3384.title: "Larch Wood"
+	quest.2C044525B067D2CE.quest_desc: ["Kill a Ferrous Wroughtnaut"]
+	quest.2C044525B067D2CE.title: "Just a Flesh Wound"
+	quest.2C65F9257E6E8DA2.quest_desc: [
+		"Wood: Palo Verde (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Rugged Badlands"
+		""
+		"Reward: 16 Palo Verde logs."
+	]
+	quest.2C65F9257E6E8DA2.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.2C65F9257E6E8DA2.title: "Palo Verde Wood"
+	quest.2C6C936AAA6B5C9E.quest_desc: ["Apply Andesite Alloy to stripped wood, creating a basic casing for your machines"]
+	quest.2C6C936AAA6B5C9E.title: "The Andesite Age"
+	quest.2C733509A18A9D3E.quest_desc: [
+		"Some veins hold fluids instead of ore."
+		""
+		"Obtain a Fluid Well Extractor."
+	]
+	quest.2C733509A18A9D3E.title: "Fluid Well Extractor"
 	quest.2C74D4B2ACF00CFA.quest_subtitle: "Find the Jade Cliffs"
+	quest.2CBA532134EF6F6A.quest_desc: ["Equip a spell book."]
+	quest.2CBA532134EF6F6A.title: "Magery"
+	quest.2CCF5359496944EC.quest_desc: [
+		"Thunderous Staff of the Dragon Priests."
+		""
+		"Obtain it."
+	]
+	quest.2CCF5359496944EC.title: "Thunderous Staff"
+	quest.2CD7C7D3F119FE21.quest_desc: ["Find the unique weapon Stormbringer."]
+	quest.2CD7C7D3F119FE21.title: "Bringer of Storms"
+	quest.2D083FFF19DA3885.quest_desc: ["Kill an Elokosa Howler"]
+	quest.2D083FFF19DA3885.title: "Gibbous Gibbons"
+	quest.2D08BFEF4994EA6A.quest_desc: ["Enter the Aether"]
+	quest.2D08BFEF4994EA6A.title: "Hostile Paradise"
+	quest.2D0EB1C20E6C9F5D.quest_desc: ["Craft a wayward compass, and find out where it leads..."]
+	quest.2D0EB1C20E6C9F5D.title: "And so a Quest Begins!"
+	quest.2D20F1478BAA5C3E.quest_desc: ["Tame a amphithere by shooting it down and riding it"]
+	quest.2D20F1478BAA5C3E.title: "Jungle Fliers"
+	quest.2D357D33DC8C290D.quest_desc: [
+		"Upgrade to the best base tier."
+		""
+		"Obtain a Netherite Claymore."
+	]
+	quest.2D357D33DC8C290D.title: "Netherite Edge"
+	quest.2D467BE13EB6280A.quest_desc: ["Some meals are big enough to be placed down and shared with friends!"]
+	quest.2D467BE13EB6280A.title: "A Glorious Feast"
+	quest.2D61D929B9441EBA.quest_desc: ["Forge a fiery staff from Pyrium"]
+	quest.2D61D929B9441EBA.title: "Ancient Beckonings"
+	quest.2D887F6EC6A2A24C.quest_desc: [
+		"Wood: Mauve (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Rocky Meadow"
+		""
+		"Reward: 16 Mauve logs."
+	]
+	quest.2D887F6EC6A2A24C.quest_subtitle: "Regions Unexplored"
+	quest.2D887F6EC6A2A24C.title: "Mauve Wood"
+	quest.2DE62B168C2452F4.quest_desc: ["Use a Display Link to visualise information"]
+	quest.2DE62B168C2452F4.title: "Big Data"
+	quest.2DECF7B9B823D82B.quest_desc: ["Connect two Shafts with a Mechanical Belt"]
+	quest.2DECF7B9B823D82B.title: "Kelp Drive"
+	quest.2DF6816617E76E4E.quest_desc: [
+		"Sweep the line."
+		""
+		"Obtain an Iron Halberd."
+	]
+	quest.2DF6816617E76E4E.title: "Polearm Practice"
+	quest.2E0DA1716EB7A424.quest_desc: ["Find the unique weapon Frostfall."]
+	quest.2E0DA1716EB7A424.title: "Ice Cubed"
+	quest.2E1DDB915B5AE924.quest_desc: ["Eat a course of every meal available!"]
+	quest.2E1DDB915B5AE924.title: "Master Chef"
+	quest.2E28B3B9CBDBC47C.quest_desc: ["Craft a tool made of dragon bone"]
+	quest.2E28B3B9CBDBC47C.title: "Splintering II"
+	quest.2E488F7E62A2A845.quest_desc: [
+		"A crushed Apothic gemstone."
+		""
+		"Obtain some Gem Dust."
+	]
+	quest.2E488F7E62A2A845.title: "Gem Dust"
+	quest.2E4C4D005E806EA3.quest_desc: [
+		"Assemble your first flying contraption and take off."
+		""
+		"Tick this off yourself once you are airborne."
+	]
+	quest.2E4C4D005E806EA3.title: "Maiden Voyage"
+	quest.2E861B75A62FD1E5.quest_desc: [
+		"Wood: Jungle (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Rocky Reef"
+		""
+		"Reward: 16 Jungle logs."
+	]
+	quest.2E861B75A62FD1E5.quest_subtitle: "Regions Unexplored"
+	quest.2E861B75A62FD1E5.title: "Jungle Wood"
+	quest.2E94E9362CDA9661.quest_desc: [
+		"Boost a specific school of magic."
+		""
+		"Obtain the ring."
+	]
+	quest.2E94E9362CDA9661.title: "Affinity Ring"
+	quest.2E9ECDC662F57A0E.quest_desc: ["Incubate a Moa"]
+	quest.2E9ECDC662F57A0E.title: "... Until They hatch!"
+	quest.2EA0B9FA71B10ABD.quest_desc: ["Activate a Redstone Link using a Linked Controller"]
+	quest.2EA0B9FA71B10ABD.title: "Remote Activation"
+	quest.2EA6CDB686F30CC4.quest_desc: [
+		"Not every biome grows trees (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Barley Fields, Clover Plains, Cold River, Flower Fields, Hyacinth Deeps, Muddy River, Tropical River, Ancient Delta, Prismachasm, Redstone Caves, Glistering Meadow"
+		""
+		"Reward: 16 bone meal, so you can grow some yourself."
+	]
+	quest.2EA6CDB686F30CC4.quest_subtitle: "Regions Unexplored"
+	quest.2EA6CDB686F30CC4.title: "Treeless Wonders"
+	quest.2EB6953B036A07C2.quest_desc: ["Use the staff of life to revive a fallen comrade."]
+	quest.2EB6953B036A07C2.quest_subtitle: "Bring someone back"
+	quest.2EB6953B036A07C2.title: "Staff of Life"
+	quest.2EC3F100A9BAC1C1.quest_desc: ["Cultivate every food-related plant you can find, such as vegetables, fruits, fungi or roots!"]
+	quest.2EC3F100A9BAC1C1.title: "Crop Rotation"
+	quest.2EDFF57BBCA18C1A.quest_desc: [
+		"Wood: Spruce (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Maple Forest"
+		""
+		"Reward: 16 Spruce logs."
+	]
+	quest.2EDFF57BBCA18C1A.quest_subtitle: "Regions Unexplored"
+	quest.2EDFF57BBCA18C1A.title: "Spruce Wood"
+	quest.2EE4AB27561BED18.quest_desc: ["Acquire an Artificer's Cane."]
+	quest.2EE4AB27561BED18.title: "Quite the Walking Stick"
+	quest.2F31A1A0476C5A5B.quest_desc: [
+		"Not every biome grows trees (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Dune Beach, Highland, Marsh, Moor, Overgrown Greens, Visceral Heap, Withered Abyss"
+		""
+		"Reward: 16 bone meal, so you can grow some yourself."
+	]
+	quest.2F31A1A0476C5A5B.quest_subtitle: "Biomes O' Plenty"
+	quest.2F31A1A0476C5A5B.title: "Treeless Wonders"
+	quest.2F459FF069131485.quest_desc: ["Obtain some Andesite Alloy, Create's most important resource"]
+	quest.2F459FF069131485.title: "Sturdier Rocks"
+	quest.2F4FC99FFBB3A024.quest_desc: [
+		"Elder power, twice over."
+		""
+		"Have the Dragonskin Spellbook and a Dragon Priest Staff."
+	]
+	quest.2F4FC99FFBB3A024.title: "Dragon Priest"
+	quest.2F5FDD0456C4C9EF.quest_desc: [
+		"Some ore veins require drilling fluid."
+		""
+		"Obtain some Raw Redstone."
+	]
+	quest.2F5FDD0456C4C9EF.title: "Raw Redstone"
+	quest.2FAF8706E366F0E1.quest_desc: ["Use the pulling end of a Fluid Pipe or Mechanical Pump to collect water"]
+	quest.2FAF8706E366F0E1.title: "Puddle Collector"
+	quest.2FB5EF63AFD83C2B.quest_desc: ["Create a Sculkshelf using a Warden Tendril."]
+	quest.2FB5EF63AFD83C2B.title: "Embracing the Sculk"
+	quest.302B2F157A128D4A.quest_desc: ["Combine Leather, Diamond Tier Upgrade, and Gold Tier Backpack in Smithing Table to upgrade"]
+	quest.302B2F157A128D4A.title: "Diamond Tier Upgrade"
+	quest.303BDBB5B500036A.quest_desc: ["Throw a tide trident at a mob"]
+	quest.303BDBB5B500036A.title: "Poseidon, God of the Seas"
+	quest.3046DF8604512A3B.quest_desc: ["Craft a Scroll Forge"]
+	quest.3046DF8604512A3B.title: "New Age Librarian"
+	quest.305F45BFF510148B.quest_desc: [
+		"Steam 'n' Rails has a coupling block that connects or disconnects carriages depending on redstone power."
+		""
+		"Couple two carriages together. Tick this off yourself."
+	]
+	quest.305F45BFF510148B.title: "Coupling Up"
+	quest.307EDB6F0EE5C75B.quest_desc: ["Acquire legendary ink."]
+	quest.307EDB6F0EE5C75B.title: "Premium!"
+	quest.3086B5F63E30E4CA.quest_desc: [
+		"Lower, raise and tether."
+		""
+		"Obtain a Rope Winch."
+	]
+	quest.3086B5F63E30E4CA.title: "Rope Winch"
+	quest.3088D930124CDFE9.quest_desc: [
+		"Robes to match your staff."
+		""
+		"Obtain the Fire Dragon Priest Robes."
+	]
+	quest.3088D930124CDFE9.title: "Fire Dragon Priest Robes"
+	quest.30940D4EB4D72AFA.quest_desc: ["Activate a Dormant Deepshelf."]
+	quest.30940D4EB4D72AFA.title: "Delving Into Darkness"
+	quest.3096D5A14A16B172.quest_desc: ["Assemble a Precision Mechanism"]
+	quest.3096D5A14A16B172.title: "Complex Curiosities"
+	quest.30B725AD77F1B9A1.quest_desc: [
+		"Every adventurer needs a build."
+		""
+		"Weave spells, swing steel, wield dragon-forged gear, delve into the deep, ride into battle, or walk them all. Each path below has its own quests, and the capstones at the end reward mixing them."
+	]
+	quest.30B725AD77F1B9A1.title: "Choose Your Path"
+	quest.30CFFD6182F65C62.quest_desc: ["Use a Mechanical Press and a Basin to create fewer items from more"]
+	quest.30CFFD6182F65C62.title: "Compactification"
+	quest.310129C7BD0A0078.quest_desc: ["Craft and Place a Cooking Pot"]
+	quest.310129C7BD0A0078.title: "Potluck Preparations"
+	quest.312153864A2BF997.quest_desc: ["Run a boiler at the maximum level of power"]
+	quest.312153864A2BF997.title: "Full Steam"
+	quest.312607791ABDBACA.quest_desc: ["Obtain a Villager Bible."]
+	quest.312607791ABDBACA.title: "Enlightenment"
+	quest.315E6399D3638294.quest_desc: [
+		"Steam 'n' Rails also adds a workbench cart, handy on long rides."
+		""
+		"Build a train with a workbench cart. Tick this off yourself."
+	]
+	quest.315E6399D3638294.title: "Rolling Workshop"
+	quest.317205B7509ABDEC.quest_desc: ["Watch your Mechanical Arm transport its first item"]
+	quest.317205B7509ABDEC.title: "Busy Hands"
+	quest.317AC9E82A628A67.quest_desc: ["Construct an Ice Staff."]
+	quest.317AC9E82A628A67.title: "Mournful Magic"
+	quest.318F59D68812983F.quest_desc: ["Become a Monarch and rule over your own village."]
+	quest.318F59D68812983F.quest_subtitle: "The highest rank"
+	quest.318F59D68812983F.title: "Monarch"
+	quest.31BF31919C5FA39F.quest_desc: ["Attempt to take a dive in lava with your netherite diving gear"]
+	quest.31BF31919C5FA39F.title: "Swimming with the Striders"
+	quest.31D8E3F60BCBEDE0.quest_desc: ["Obtain a Rotten Spell Book."]
+	quest.31D8E3F60BCBEDE0.title: "How long's this been here?"
+	quest.31E05B6A231A32E7.quest_desc: [
+		"Glacial Staff of the Dragon Priests."
+		""
+		"Obtain it."
+	]
+	quest.31E05B6A231A32E7.title: "Glacial Staff"
+	quest.31FDF3C1E7016F28.quest_desc: ["Equip backpack to use the hose. Hold Z (default) while holding the hose to switch modes and attached tanks"]
+	quest.31FDF3C1E7016F28.title: "Craft and use the Hose"
+	quest.32040D595C63DCB2.quest_desc: ["Deter Swets by placing down a Swet Banner"]
+	quest.32040D595C63DCB2.title: "Get Off My Lawn!"
+	quest.3269DF0EC860731B.quest_desc: ["Slay a sea serpent."]
+	quest.3269DF0EC860731B.title: "Sea? Not a Problem"
+	quest.3273814A26CA9B76.quest_desc: ["Your baby has become a child!"]
+	quest.3273814A26CA9B76.quest_subtitle: "Your baby is now a child"
+	quest.3273814A26CA9B76.title: "What a Handful"
+	quest.327A932CBDFC88D7.quest_desc: ["Have a full set of obsidian armor in your inventory"]
+	quest.327A932CBDFC88D7.title: "Ice Bucket Armor"
+	quest.327C670F3A37DE2D.quest_desc: ["Spill some fluid into the world"]
+	quest.327C670F3A37DE2D.title: "Spill Mode"
+	quest.329041BC23818CE1.quest_desc: ["Tame a hippocampus by feeding it kelp"]
+	quest.329041BC23818CE1.title: "Free Willy"
+	quest.3291ED2AC6477E55.quest_desc: ["Kill Umvuthi, the Sunbird"]
+	quest.3291ED2AC6477E55.title: "Praise the Sun"
+	quest.32D29D7406F4B7AF.quest_desc: ["Program a Mechanical Arm with 10 or more output locations"]
+	quest.32D29D7406F4B7AF.title: "Organize-o-Tron"
+	quest.32DAFB211086C198.quest_desc: ["Tame a cockatrice from an egg or by staring at it repeatedly"]
+	quest.32DAFB211086C198.title: "Stay Out of my Peripheral!"
+	quest.32E143432C76AEB8.quest_desc: ["Acquire Infused Dragon's Breath, and create an Endshelf."]
+	quest.32E143432C76AEB8.title: "Dragon-Slaying Enchanter"
+	quest.32EA07C2B631F8D9.quest_desc: ["Sneak around in full Cardboard Armor"]
+	quest.32EA07C2B631F8D9.title: "Full Stealth"
+	quest.33A1ED97FE593BC2.quest_desc: ["Four new crops may be found in the wild, across many climates... or maybe in a chest somewhere."]
+	quest.33A1ED97FE593BC2.title: "Crops of the Wild"
+	quest.33A26BB8F87DC47F.quest_desc: ["Place and power a Deployer, the perfect reflection of yourself"]
+	quest.33A26BB8F87DC47F.title: "Artificial Intelligence"
+	quest.33C857C9BFA571D1.quest_desc: ["Using 3 manuscripts found in dungeons, create a bestiary"]
+	quest.33C857C9BFA571D1.title: "Book of Monsters"
+	quest.33DCE74D2692CA14.quest_desc: ["Complete the Sculptor's challenge"]
+	quest.33DCE74D2692CA14.title: "You Must Believe"
+	quest.33E4F9FBB5A29CC1.quest_desc: ["Have your first baby."]
+	quest.33E4F9FBB5A29CC1.quest_subtitle: "Your first baby"
+	quest.33E4F9FBB5A29CC1.title: "Next Generation"
+	quest.33EB8F98D07DA479.quest_desc: ["Obtain any Grape Juice variant."]
+	quest.33EB8F98D07DA479.title: "Juicy Success"
+	quest.33EEE9252D90FE01.quest_desc: ["Grow Jungle Seeds on a Oak Lattice.."]
+	quest.33EEE9252D90FE01.title: "Overgrown Lattices"
+	quest.3438F3FC982FE83F.quest_desc: ["Obtain the gorgons head, a weapon that turns any who look at it to stone"]
+	quest.3438F3FC982FE83F.title: "Clash of the Titans"
+	quest.3452896B85EF6BE7.quest_desc: ["Keep working for the village and earn the rank of Noble."]
+	quest.3452896B85EF6BE7.quest_subtitle: "Rise through the ranks"
+	quest.3452896B85EF6BE7.title: "Noble"
+	quest.3466C156E0C5E717.quest_desc: ["Place backpack on the ground and Shift + Right-click it with different sleeping bag to swap it"]
+	quest.3466C156E0C5E717.title: "Change Sleeping Bag Color"
+	quest.34854FBDEA6A3957.quest_desc: ["Place and power some Mechanical Crafters"]
+	quest.34854FBDEA6A3957.title: "Automated Assembly"
+	quest.3498991EFFF1B35A.quest_desc: ["Place a Chicken Coop"]
+	quest.3498991EFFF1B35A.title: "Cluckingham Palace"
+	quest.350E77E756BFD208.quest_desc: [
+		"A composter turns leftovers into bone meal."
+		""
+		"Obtain a composter."
+	]
+	quest.350E77E756BFD208.title: "Compost Your Scraps"
+	quest.35135B084537B881.quest_desc: [
+		"Place the Sample Drill on a vein, put a Copper Backtank on top and activate it."
+		""
+		"Obtain a Sample Drill."
+	]
+	quest.35135B084537B881.title: "Sample Drill"
+	quest.3521CB7C6B7EFC22.quest_desc: [
+		"Infernal Staff of the Dragon Priests."
+		""
+		"Obtain it."
+	]
+	quest.3521CB7C6B7EFC22.title: "Infernal Staff"
+	quest.353BA54F4A8F4C01.quest_desc: ["Assemble a windmill of maximum strength"]
+	quest.353BA54F4A8F4C01.title: "A strong Breeze"
+	quest.355C3178E7FE266B.quest_desc: ["It's not dead!"]
+	quest.355C3178E7FE266B.title: "The Aether"
+	quest.358A99F871665AEE.quest_desc: [
+		"The deep dark hides echo shards."
+		""
+		"Obtain an Echo Shard."
+	]
+	quest.358A99F871665AEE.title: "Echoes in the Dark"
+	quest.35B2EDFD205269F5.quest_desc: ["Kill a troll"]
+	quest.35B2EDFD205269F5.title: "They Have a Cave Troll!"
+	quest.35BE7BF51D919ED3.quest_desc: ["Obtain a Hellshelf."]
+	quest.35BE7BF51D919ED3.title: "The Chaos of Hell"
+	quest.36166762E4C6768C.quest_desc: ["Equip a Diving Helmet and a Copper Backtank, then jump into water"]
+	quest.36166762E4C6768C.title: "Ready for the Depths"
+	quest.3659A787832B4623.quest_desc: ["Toll a Haunted Bell"]
+	quest.3659A787832B4623.title: "Shadow Sense"
+	quest.367F5F617EC6F2D0.quest_desc: ["Get launched more than 30 blocks by a Weighted Ejector"]
+	quest.367F5F617EC6F2D0.title: "Springboard Champion"
+	quest.36958DE77C69BEA1.quest_desc: ["Use a Millstone to pulverise materials"]
+	quest.36958DE77C69BEA1.title: "Embrace the Grind"
+	quest.36BF1BEBB54C1366.quest_desc: ["Craft the Frostbranded Book"]
+	quest.36BF1BEBB54C1366.title: "Cold to the Touch"
+	quest.36C09BBC8E296551.quest_desc: [
+		"Bone meal speeds up almost every crop."
+		""
+		"Obtain some bone meal."
+	]
+	quest.36C09BBC8E296551.title: "Grow Faster"
+	quest.3710271A02912F29.quest_desc: ["Craft a dragon command staff to control your dragons"]
+	quest.3710271A02912F29.title: "Dragon Commander"
+	quest.37141B4336221DD7.quest_desc: ["Amass some Copper Ingots for your exploits in fluid manipulation"]
+	quest.37141B4336221DD7.title: "Cuprum Bokum"
+	quest.371DE7BA454F14AD.quest_desc: [
+		"Ice and Fire: Spellbooks lets dragon magic meet Iron's spells."
+		""
+		"Obtain the Dragonmancer's Oathbook."
+	]
+	quest.371DE7BA454F14AD.title: "Dragonmancer's Oath"
+	quest.371F47CD59DE43F0.quest_desc: [
+		"Wood: Spruce (Biomes O' Plenty)."
+		""
+		"Visit any one of these biomes:"
+		"Mediterranean Forest, Wetland"
+		""
+		"Reward: 16 Spruce logs."
+	]
+	quest.371F47CD59DE43F0.quest_subtitle: "Biomes O' Plenty"
+	quest.371F47CD59DE43F0.title: "Spruce Wood"
+	quest.37366129028E9FA8.quest_desc: ["Obtain a rotten egg"]
+	quest.37366129028E9FA8.title: "Rotten to the Core"
+	quest.3754252EC1552380.quest_desc: ["Place Beef inside a Mincer"]
+	quest.3754252EC1552380.title: "Just a Little Mincing"
+	quest.3760676150090CB9.quest_desc: ["Kill a Naga"]
+	quest.3760676150090CB9.title: "Wingin' It"
+	quest.377A27B089855285.quest_desc: ["Spend a whole Netherite Ingot to upgrade your knife! Or get out of the kitchen."]
+	quest.377A27B089855285.title: "If You Can't Take the Heat..."
+	quest.3788E7A8AC49F6AF.quest_desc: ["Kill a death worm. Pro tip: they love to eat TNT!"]
+	quest.3788E7A8AC49F6AF.title: "The Desert Swimmers"
+	quest.378E0185645B4E92.quest_desc: ["Create a Minecart Contraption that places tracks in front of itself"]
+	quest.378E0185645B4E92.title: "Self-Driving Cart"
+	quest.37AE596D74F6041F.quest_desc: ["Father at least two generations of offspring."]
+	quest.37AE596D74F6041F.quest_subtitle: "Grandchildren"
+	quest.37AE596D74F6041F.title: "Back in My Day..."
+	quest.37BC13DDAA8323F6.quest_desc: ["Collect Apple Juice."]
+	quest.37BC13DDAA8323F6.title: "Purely Apple"
+	quest.37D1B7D6DBFA4878.quest_desc: ["Create a dragon forge core"]
+	quest.37D1B7D6DBFA4878.title: "The Heart and the Flame"
+	quest.38078528DAFC3CD8.quest_desc: ["Enchant an item while having all stats at maximum."]
+	quest.38078528DAFC3CD8.title: "Maximum Strength"
+	quest.3807A9795C99AB87.quest_desc: ["Trap a pixie in a jar to farm the dust"]
+	quest.3807A9795C99AB87.title: "Surfer Rosa"
+	quest.380FDD3F4C433677.quest_desc: [
+		"An evoker-inspired set."
+		""
+		"Obtain the helmet."
+	]
+	quest.380FDD3F4C433677.title: "Archevoker"
+	quest.3846FD8845D81825.quest_desc: ["Create a Copper Backtank and make it accumulate air pressure"]
+	quest.3846FD8845D81825.title: "Pressure to Go"
+	quest.3856716478707EFA.quest_desc: [
+		"A friendship that will last a lifetime."
+		""
+		"Reach 200 hearts with one villager."
+	]
+	quest.3856716478707EFA.quest_subtitle: "Reach 200 hearts"
+	quest.3856716478707EFA.title: "Best Friends"
+	quest.386C29E324284F82.quest_desc: ["Put a Book of Lore inside a Book of Lore"]
+	quest.386C29E324284F82.title: "Lore-Ception!"
+	quest.3878D5169628371E.quest_desc: ["Produce Apple Mash by processing Apples in an Apple Press."]
+	quest.3878D5169628371E.title: "Mashy Success"
+	quest.38869F36C527D7BE.quest_desc: ["Entering the Pinnacle requires freeing the End, and acquiring a full set of Epic gear"]
+	quest.38869F36C527D7BE.title: "World Tier: Pinnacle"
+	quest.38A9FBCF0DAB9490.quest_desc: ["Ride a Black Moa"]
+	quest.38A9FBCF0DAB9490.title: "Let's Fly!"
+	quest.38FA890E50D822C0.quest_desc: ["Obtain the unique spell book from the illagers."]
+	quest.38FA890E50D822C0.title: "Grimoire of Evokation"
+	quest.39069769FE95F377.quest_desc: [
+		"Wood: Fir (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Frosted Coniferous Forest, Black Forest"
+		""
+		"Reward: 16 Fir logs."
+	]
+	quest.39069769FE95F377.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.39069769FE95F377.title: "Fir Wood"
+	quest.3916DFE5621D1ED3.quest_desc: ["Obtain a death worm egg"]
+	quest.3916DFE5621D1ED3.title: "Paul Atreides"
+	quest.3923C9772CDDD3C3.quest_desc: ["Breed two animals together."]
+	quest.3923C9772CDDD3C3.title: "The Parrots and the Bats"
+	quest.39270B24B8E11305.quest_desc: [
+		"Keep your mount close."
+		""
+		"Obtain a Lead."
+	]
+	quest.39270B24B8E11305.title: "A Steady Hand"
+	quest.392839567EDF59B9.quest_desc: [
+		"An ice mage set."
+		""
+		"Obtain the helmet."
+	]
+	quest.392839567EDF59B9.title: "Cryomancer"
+	quest.393931B792B19E46.quest_desc: [
+		"Star Worm Equestrian adds realistic horses, tack and care."
+		""
+		"Own and ride a SWEM horse. Tick this off yourself."
+	]
+	quest.393931B792B19E46.title: "Star Worm Stable"
+	quest.393C29130654D8DF.quest_desc: ["Have two babies for the price of one!"]
+	quest.393C29130654D8DF.quest_subtitle: "Twins"
+	quest.393C29130654D8DF.title: "A Loving Parent (For Two!)"
+	quest.394CCD319D660C1A.quest_desc: ["Drink water or lava"]
+	quest.394CCD319D660C1A.title: "Drink Mode"
+	quest.39ACDFD1D1CABF84.quest_desc: ["Craft Blank Upgrade"]
+	quest.39ACDFD1D1CABF84.title: "Base for upgrades"
+	quest.39E5CFE93CC95BDA.quest_desc: ["Bake every recipe possible"]
+	quest.39E5CFE93CC95BDA.title: "Baking Bonanza"
+	quest.39F207A30A7CCFA7.quest_desc: ["Use an upright Mechanical Saw to process materials"]
+	quest.39F207A30A7CCFA7.title: "Workshop's Most Feared"
+	quest.3A046DADC78E2429.quest_desc: [
+		"Bring up raw diamond from the deep."
+		""
+		"Obtain some Raw Diamond."
+	]
+	quest.3A046DADC78E2429.title: "Raw Diamond"
+	quest.3A0801AB8AF0F6F6.quest_desc: ["Obtain some Train Tracks"]
+	quest.3A0801AB8AF0F6F6.title: "A New Gauge"
+	quest.3A1A29D01046866A.quest_desc: [
+		"Uses Sigils of Enhancement to augment individual affixes."
+		""
+		"Obtain an Augmenting Table."
+	]
+	quest.3A1A29D01046866A.title: "Augmenting Table"
+	quest.3A488D3AD3696DCA.quest_desc: [
+		"Breaks down Affix Items into Rarity Materials."
+		""
+		"Obtain a Salvaging Table."
+	]
+	quest.3A488D3AD3696DCA.title: "Salvaging Table"
+	quest.3A7049E5674B0DEE.quest_desc: [
+		"Dragonsteel on a dragon's back."
+		""
+		"Wear dragonsteel armor and ride a dragon."
+	]
+	quest.3A7049E5674B0DEE.title: "Wyrmrider"
+	quest.3A90F93F53C60A26.quest_desc: ["Read a Book of Lore"]
+	quest.3A90F93F53C60A26.title: "The More You Know!"
+	quest.3AA4C3F8E58BF09B.quest_desc: [
+		"Sometimes villagers need a little help finding love."
+		""
+		"Craft a matchmaker's ring."
+	]
+	quest.3AA4C3F8E58BF09B.quest_subtitle: "Optional: play cupid"
+	quest.3AA4C3F8E58BF09B.title: "Matchmaker"
+	quest.3AB9E5205696D90F.quest_desc: [
+		"Harvests the resources under the vein. It needs rotational force and a drill."
+		""
+		"Obtain a Drilling Machine."
+	]
+	quest.3AB9E5205696D90F.title: "Drilling Machine"
+	quest.3AC1EF7315A99104.quest_desc: [
+		"Start a family with a villager."
+		""
+		"The advancement is awarded once you have three children."
+	]
+	quest.3AC1EF7315A99104.quest_subtitle: "A big family"
+	quest.3AC1EF7315A99104.title: "Settling In"
+	quest.3AC5D7C2509D4292.quest_desc: ["Create a dragonsteel ingot from dragon blood and iron"]
+	quest.3AC5D7C2509D4292.title: "Forged in Flame"
+	quest.3ACCABBE4B367E11.quest_desc: [
+		"Wood: Cypress (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Bayou, Old Growth Bayou"
+		""
+		"Reward: 16 Cypress logs."
+	]
+	quest.3ACCABBE4B367E11.quest_subtitle: "Regions Unexplored"
+	quest.3ACCABBE4B367E11.title: "Cypress Wood"
+	quest.3B251DA64AD834FF.quest_desc: ["Create a weapon from dragonsteel"]
+	quest.3B251DA64AD834FF.title: "Draconic Evolution"
+	quest.3B2CDFB9A36DC05A.quest_desc: ["Enchant an item at 50% Quanta."]
+	quest.3B2CDFB9A36DC05A.title: "Introduction to Chaos"
+	quest.3B30375AA29F439A.quest_desc: ["Produce or obtain your first Cardboard"]
+	quest.3B30375AA29F439A.title: "Part and Parcel"
+	quest.3B34DDAB669A7969.quest_desc: [
+		"Wood: Witch Hazel (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"Weeping Witch Forest"
+		""
+		"Reward: 16 Witch Hazel logs."
+	]
+	quest.3B34DDAB669A7969.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.3B34DDAB669A7969.title: "Witch Hazel Wood"
+	quest.3B42176417F15AA1.quest_desc: ["Bounce on a Blue Aercloud"]
+	quest.3B42176417F15AA1.title: "To Infinity and Beyond!"
+	quest.3B4E2D5A197161F0.quest_desc: [
+		"Wood: Palm (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Rocky Reef"
+		""
+		"Reward: 16 Palm logs."
+	]
+	quest.3B4E2D5A197161F0.quest_subtitle: "Regions Unexplored"
+	quest.3B4E2D5A197161F0.title: "Palm Wood"
+	quest.3B4F97E0E8831FD5.quest_desc: ["Obtain the Valkyrie Lance from the Bronze Dungeon. Time to challenge the Silver Dungeon!"]
+	quest.3B4F97E0E8831FD5.title: "Challenger to the Throne"
+	quest.3B5A43D3EF303575.quest_desc: [
+		"Uses Sigils of Rebirth and Rarity Materials to reforge items."
+		""
+		"Obtain a Reforging Table."
+	]
+	quest.3B5A43D3EF303575.title: "Reforging Table"
+	quest.3B8865A67AE5E700.quest_desc: ["To reach the Summit, slay the Wither, and equip a full set of Rare gear"]
+	quest.3B8865A67AE5E700.title: "World Tier: Summit"
+	quest.3B8E1994AD258786.quest_desc: ["Shear a fully mature Mushroom Colony. To grow them like this, you'll need a very rich soil..."]
+	quest.3B8E1994AD258786.title: "Fungus Among Us"
+	quest.3BA403F77652A6E5.quest_desc: ["Super Glue some blocks into a group"]
+	quest.3BA403F77652A6E5.title: "Area of Connect"
+	quest.3BA9D12D126CF58D.quest_desc: [
+		"Assemble your first Train with Create."
+		""
+		"This quest is completed by Create's own advancement."
+	]
+	quest.3BA9D12D126CF58D.title: "All Aboard!"
+	quest.3BC7FD317074AAA0.quest_desc: ["Forecast a Train's arrival on your Display Board with the help of Display Links"]
+	quest.3BC7FD317074AAA0.title: "Dynamic Timetables"
+	quest.3BCD891CC1AB132F.quest_desc: ["Slay a hydra."]
+	quest.3BCD891CC1AB132F.title: "The Twelve Labors of Hercules"
+	quest.3C08D717C84C3670.quest_desc: [
+		"Burners heat the air and envelopes hold it."
+		""
+		"Obtain an Adjustable Burner."
+	]
+	quest.3C08D717C84C3670.title: "Hot Air"
+	quest.3C0A7743D0C206CC.quest_desc: ["Apply Brass Ingots to stripped wood, creating a casing for more sophisticated machines"]
+	quest.3C0A7743D0C206CC.title: "The Brass Age"
+	quest.3C100BE29B1AEA15.quest_desc: [
+		"A place to keep your gems."
+		""
+		"Obtain a Gem Case."
+	]
+	quest.3C100BE29B1AEA15.title: "Gem Case"
+	quest.3C2DCFA306D2A691.quest_desc: ["Create a Train with at least 6 carriages"]
+	quest.3C2DCFA306D2A691.title: "Ambitious Endeavours"
+	quest.3C423F1F78AF5177.quest_desc: ["Obtain a Blaze Burner"]
+	quest.3C423F1F78AF5177.title: "Sentient Fireplace"
+	quest.3C65BFDC12B72080.quest_desc: ["Get your minced results"]
+	quest.3C65BFDC12B72080.title: "It’s @#%! Raw! Oh Wait, It’s Minced"
+	quest.3C7CB19AD8CE02AB.quest_desc: [
+		"Wood: White Mangrove (Oh The Biomes We've Gone)."
+		""
+		"Visit any one of these biomes:"
+		"White Mangrove Marshes"
+		""
+		"Reward: 16 White Mangrove logs."
+	]
+	quest.3C7CB19AD8CE02AB.quest_subtitle: "Oh The Biomes We've Gone"
+	quest.3C7CB19AD8CE02AB.title: "White Mangrove Wood"
+	quest.3CC4FF96134A1AA0.quest_desc: ["Restore the Ancient Codex."]
+	quest.3CC4FF96134A1AA0.title: "Ancient Knowledge"
+	quest.3CDB15E75B9A373A.quest_desc: ["Kill a Foliaath"]
+	quest.3CDB15E75B9A373A.title: "Jennifer Dumped Me"
+	quest.3D023B66CF8D9A81.quest_desc: ["Defeat a cyclops"]
+	quest.3D023B66CF8D9A81.title: "My Name is Nobody"
+	quest.3D143378DE47931D.quest_desc: [
+		"Deeper and Darker has its own gear made from what you find down there."
+		""
+		"Craft a piece of it. Tick this off yourself."
+	]
+	quest.3D143378DE47931D.title: "Forged in the Deep"
+	quest.3D3CD125D3EFBE20.quest_desc: ["Here Be Contraptions"]
+	quest.3D3CD125D3EFBE20.title: "Welcome to Create"
+	quest.3D4073B6F3380703.quest_desc: ["Create a train with at least 6 carriages."]
+	quest.3D4073B6F3380703.title: "Ambitious Endeavours"
+	quest.3D58CF074AC79685.quest_desc: [
+		"Adds one socket to an item."
+		""
+		"Obtain a Sigil of Socketing."
+	]
+	quest.3D58CF074AC79685.title: "Sigil of Socketing"
+	quest.3DA90780D21305A2.quest_desc: [
+		"Levitite lifts whatever is attached to it."
+		""
+		"Obtain Levitite."
+	]
+	quest.3DA90780D21305A2.title: "Magic Floating Rocks"
+	quest.3DFD03BCE7BC1695.quest_desc: [
+		"Protect your mount."
+		""
+		"Obtain Iron Horse Armor."
+	]
+	quest.3DFD03BCE7BC1695.title: "Barding"
+	quest.3E08BBCF39D314B4.quest_desc: ["Use a Portable Storage Interface to take or insert items into a Contraption"]
+	quest.3E08BBCF39D314B4.title: "Drive-by Exchange"
+	quest.3E7D6B8887E83CDC.quest_desc: ["Obtain a piece of Valkyrie equipment from the Silver Dungeon"]
+	quest.3E7D6B8887E83CDC.title: "Earning your Wings"
+	quest.3E7DB78DD442FF05.quest_desc: ["Assemble a Steam Whistle to your train and activate it while driving."]
+	quest.3E7DB78DD442FF05.title: "Choo Choo!"
+	quest.3EB2CBDDA941FD0F.quest_desc: ["Instruct a Train driver with a Train Schedule"]
+	quest.3EB2CBDDA941FD0F.title: "Conductor Instructor"
+	quest.3EC6B307D308AF72.quest_desc: ["Harvest an Aechor Petal from an Aechor Plant"]
+	quest.3EC6B307D308AF72.title: "Baby Food"
+	quest.3ECCF5501B5EF3BA.quest_desc: [
+		"Some things are best met from a distance."
+		""
+		"Obtain a bow."
+	]
+	quest.3ECCF5501B5EF3BA.title: "A Steady Bow"
+	quest.3EF24D237FCC9A7E.quest_desc: ["Create Brass Ingots by alloying Copper and Zinc Ingots in your Blaze-heated Mechanical Mixer"]
+	quest.3EF24D237FCC9A7E.title: "Real Alloys"
+	quest.3F02515ECA78C4C4.quest_desc: [
+		"Far from any village, older powers keep their watch. A sunbird chieftain and his masked tribe. A beast that sleeps beneath the ice. A wrought-iron giant that will not stop. A sculptor who tests the worthy."
+		""
+		"Their trials are hard, but the strength you take from them will decide whether you can face what comes next."
+	]
+	quest.3F02515ECA78C4C4.title: "Act I: The Sleeping Guardians"
+	quest.3F0695F760A2C6CD.quest_desc: [
+		"Wood: Magnolia (Regions Unexplored)."
+		""
+		"Visit any one of these biomes:"
+		"Magnolia Woodland, Willow Forest"
+		""
+		"Reward: 16 Magnolia logs."
+	]
+	quest.3F0695F760A2C6CD.quest_subtitle: "Regions Unexplored"
+	quest.3F0695F760A2C6CD.title: "Magnolia Wood"
+	quest.3F0D330F0E4A0EA2.quest_desc: [
+		"The bones of a felled dragon make fine tools."
+		""
+		"Obtain Dragonbone."
+	]
+	quest.3F0D330F0E4A0EA2.title: "Dragonbone"
+	quest.3F6BD590DD3CC7E1.quest_desc: ["Haven is unlocked when you find your first affix item and is activated by default"]
+	quest.3F6BD590DD3CC7E1.title: "World Tier: Haven"
+	quest.3F795DE2C365C01D.quest_desc: ["Hang some rope above a tomato crop to make it grow taller"]
+	quest.3F795DE2C365C01D.title: "Tall-mato"
+	quest.3F81CDFDBD72F56D.quest_desc: ["Place a Grapevine Pot."]
+	quest.3F81CDFDBD72F56D.title: "Juice It Up!"
+	quest.3F910B561E6DBF50.quest_desc: ["Enchant an item while having max Eterna and Arcana, but 0% Quanta."]
+	quest.3F910B561E6DBF50.title: "Stable Power"
+	quest.3F964B6F9B94EB47.quest_desc: [
+		"Robes to match your staff."
+		""
+		"Obtain the Ice Dragon Priest Robes."
+	]
+	quest.3F964B6F9B94EB47.title: "Ice Dragon Priest Robes"
+	quest.3FACE16B3305F4E9.quest_desc: ["Skillets let you cook on the go. Stand near heat, then hold food in your other hand!"]
+	quest.3FACE16B3305F4E9.title: "Portable Cooking"
+	quest.3FDFA3166A25512A.quest_desc: ["Obtain a Druidic Tome."]
+	quest.3FDFA3166A25512A.title: "One with Nature"
+	quest.3FE989AD5F109216.quest_desc: ["Combine Leather, Gold Tier Upgrade, and Iron Tier Backpack in Smithing Table to upgrade"]
+	quest.3FE989AD5F109216.title: "Gold Tier Upgrade"
 	quest.46E757D731899EC7.quest_subtitle: "Visit the Lavender Fields"
+	task.003961C2C01BE5BF.title: "Marsh"
+	task.00B7B948481EE425.title: "Overgrowth Woodlands"
 	task.03DFDB78DD00931E.title: "Tropics"
-	task.0B2A0B697AEE5977.title: "Lush Stacks"
-	task.0B69E2BB14E01BD7.title: "Orchard"
+	task.05AFEAA289DE2A47.title: "Pine Slopes"
+	task.066619F5A4865E2F.title: "Willow Forest"
+	task.0716B86BD3468C4C.title: "Weeping Witch Forest"
+	task.0CB9E37C217D2EA3.title: "Allium Shrubland"
+	task.0F64D566B18CC29E.title: "Autumnal Maple Forest"
 	task.0FD9B6FE653F5E9A.title: "Boreal Taiga"
 	task.103EE61ABD3C64AF.title: "Fen"
 	task.10EB7F398F1E902C.title: "Mediterranian Forest"
+	task.118F77520C4C3BD1.title: "Golden Boreal Taiga"
 	task.13F5FE8198EFE53D.title: "Tundra"
+	task.154D9D18B954C35C.title: "Icy Heights"
+	task.1815F82DBADB3E53.title: "Magnolia Woodland"
+	task.18C897CF1AD6FAF6.title: "Pumpkin Valley"
 	task.1A5E3C12EE82E83D.title: "Jade Cliffs"
 	task.1B81C9DB0297CE41.title: "Bamboo Forest"
-	task.2D60F69D508ED3B3.title: "Golden Boreal Taiga"
-	task.2DC7C295D6DA358D.title: "Mojave Desert"
+	task.1EF15FE6013CB437.title: "Tropical Rainforest"
+	task.214A9AF04B9EF794.title: "Zelkova Forest"
+	task.22FB60F1D59C57E9.title: "Rocky Meadow"
+	task.2A03FF8AD3B9193A.title: "Sparse Redwoods"
+	task.2B34C0170B55A988.title: "Coconino Meadow"
 	task.3482A85B6C3423B9.title: "Redwood Forest"
-	task.35D7401C339B25BC.title: "Prairie"
 	task.35FB819925953D78.title: "Undergrowth"
-	task.3D206BB9466D0994.title: "Spider Nest"
+	task.3B11C02378C0DF9C.title: "Bayou"
 	task.3D2130FE8E8CC675.title: "Bayou"
 	task.3D227367F4965A35.title: "Dry bushland"
+	task.413D76717C45E112.title: "Black Forest"
+	task.420D09EC28374305.title: "White Mangrove"
+	task.4367E290FE4B13A8.title: "Maple Forest"
 	task.46B9D0896603E9FB.title: "Fungal Fen"
+	task.4B2115C651214912.title: "Baobab Savannah"
+	task.5053107655F92554.title: "Crag Gardens"
+	task.506329DF4F57A01A.title: "Old Growth Bayou"
+	task.56F242808A2747FB.title: "Rugged Badlands"
+	task.58264937D73A83E6.title: "Red Rock Peaks"
 	task.58A434EDAA08A688.title: "Seasonal Forest"
-	task.5BE0ACEFFE72A61A.title: "Wintry Origin Valley"
+	task.5DF08D8C18BBC8C4.title: "Sakura Grove"
+	task.64037520364EEDE8.title: "Fragment Jungle"
+	task.65C8053D0E367389.title: "Maple Taiga"
+	task.661252374AD5FED1.title: "Rocky Reef"
 	task.66323B5CFFB067B3.title: "Lavender Field"
+	task.6855C4A1D84EA128.title: "Pale Bog"
+	task.6C767AD1DF09C9C9.title: "Ebony Woods"
+	task.6CB7CE206B115E0E.title: "Frosted Coniferous Forest"
 	task.6D3CB1075B307B80.title: "Cold Boreal Taiga"
-	task.6E418B80336711FE.title: "Old Growth Woodland"
+	task.72D9E40E5A4EFDD3.title: "Howling Peaks"
 	task.7390628EF60A18D7.title: "Snowblossom Grove"
+	task.777DAC44AB3F976D.title: "Forgotten Forest"
+	task.7E21A33B714930F1.title: "Cika Woods"
 }

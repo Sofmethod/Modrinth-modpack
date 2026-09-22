@@ -1,0 +1,499 @@
+{
+	autofocus_id: "1B07010267EEA237"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "lets_do_vinery"
+	group: "61D190AF05DF5BA0"
+	icon: {
+		id: "vinery:red_wine"
+	}
+	id: "1C786F7166242E43"
+	images: [ ]
+	order_index: 3
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["074FD5E3EDE15FF1"]
+			icon: {
+				id: "vinery:lilitu_wine"
+			}
+			id: "24D523E45E5C7474"
+			rewards: [{
+				id: "3F7B197F72129737"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/vintage_perfection"
+				criterion: ""
+				id: "1C88B5CA3AB5A383"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["060859C07F058744"]
+			icon: {
+				id: "vinery:savanna_grapes_white"
+			}
+			id: "1C86351BEC35BEA1"
+			rewards: [
+				{
+					count: 2
+					id: "22696D76560D8297"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "028EFD36C097CE13"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "vinery:main/vineyard_visionary"
+				criterion: ""
+				id: "353525444513E9A4"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["1B07010267EEA237"]
+			icon: {
+				id: "vinery:apple_tree_sapling"
+			}
+			id: "267EDBB163BC45C1"
+			rewards: [{
+				id: "2306A1CD9F4B56D2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/fruits_of_the_field"
+				criterion: ""
+				id: "2AC0338FE9896E77"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 1.5d
+		}
+		{
+			dependencies: ["2A5B81C28BE16EAB"]
+			icon: {
+				id: "vinery:red_wine"
+			}
+			id: "074FD5E3EDE15FF1"
+			rewards: [{
+				id: "07BBED70FE3F7F14"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/the_noble_drop"
+				criterion: ""
+				id: "381BF32549F9B43A"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1B07010267EEA237"]
+			icon: {
+				id: "vinery:grapevine_pot"
+			}
+			id: "3F81CDFDBD72F56D"
+			rewards: [
+				{
+					count: 3
+					id: "1552537BE35FED0D"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "36D627F71A845F0D"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "vinery:main/juice_it_up"
+				criterion: ""
+				id: "04FDA979B1243C1B"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["07FCE77262B95685"]
+			icon: {
+				id: "vinery:taiga_grapes_red"
+			}
+			id: "1260ED4556980427"
+			rewards: [
+				{
+					count: 2
+					id: "358DF73C005075E8"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "24EA6F9DA4AE0B71"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "vinery:main/grape_picker"
+				criterion: ""
+				id: "3A6599ABEEFE4237"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["23E49D7CE2E66B7D"]
+			icon: {
+				id: "vinery:apple_juice"
+			}
+			id: "37BC13DDAA8323F6"
+			rewards: [{
+				id: "285DCF581B6EBFDD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/purely_apple"
+				criterion: ""
+				id: "111CD932959F352E"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3F81CDFDBD72F56D"]
+			icon: {
+				id: "vinery:red_taiga_grapejuice"
+			}
+			id: "33EB8F98D07DA479"
+			rewards: [{
+				id: "0809F777804B2962"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/juicy_success"
+				criterion: ""
+				id: "13FBF33B35AE2CD6"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 7.5d
+		}
+		{
+			dependencies: ["074FD5E3EDE15FF1"]
+			icon: {
+				id: "vinery:jellie_wine"
+			}
+			id: "0975B9559C10C03B"
+			rewards: [
+				{
+					count: 2
+					id: "336353129635F071"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "1647A30808BB2028"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "vinery:main/wine_somelier"
+				criterion: ""
+				id: "1A8F7F90D27BA20E"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["33EB8F98D07DA479"]
+			icon: {
+				id: "vinery:fermentation_barrel"
+			}
+			id: "2A5B81C28BE16EAB"
+			rewards: [{
+				id: "22FBAD0B138B7D01"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/the_magic_of_the_barrel"
+				criterion: ""
+				id: "21A8275D939D412C"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 9.0d
+		}
+		{
+			dependencies: ["1B07010267EEA237"]
+			icon: {
+				id: "vinery:jungle_grape_seeds_red"
+			}
+			id: "060859C07F058744"
+			rewards: [{
+				id: "2C294B92C6610000"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/wild_harvest"
+				criterion: ""
+				id: "379B5DD14660AC57"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["33EB8F98D07DA479"]
+			icon: {
+				id: "vinery:white_taiga_grapejuice"
+			}
+			id: "2A3D7F8837DDB564"
+			rewards: [
+				{
+					count: 2
+					id: "00B2D1332B05600A"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "106A0524706CA8FC"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "vinery:main/nectar_of_life"
+				criterion: ""
+				id: "1CD197908C5EE086"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["060859C07F058744"]
+			icon: {
+				id: "vinery:oak_lattice"
+			}
+			id: "33EEE9252D90FE01"
+			rewards: [{
+				id: "181B01D416A50459"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/overgrown_lattices"
+				criterion: ""
+				id: "188785D8907F6085"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["25413BD4D57FA697"]
+			icon: {
+				id: "vinery:apple_press"
+			}
+			id: "23E49D7CE2E66B7D"
+			rewards: [
+				{
+					count: 3
+					id: "04160F7ABEDD5E4A"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "1931431589443A87"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "vinery:main/the_first_press"
+				criterion: ""
+				id: "1EBB1970F393401C"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["267EDBB163BC45C1"]
+			icon: {
+				id: "vinery:cherry"
+			}
+			id: "060D637AFC81E999"
+			rewards: [{
+				id: "0C042F304E702F85"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/cherry_picker"
+				criterion: ""
+				id: "147B3D39EE4DEFAE"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["267EDBB163BC45C1"]
+			icon: {
+				id: "minecraft:apple"
+			}
+			id: "25413BD4D57FA697"
+			rewards: [{
+				id: "237CC5ED1FB70E89"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/forbidden_fruit"
+				criterion: ""
+				id: "0B0C5DD6FDD61A04"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["23E49D7CE2E66B7D"]
+			icon: {
+				id: "vinery:apple_mash"
+			}
+			id: "3878D5169628371E"
+			rewards: [{
+				id: "1E293727F9EDA1E9"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/mashy_success"
+				criterion: ""
+				id: "0066279C08A8E869"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["33EEE9252D90FE01"]
+			icon: {
+				id: "vinery:jungle_grapes_red"
+			}
+			id: "07AD6559B2D30D16"
+			rewards: [
+				{
+					count: 2
+					id: "34E145F0445F9D7F"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "0AC8CDB002BCDFD6"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "vinery:main/budding_grapes"
+				criterion: ""
+				id: "296C19F943C31538"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["060859C07F058744"]
+			icon: {
+				id: "vinery:grapevine_stem"
+			}
+			id: "07FCE77262B95685"
+			rewards: [{
+				id: "1FD6C9E1A46BE223"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/sowing_the_future"
+				criterion: ""
+				id: "39DB6154CDA915FF"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 14.0d
+		}
+		{
+			icon: {
+				id: "vinery:wine_bottle"
+			}
+			id: "1B07010267EEA237"
+			rewards: [{
+				id: "3444458B7F6CF171"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "vinery:main/root"
+				criterion: ""
+				id: "2A6E07E4A759EE5B"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 7.75d
+		}
+	]
+}

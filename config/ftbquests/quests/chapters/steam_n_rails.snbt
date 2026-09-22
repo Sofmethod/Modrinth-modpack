@@ -1,0 +1,265 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "steam_n_rails"
+	group: "687D3C1391B84DC2"
+	icon: {
+		id: "railways:smokestack_streamlined"
+	}
+	id: "0D6C87D2C4913CFA"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "create:track_station"
+			}
+			id: "3BA9D12D126CF58D"
+			rewards: [{
+				id: "2971BFB5565B713D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "create:train"
+				criterion: ""
+				id: "15CAC5A4D87F1215"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3BA9D12D126CF58D"]
+			icon: {
+				id: "create:track"
+			}
+			id: "0F818F209E4D2554"
+			rewards: [{
+				id: "0EC243DD079C876F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3512ED9158E76B6A"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["3BA9D12D126CF58D"]
+			icon: {
+				id: "railways:smokestack_streamlined"
+			}
+			id: "1E3CEFFFA729458C"
+			rewards: [{
+				id: "21705DD277484E66"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3EA2AD20CD13487A"
+				item: { count: 1, id: "railways:smokestack_streamlined" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3BA9D12D126CF58D"]
+			icon: {
+				id: "create:railway_casing"
+			}
+			id: "305F45BFF510148B"
+			rewards: [{
+				id: "3669F97C9A408B52"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "31E1EF3B68B7EDE8"
+				type: "checkmark"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["1E3CEFFFA729458C"]
+			icon: {
+				id: "create:steam_whistle"
+			}
+			id: "3E7DB78DD442FF05"
+			rewards: [{
+				id: "2F8899CE42F38B58"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "create:train_whistle"
+				criterion: ""
+				id: "09DB2B6166C82B3B"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3E7DB78DD442FF05"]
+			icon: {
+				id: "create:schedule"
+			}
+			id: "29A85B43E291E37C"
+			rewards: [{
+				id: "1EF283663FB7DBD6"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "create:conductor"
+				criterion: ""
+				id: "2804A7D38F463D09"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["29A85B43E291E37C"]
+			icon: {
+				id: "create:track_signal"
+			}
+			id: "00E2590FEEC567CC"
+			rewards: [{
+				id: "247147D5204BF73E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "create:track_signal"
+				criterion: ""
+				id: "04E1B3196829C68B"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["305F45BFF510148B"]
+			icon: {
+				id: "minecraft:crafting_table"
+			}
+			id: "315E6399D3638294"
+			optional: true
+			rewards: [{
+				id: "0235559768ECFF3A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2AD579F8DF8681A0"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["00E2590FEEC567CC"]
+			icon: {
+				id: "minecraft:minecart"
+			}
+			id: "3D4073B6F3380703"
+			rewards: [
+				{
+					count: 3
+					id: "1ECCC9A78A6466F9"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "1B673B3654F72E4D"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "create:long_train"
+				criterion: ""
+				id: "371F5BF2554DE93F"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["00E2590FEEC567CC"]
+			icon: {
+				id: "minecraft:amethyst_block"
+			}
+			id: "2176435D3BAB7F64"
+			rewards: [
+				{
+					count: 3
+					id: "230A41D0E5BE100B"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "1401FD53F7F32562"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "create:train_portal"
+				criterion: ""
+				id: "0BEF5BC69FD7B063"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			dependencies: [
+				"3D4073B6F3380703"
+				"2176435D3BAB7F64"
+			]
+			icon: {
+				id: "railways:smokestack_streamlined"
+			}
+			id: "26D25774A7D33807"
+			rewards: [
+				{
+					count: 2
+					id: "270FCB3128C09472"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "30E2EBE74B944888"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "0C2EBB07C6D56D35"
+				type: "checkmark"
+			}]
+			x: 12.0d
+			y: -1.0d
+		}
+	]
+}

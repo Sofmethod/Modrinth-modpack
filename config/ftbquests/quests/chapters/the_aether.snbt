@@ -1,0 +1,771 @@
+{
+	autofocus_id: "355C3178E7FE266B"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "the_aether"
+	group: "1F97FADF9E58F64A"
+	icon: {
+		id: "aether:zanite_gemstone"
+	}
+	id: "30BB47FF74BE0106"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["12FFA57F9A49E13D"]
+			icon: {
+				id: "aether:bronze_dungeon_key"
+			}
+			id: "2B444FAD5B4DEC1E"
+			rewards: [
+				{
+					count: 3
+					id: "28FE0B52AD99260E"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "232CAFA7A0C21AA2"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "aether:bronze_dungeon"
+				criterion: ""
+				id: "25B9E39057D99977"
+				type: "advancement"
+			}]
+			x: 10.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["2E9ECDC662F57A0E"]
+			icon: {
+				id: "minecraft:feather"
+			}
+			id: "38A9FBCF0DAB9490"
+			rewards: [
+				{
+					count: 3
+					id: "035E016981917DFF"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "339915B69C47F4EE"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "aether:black_moa"
+				criterion: ""
+				id: "26B8D7C08A9FE779"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 3.0d
+		}
+		{
+			dependencies: ["12FFA57F9A49E13D"]
+			icon: {
+				id: "aether:gravitite_chestplate"
+			}
+			id: "20A41F09EE88D23A"
+			rewards: [
+				{
+					count: 3
+					id: "39986D08495A31C9"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "356BF95194DED5DF"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "aether:gravitite_armor"
+				criterion: ""
+				id: "17ED657CD2501595"
+				type: "advancement"
+			}]
+			x: 9.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["355C3178E7FE266B"]
+			icon: {
+				id: "minecraft:glowstone"
+			}
+			id: "2D08BFEF4994EA6A"
+			rewards: [{
+				id: "2B6C5130268FCFFA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:enter_aether"
+				criterion: ""
+				id: "1BC6EF9AB27F4D56"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 8.53125d
+		}
+		{
+			icon: {
+				id: "aether:aether_portal_frame"
+			}
+			id: "355C3178E7FE266B"
+			rewards: [{
+				id: "3A294B1BAF53638F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:the_aether"
+				criterion: ""
+				id: "1F5E93D1A941AD93"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 8.53125d
+		}
+		{
+			dependencies: ["2B444FAD5B4DEC1E"]
+			icon: {
+				id: "aether:hammer_of_kingbdogz"
+			}
+			id: "210DC94C5BB2F39B"
+			rewards: [
+				{
+					count: 3
+					id: "3739993B03409121"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "1F4AD70C47F688A0"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "aether:hammer_loot"
+				criterion: ""
+				id: "1953ADA3EB8799E7"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3B42176417F15AA1"]
+			icon: {
+				id: "aether:blue_moa_egg"
+			}
+			id: "052B338C531C65AA"
+			rewards: [{
+				id: "08D4BB1928889826"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:obtain_egg"
+				criterion: ""
+				id: "1E98E175A39F0089"
+				type: "advancement"
+			}]
+			x: 4.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2D08BFEF4994EA6A"]
+			icon: {
+				id: "aether:zanite_gemstone"
+			}
+			id: "0A059BDB6D288D41"
+			rewards: [{
+				id: "1347F101444AC763"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:zanite"
+				criterion: ""
+				id: "1222D384EBC88F45"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["15B609731252F172"]
+			icon: {
+				id: "aether:icestone"
+			}
+			id: "0ABF696E91887351"
+			rewards: [{
+				id: "1C71958F97BFBD48"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:icestone"
+				criterion: ""
+				id: "23A7B928E64FFB15"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0A059BDB6D288D41"]
+			icon: {
+				id: "aether:altar"
+			}
+			id: "15B609731252F172"
+			rewards: [{
+				id: "317CD36CFE76CC16"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:craft_altar"
+				criterion: ""
+				id: "1D897B8B1628DBF8"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["3B4F97E0E8831FD5"]
+			icon: {
+				id: "aether:silver_dungeon_key"
+			}
+			id: "274615A9338025F4"
+			rewards: [
+				{
+					count: 3
+					id: "2AAE2767EDC47B88"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "2FAEC3769A1B929E"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "aether:silver_dungeon"
+				criterion: ""
+				id: "18BD6DE718EFB83B"
+				type: "advancement"
+			}]
+			x: 14.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["15B609731252F172"]
+			icon: {
+				id: "aether:enchanted_gravitite"
+			}
+			id: "12FFA57F9A49E13D"
+			rewards: [{
+				id: "06C32D3BDE079EAE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:enchanted_gravitite"
+				criterion: ""
+				id: "2923A319216647FA"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["1FB687F269A3E9A5"]
+			icon: {
+				id: "aether:obsidian_chestplate"
+			}
+			id: "327A932CBDFC88D7"
+			rewards: [
+				{
+					count: 2
+					id: "1BB1D5959069AEF3"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "2B860DEB8A0EDDFB"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "aether:obsidian_armor"
+				criterion: ""
+				id: "2A63579076765B47"
+				type: "advancement"
+			}]
+			x: 22.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["3A90F93F53C60A26"]
+			icon: {
+				id: "aether:book_of_lore"
+			}
+			id: "386C29E324284F82"
+			rewards: [
+				{
+					count: 3
+					id: "0CC02FC102D68D71"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "16464D20E9CB74CD"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "aether:loreception"
+				criterion: ""
+				id: "02A47D176035D3E9"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["03BC038E7F64A182"]
+			icon: {
+				id: "minecraft:black_banner"
+			}
+			id: "32040D595C63DCB2"
+			rewards: [{
+				id: "2FAE8F8B7F30C0C9"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:prevent_swet_spawning"
+				criterion: ""
+				id: "1B6607732A4BF79F"
+				type: "advancement"
+			}]
+			x: 9.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["052B338C531C65AA"]
+			icon: {
+				id: "aether:aechor_petal"
+			}
+			id: "3EC6B307D308AF72"
+			rewards: [{
+				id: "03E98FF8CB9BCA5A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:obtain_petal"
+				criterion: ""
+				id: "2B49FF6745AE8040"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["274615A9338025F4"]
+			icon: {
+				id: "aether:regeneration_stone"
+			}
+			id: "152A57B71063BEB3"
+			rewards: [{
+				id: "100A793F780702DF"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:regen_stone"
+				criterion: ""
+				id: "1A9525BEA7860B36"
+				type: "advancement"
+			}]
+			x: 16.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["152A57B71063BEB3"]
+			icon: {
+				id: "aether:gold_dungeon_key"
+			}
+			id: "082AD5370736228A"
+			rewards: [
+				{
+					count: 3
+					id: "2BD7F32247013E26"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "211BAD5CDF1673CE"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "aether:gold_dungeon"
+				criterion: ""
+				id: "28FC01B40F547158"
+				type: "advancement"
+			}]
+			x: 18.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["2D08BFEF4994EA6A"]
+			icon: {
+				id: "aether:blue_aercloud"
+			}
+			id: "3B42176417F15AA1"
+			rewards: [{
+				id: "32B3CB2511CAC36D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:blue_aercloud"
+				criterion: ""
+				id: "377F0D329D5BC427"
+				type: "advancement"
+			}]
+			x: 3.0d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2B444FAD5B4DEC1E"]
+			icon: {
+				id: "aether:valkyrie_lance"
+			}
+			id: "3B4F97E0E8831FD5"
+			rewards: [{
+				id: "241AA30BA8FB51A7"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:lance_loot"
+				criterion: ""
+				id: "0B7B69E594252FD3"
+				type: "advancement"
+			}]
+			x: 12.5d
+			y: 10.0d
+		}
+		{
+			dependencies: ["3EC6B307D308AF72"]
+			icon: {
+				id: "aether:purple_flower"
+			}
+			id: "03BC038E7F64A182"
+			rewards: [{
+				id: "120B232A313B65C4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:prevent_aechor_petal_spawning"
+				criterion: ""
+				id: "13C995CE7D8497C0"
+				type: "advancement"
+			}]
+			x: 7.5d
+			y: 5.0d
+		}
+		{
+			dependencies: ["2D08BFEF4994EA6A"]
+			icon: {
+				id: "aether:book_of_lore"
+			}
+			id: "3A90F93F53C60A26"
+			rewards: [{
+				id: "32AD4DDF8C14CA3D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:read_lore"
+				criterion: ""
+				id: "2CB34304E3D057C4"
+				type: "advancement"
+			}]
+			x: 3.5d
+			y: 7.0d
+		}
+		{
+			dependencies: ["082AD5370736228A"]
+			icon: {
+				id: "aether:skyroot_bed"
+			}
+			id: "1D2AAD77DC519E17"
+			rewards: [
+				{
+					count: 2
+					id: "310DA7F8DB2CE852"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "376E593BE844A6C1"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "aether:aether_sleep"
+				criterion: ""
+				id: "364FEF97342DC900"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["052B338C531C65AA"]
+			icon: {
+				id: "aether:incubator"
+			}
+			id: "2E9ECDC662F57A0E"
+			rewards: [{
+				id: "25370562E61A856E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:incubate_moa"
+				criterion: ""
+				id: "313993163FC49C0F"
+				type: "advancement"
+			}]
+			x: 5.5d
+			y: 3.5d
+		}
+		{
+			dependencies: ["0ABF696E91887351"]
+			icon: {
+				id: "aether:ice_pendant"
+			}
+			id: "116195D2DFB32DAA"
+			rewards: [{
+				id: "02501BCE375248F0"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:ice_accessory"
+				criterion: ""
+				id: "28A043FAAAB18A92"
+				type: "advancement"
+			}]
+			x: 7.0d
+			y: 13.5d
+		}
+		{
+			dependencies: ["3E7D6B8887E83CDC"]
+			icon: {
+				id: "aether:aether_farmland"
+			}
+			id: "1B697B474A8CB566"
+			rewards: [
+				{
+					count: 2
+					id: "101EAD91FDD59FFC"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "18C8F96A799FCCF9"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "aether:valkyrie_hoe"
+				criterion: ""
+				id: "2829B92E61ACF8A5"
+				type: "advancement"
+			}]
+			x: 18.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["274615A9338025F4"]
+			icon: {
+				id: "aether:valkyrie_helmet"
+			}
+			id: "3E7D6B8887E83CDC"
+			rewards: [
+				{
+					count: 3
+					id: "00CA0F0305945BB3"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "28F7CB0F3E6FD29F"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "aether:valkyrie_loot"
+				criterion: ""
+				id: "090D5FE53737353D"
+				type: "advancement"
+			}]
+			x: 15.5d
+			y: 11.5d
+		}
+		{
+			dependencies: ["210DC94C5BB2F39B"]
+			icon: {
+				id: "minecraft:snowball"
+			}
+			id: "1EA8799171A08DD3"
+			rewards: [
+				{
+					count: 2
+					id: "201B55B367805730"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "045BAD7B6511AC99"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "aether:zephyr_hammer"
+				criterion: ""
+				id: "1EEEE1A52962DB40"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["082AD5370736228A"]
+			icon: {
+				id: "aether:phoenix_helmet"
+			}
+			id: "1FB687F269A3E9A5"
+			rewards: [
+				{
+					count: 3
+					id: "113D17FBBFAB26DB"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "23DAA92E3364AAD3"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "aether:phoenix_armor"
+				criterion: ""
+				id: "008AF75559BB22F1"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["3B42176417F15AA1"]
+			icon: {
+				id: "minecraft:saddle"
+			}
+			id: "1AB75D2FB3AF779D"
+			rewards: [{
+				id: "2215A593C636088A"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "aether:mount_phyg"
+				criterion: ""
+				id: "1CAF791CD539818D"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+	]
+}

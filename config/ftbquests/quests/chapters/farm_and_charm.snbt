@@ -1,0 +1,495 @@
+{
+	autofocus_id: "1946D383ED0B15A1"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "farm_and_charm"
+	group: "61D190AF05DF5BA0"
+	icon: {
+		id: "farm_and_charm:stove"
+	}
+	id: "097BADEDA326809E"
+	images: [ ]
+	order_index: 2
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["3754252EC1552380"]
+			icon: {
+				id: "farm_and_charm:minced_beef"
+			}
+			id: "3C65BFDC12B72080"
+			rewards: [{
+				id: "04BFC576D7ACD61D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/get_minced_beef"
+				criterion: ""
+				id: "1F19E3252F442EA4"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["18958F0B3E05B0C9"]
+			icon: {
+				id: "farm_and_charm:baked_lamb_ham"
+			}
+			id: "39E5CFE93CC95BDA"
+			rewards: [
+				{
+					count: 2
+					id: "12429BCD963E058A"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "25820F69C192B774"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "farm_and_charm:main/bake_everything"
+				criterion: ""
+				id: "3EEAB9B858D7C87D"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["260C1BCCB37D2215"]
+			icon: {
+				id: "farm_and_charm:tomato"
+			}
+			id: "139C2F5B9EAB1BA9"
+			rewards: [
+				{
+					count: 3
+					id: "09F1098C314839F0"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "18695D27249A47EF"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "farm_and_charm:main/eat_tomato"
+				criterion: ""
+				id: "0A7D13E3F1E92480"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["16D2752A390DAB56"]
+			icon: {
+				id: "farm_and_charm:fertilized_soil"
+			}
+			id: "124FC155E9B8A466"
+			rewards: [{
+				id: "3CB75DF55565E21D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/place_fertilized_soil"
+				criterion: ""
+				id: "3E33014F05BD729C"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1946D383ED0B15A1"]
+			icon: {
+				id: "farm_and_charm:wild_tomatoes"
+			}
+			id: "260C1BCCB37D2215"
+			rewards: [{
+				id: "310629ADCF325536"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/find_wild_crops"
+				criterion: ""
+				id: "0AD0C759E9066D94"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["18958F0B3E05B0C9"]
+			icon: {
+				id: "farm_and_charm:roaster"
+			}
+			id: "1295FBAAEA0DF4AD"
+			rewards: [{
+				id: "2CF569473BACCED6"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/place_roaster"
+				criterion: ""
+				id: "184B89EF87C98414"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["1946D383ED0B15A1"]
+			icon: {
+				id: "farm_and_charm:mincer"
+			}
+			id: "3754252EC1552380"
+			rewards: [{
+				id: "3535BB8A075499FE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/introduction_mincing"
+				criterion: ""
+				id: "2BCFF9B002594427"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["260C1BCCB37D2215"]
+			icon: {
+				id: "farm_and_charm:silo_wood"
+			}
+			id: "2979CD4508A16517"
+			rewards: [{
+				id: "17D62BFC0876F3CC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/introduction_drying"
+				criterion: ""
+				id: "2212613EA06B29E2"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["1946D383ED0B15A1"]
+			icon: {
+				id: "farm_and_charm:stuffed_chicken"
+			}
+			id: "01D4136C7E776605"
+			rewards: [
+				{
+					count: 2
+					id: "0BD88B3B6D819FCF"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "1AD389A7DE59536F"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "farm_and_charm:main/make_everything"
+				criterion: ""
+				id: "0B23370A94C943A8"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0CFD19C0F601D0B0"]
+			icon: {
+				id: "farm_and_charm:chicken_coop"
+			}
+			id: "3498991EFFF1B35A"
+			rewards: [{
+				id: "1219F3FF935BFF5B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/place_chicken_coop"
+				criterion: ""
+				id: "27F5C3B9637D1A81"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["124FC155E9B8A466"]
+			icon: {
+				id: "farm_and_charm:fertilized_farmland"
+			}
+			id: "15930125ED720B7A"
+			rewards: [{
+				id: "039B036EF67B7F96"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/use_hoe_on_fertilized_soil"
+				criterion: ""
+				id: "1DB0ED206869F2DE"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["18958F0B3E05B0C9"]
+			icon: {
+				id: "farm_and_charm:cooking_pot"
+			}
+			id: "310129C7BD0A0078"
+			rewards: [{
+				id: "07ECA94913253762"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/place_cooking_pot"
+				criterion: ""
+				id: "1AAC5B9FDDCAF214"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["2979CD4508A16517"]
+			icon: {
+				id: "farm_and_charm:fertilizer"
+			}
+			id: "16D2752A390DAB56"
+			rewards: [{
+				id: "22A1DD75D0A78B8B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/get_fertilizer"
+				criterion: ""
+				id: "3353DBEB6458C670"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["310129C7BD0A0078"]
+			icon: {
+				id: "farm_and_charm:goulash"
+			}
+			id: "1A85B59FD2F61E4A"
+			rewards: [
+				{
+					count: 2
+					id: "1F561FB415FE2FB9"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "16C7A3A82AAE45DF"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "farm_and_charm:main/cook_everything"
+				criterion: ""
+				id: "3F1A9542A995E38E"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["2768FB68978482B8"]
+			icon: {
+				id: "farm_and_charm:water_sprinkler"
+			}
+			id: "04E415B265C9B3E3"
+			rewards: [{
+				id: "1C59CF9F157CFE16"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/place_water_sprinkler"
+				criterion: ""
+				id: "1681C15F6E10D91E"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["260C1BCCB37D2215"]
+			icon: {
+				id: "farm_and_charm:feeding_trough"
+			}
+			id: "2768FB68978482B8"
+			rewards: [{
+				id: "08A52F7BF0D64541"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/place_feeding_trough"
+				criterion: ""
+				id: "30C829500BA7629E"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["1946D383ED0B15A1"]
+			icon: {
+				id: "farm_and_charm:stove"
+			}
+			id: "18958F0B3E05B0C9"
+			rewards: [{
+				id: "112215E49C5D4807"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/place_stove"
+				criterion: ""
+				id: "23AAD5A1B1232E55"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["124FC155E9B8A466"]
+			icon: {
+				id: "farm_and_charm:pitchfork"
+			}
+			id: "04CF05FD829098FA"
+			rewards: [{
+				id: "0B05DF095FC99A2F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/use_pitchfork_on_fertilized_soil"
+				criterion: ""
+				id: "2F44E193716B8D9B"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1295FBAAEA0DF4AD"]
+			icon: {
+				id: "farm_and_charm:bacon_with_eggs"
+			}
+			id: "1BA2B3FDB43F2F2E"
+			rewards: [
+				{
+					count: 2
+					id: "3855C1A1E398B720"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "3A95CD6A3FC4DEBA"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "farm_and_charm:main/roast_everything"
+				criterion: ""
+				id: "3C1B53E397B81E42"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["260C1BCCB37D2215"]
+			icon: {
+				id: "farm_and_charm:chicken_nest"
+			}
+			id: "0CFD19C0F601D0B0"
+			rewards: [{
+				id: "060097EA10C326D8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/place_chicken_nest"
+				criterion: ""
+				id: "34C293FC94E33B2F"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			icon: {
+				id: "farm_and_charm:scarecrow"
+			}
+			id: "1946D383ED0B15A1"
+			rewards: [{
+				id: "1C0C5D437C7F6102"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "farm_and_charm:main/root"
+				criterion: ""
+				id: "3BF3FB18C9606704"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 10.0d
+		}
+	]
+}

@@ -1,0 +1,267 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "vanilla_farming"
+	group: "61D190AF05DF5BA0"
+	icon: {
+		id: "minecraft:wheat"
+	}
+	id: "319E27ECEA604F97"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "05B7A70EAFF25111"
+			rewards: [{
+				id: "375641DB88573102"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/root"
+				criterion: ""
+				id: "36EAA9037E6A7B96"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["05B7A70EAFF25111"]
+			icon: {
+				id: "minecraft:wheat_seeds"
+			}
+			id: "18D3E399E71ADC97"
+			rewards: [{
+				id: "0B2885D9AA81C4BA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/plant_seed"
+				criterion: ""
+				id: "0B8E038596E210DA"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["05B7A70EAFF25111"]
+			icon: {
+				id: "minecraft:composter"
+			}
+			id: "350E77E756BFD208"
+			rewards: [{
+				id: "06308764A04076D2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1D6DF38DFF9D7261"
+				item: { count: 1, id: "minecraft:composter" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["350E77E756BFD208"]
+			icon: {
+				id: "minecraft:bone_meal"
+			}
+			id: "36C09BBC8E296551"
+			rewards: [{
+				id: "3A8CBD25045BA5BF"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "2B8DB32BC9242DA9"
+				item: { count: 1, id: "minecraft:bone_meal" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["36C09BBC8E296551"]
+			icon: {
+				id: "minecraft:hay_block"
+			}
+			id: "07DAE733E4B26668"
+			rewards: [{
+				id: "2C4B15C345333C3D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1788EDBA8AFC8A6C"
+				item: { count: 1, id: "minecraft:hay_block" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["18D3E399E71ADC97"]
+			icon: {
+				id: "minecraft:wheat"
+			}
+			id: "3923C9772CDDD3C3"
+			rewards: [{
+				id: "3E9D354E8901FC2F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/breed_an_animal"
+				criterion: ""
+				id: "27533F6CA4AD2F22"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3923C9772CDDD3C3"]
+			icon: {
+				id: "minecraft:golden_carrot"
+			}
+			id: "081707FBC1FE2228"
+			rewards: [
+				{
+					count: 2
+					id: "1B15114F17F3D595"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "3A8F4F51D0453E52"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "minecraft:husbandry/bred_all_animals"
+				criterion: ""
+				id: "155669BFF7FF2700"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["18D3E399E71ADC97"]
+			icon: {
+				id: "minecraft:apple"
+			}
+			id: "0E912D8AFDBBB40A"
+			rewards: [
+				{
+					count: 2
+					id: "2F39DBFD13FC3629"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "0852DFF7A7F3F00D"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "minecraft:husbandry/balanced_diet"
+				criterion: ""
+				id: "31C30303C20E8813"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["18D3E399E71ADC97"]
+			icon: {
+				id: "minecraft:honey_bottle"
+			}
+			id: "13705595CAA2A58E"
+			rewards: [{
+				id: "3443C3CAB5FB4D62"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/safely_harvest_honey"
+				criterion: ""
+				id: "16D8F1C8CAAB67D9"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["18D3E399E71ADC97"]
+			icon: {
+				id: "minecraft:torchflower_seeds"
+			}
+			id: "210D231588F03321"
+			rewards: [{
+				id: "3318FB0836E60C80"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "minecraft:husbandry/plant_any_sniffer_seed"
+				criterion: ""
+				id: "373ACD02F578AD67"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["13705595CAA2A58E"]
+			icon: {
+				id: "minecraft:netherite_hoe"
+			}
+			id: "205A15B10E255E1E"
+			rewards: [
+				{
+					count: 2
+					id: "07A3236C17BDD07F"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "31D063E0E57ACCDA"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "minecraft:husbandry/obtain_netherite_hoe"
+				criterion: ""
+				id: "35B1999EF8B1B9F0"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+	]
+}

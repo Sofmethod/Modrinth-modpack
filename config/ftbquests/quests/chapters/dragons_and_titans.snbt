@@ -1,0 +1,1427 @@
+{
+	autofocus_id: "006E89C9EC0D0F18"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "dragons_and_titans"
+	group: "50F9CCAD0465FD55"
+	icon: {
+		id: "iceandfire:dragon_skull_fire"
+	}
+	id: "360F1DDF756BAC57"
+	images: [ ]
+	order_index: 0
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "minecraft:written_book"
+			}
+			id: "006E89C9EC0D0F18"
+			rewards: [{
+				id: "2292C5F74DA4827E"
+				type: "xp"
+				xp: 50
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "09E88F2ADFED894F"
+				type: "checkmark"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["006E89C9EC0D0F18"]
+			icon: {
+				id: "minecraft:cooked_beef"
+			}
+			id: "1018BD1B53994EEA"
+			rewards: [{
+				id: "0316AD32CB1DE474"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				count: 16L
+				id: "1166716D5CE4152C"
+				item: { count: 1, id: "minecraft:cooked_beef" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["006E89C9EC0D0F18"]
+			icon: {
+				id: "minecraft:iron_chestplate"
+			}
+			id: "264843AEE889DAD3"
+			rewards: [{
+				id: "1ABDC5C29861A0C7"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "35434DA184D686DB"
+				item: { count: 1, id: "minecraft:iron_chestplate" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["006E89C9EC0D0F18"]
+			icon: {
+				id: "minecraft:bow"
+			}
+			id: "3ECCF5501B5EF3BA"
+			rewards: [{
+				id: "07C5579337B34AF5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "36CD710944B23A98"
+				item: { count: 1, id: "minecraft:bow" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: [
+				"1018BD1B53994EEA"
+				"264843AEE889DAD3"
+				"3ECCF5501B5EF3BA"
+			]
+			icon: {
+				id: "mowziesmobs:sol_visage"
+			}
+			id: "3F02515ECA78C4C4"
+			rewards: [{
+				id: "330253054ADF23A8"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "3E287D3ABC150ECF"
+				type: "checkmark"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["136569D9FE405CE7"]
+			icon: {
+				id: "mowziesmobs:wrought_helmet"
+			}
+			id: "2C044525B067D2CE"
+			rewards: [
+				{
+					count: 2
+					id: "23ECF9FFD3CEBF72"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "00CFFD09250FA759"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "mowziesmobs:kill_ferrous_wroughtnaut"
+				criterion: ""
+				id: "2AF2EFA5C77E5993"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -6.0d
+		}
+		{
+			dependencies: ["28F5A70C252074EA"]
+			icon: {
+				id: "mowziesmobs:captured_grottol"
+			}
+			id: "10E82D556D960142"
+			rewards: [{
+				id: "1A242DAA660A2D5E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:kill_grottol_silk_touch"
+				criterion: ""
+				id: "2E47FF2A4A80A3F0"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["136569D9FE405CE7"]
+			icon: {
+				id: "mowziesmobs:umvuthana_mask_fury"
+			}
+			id: "02A50F95EB844AB8"
+			rewards: [{
+				id: "197F85935AA690D2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:kill_umvuthana_raptor"
+				criterion: ""
+				id: "367895F33E7EAC1F"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["136569D9FE405CE7"]
+			icon: {
+				id: "mowziesmobs:naga_fang"
+			}
+			id: "3760676150090CB9"
+			rewards: [{
+				id: "229D555D106EC6D2"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:kill_naga"
+				criterion: ""
+				id: "3D7449485F7F0E9B"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["28F5A70C252074EA"]
+			icon: {
+				id: "minecraft:diamond_pickaxe"
+			}
+			id: "162C9B7DC3C15DCA"
+			rewards: [{
+				id: "280061ABFB75FB5C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:kill_grottol_fortune"
+				criterion: ""
+				id: "12845197A84B4784"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["33DCE74D2692CA14"]
+			icon: {
+				id: "minecraft:beef"
+			}
+			id: "1144535F432420C4"
+			rewards: [{
+				id: "3EDD83342706140D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:sculptor_failure"
+				criterion: ""
+				id: "1CBDE3470FCD3181"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["136569D9FE405CE7"]
+			icon: {
+				id: "mowziesmobs:elokosa_paw_full"
+			}
+			id: "2D083FFF19DA3885"
+			rewards: [{
+				id: "3F7ED301A119E6F6"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:kill_elokosa_howler"
+				criterion: ""
+				id: "23E815EDE750757C"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -8.0d
+		}
+		{
+			dependencies: ["136569D9FE405CE7"]
+			icon: {
+				id: "mowziesmobs:earthrend_gauntlet"
+			}
+			id: "33DCE74D2692CA14"
+			rewards: [
+				{
+					count: 2
+					id: "3AECE7312EDD67F0"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "17E8C1BE228125AD"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "mowziesmobs:sculptor_challenge"
+				criterion: ""
+				id: "15E245F6187B9354"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["16FD594E4053F0BC"]
+			icon: {
+				id: "minecraft:potion"
+			}
+			id: "25B8113B23732C6C"
+			rewards: [{
+				id: "335BDD6B46609A74"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:steal_ice_crystal"
+				criterion: ""
+				id: "1AFD15F15B3ABDAF"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["101A69B9EC71BA53"]
+			icon: {
+				id: "mowziesmobs:grant_suns_blessing"
+			}
+			id: "0E302BA8794596B6"
+			rewards: [
+				{
+					count: 3
+					id: "00C2B50C9CFD7428"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "17BD1FDE50397963"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "mowziesmobs:suns_blessing"
+				criterion: ""
+				id: "24EE95BAD65E2F7E"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["136569D9FE405CE7"]
+			icon: {
+				id: "minecraft:diamond"
+			}
+			id: "28F5A70C252074EA"
+			rewards: [{
+				id: "39C9FBD0A15A6C1C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:kill_grottol"
+				criterion: ""
+				id: "1294DFEE42853D7E"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 1.0d
+		}
+		{
+			dependencies: ["136569D9FE405CE7"]
+			icon: {
+				id: "mowziesmobs:ice_crystal"
+			}
+			id: "16FD594E4053F0BC"
+			rewards: [
+				{
+					count: 2
+					id: "1C8D61F00C1F21CA"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "115453AC6B382DDE"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "mowziesmobs:kill_frostmaw"
+				criterion: ""
+				id: "1283A3A009746625"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["136569D9FE405CE7"]
+			icon: {
+				id: "mowziesmobs:bluff_rod"
+			}
+			id: "22917146E86CE615"
+			rewards: [{
+				id: "289DF3EA9AD19166"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:kill_bluff"
+				criterion: ""
+				id: "10A2B546E0DF9E08"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -10.0d
+		}
+		{
+			dependencies: ["136569D9FE405CE7"]
+			icon: {
+				id: "mowziesmobs:foliaath_seed"
+			}
+			id: "3CDB15E75B9A373A"
+			rewards: [{
+				id: "015293279810D33C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:kill_foliaath"
+				criterion: ""
+				id: "0DA23F1ABAFEC75F"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: -4.0d
+		}
+		{
+			dependencies: ["3291ED2AC6477E55"]
+			icon: {
+				id: "mowziesmobs:umvuthana_mask_fear"
+			}
+			id: "101A69B9EC71BA53"
+			rewards: [{
+				id: "30833F86072F11C1"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:sneak_grove"
+				criterion: ""
+				id: "1CDF7D0079F31391"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["136569D9FE405CE7"]
+			icon: {
+				id: "mowziesmobs:sol_visage"
+			}
+			id: "3291ED2AC6477E55"
+			rewards: [
+				{
+					count: 2
+					id: "30ECE1ABEA0EDB35"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "1D08D365D3A01530"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "mowziesmobs:kill_umvuthi"
+				criterion: ""
+				id: "0D3031656AC3F370"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["3F02515ECA78C4C4"]
+			icon: {
+				id: "mowziesmobs:logo"
+			}
+			id: "136569D9FE405CE7"
+			rewards: [{
+				id: "24DDFD071868A7F7"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "mowziesmobs:root"
+				criterion: ""
+				id: "159E03B72FB1B2DE"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"3291ED2AC6477E55"
+				"16FD594E4053F0BC"
+				"2C044525B067D2CE"
+			]
+			icon: {
+				id: "mowziesmobs:sol_visage"
+			}
+			id: "1EA151B150307379"
+			rewards: [
+				{
+					count: 2
+					id: "03F05394E16C7CF8"
+					item: {
+						count: 1
+						id: "minecraft:golden_apple"
+					}
+					type: "item"
+				}
+				{
+					id: "3C8851337EF0F69F"
+					type: "xp"
+					xp: 300
+				}
+			]
+			shape: "rsquare"
+			tasks: [
+				{
+					id: "2DADA5D5CC0F7DB1"
+					item: { count: 1, id: "mowziesmobs:sol_visage" }
+					type: "item"
+				}
+				{
+					id: "02197172B85A28FB"
+					item: { count: 1, id: "mowziesmobs:wrought_helmet" }
+					type: "item"
+				}
+				{
+					id: "1532B7D121ABD95D"
+					item: { count: 1, id: "mowziesmobs:ice_crystal" }
+					type: "item"
+				}
+			]
+			x: 14.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["1EA151B150307379"]
+			icon: {
+				id: "minecraft:goat_horn"
+			}
+			id: "14BC3DCCDDB0EA83"
+			rewards: [{
+				id: "3B5075D00732F140"
+				type: "xp"
+				xp: 150
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "16B30D0BC9FF54D7"
+				type: "checkmark"
+			}]
+			x: 16.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["14BC3DCCDDB0EA83"]
+			icon: {
+				id: "iceandfire:bestiary"
+			}
+			id: "09202922844A875B"
+			rewards: [{
+				id: "22B84720BAFCE611"
+				type: "xp"
+				xp: 100
+			}]
+			shape: "gear"
+			tasks: [{
+				id: "38616D663F14842A"
+				type: "checkmark"
+			}]
+			x: 18.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2626094AF9EE419E"]
+			icon: {
+				id: "iceandfire:dragonarmor_iron_body"
+			}
+			id: "074FB70FE9FD4A78"
+			rewards: [{
+				id: "2CE495386DFC9260"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragonarmor"
+				criterion: ""
+				id: "169869D76511E9BA"
+				type: "advancement"
+			}]
+			x: 27.0d
+			y: -4.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:lectern"
+			}
+			id: "046BFBF5126F2002"
+			rewards: [{
+				id: "20673502E7AA6235"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/lectern"
+				criterion: ""
+				id: "02F90FD3E08A7E48"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: 10.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:amphithere_feather"
+			}
+			id: "2D20F1478BAA5C3E"
+			rewards: [{
+				id: "1AD955598129FCB8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/tame_amphithere"
+				criterion: ""
+				id: "0C130DE86AD76D60"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: 14.5d
+		}
+		{
+			dependencies: ["3788E7A8AC49F6AF"]
+			icon: {
+				id: "iceandfire:deathworm_egg"
+			}
+			id: "3916DFE5621D1ED3"
+			rewards: [{
+				id: "135345A869D5A136"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/deathworm_egg"
+				criterion: ""
+				id: "07510D62254EDCB5"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: -17.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:hippogryph_talon"
+			}
+			id: "088959C8A0AC74E0"
+			rewards: [{
+				id: "208C11F48EA64FC7"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/tame_hippogryph"
+				criterion: ""
+				id: "1124B70EC6BFBBBF"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: 18.5d
+		}
+		{
+			dependencies: ["22CE419D03DD06C1"]
+			icon: {
+				id: "iceandfire:dragonforge_fire_brick"
+			}
+			id: "0772A1B76C72E8FD"
+			rewards: [{
+				id: "1FF76B4FC945F374"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragon_forge_brick"
+				criterion: ""
+				id: "3757C99FEF5DAA16"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:hippocampus_fin"
+			}
+			id: "329041BC23818CE1"
+			rewards: [{
+				id: "3E72DBB7D6B237C5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/tame_hippocampus"
+				criterion: ""
+				id: "39C8431E7C9453DC"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: 16.5d
+		}
+		{
+			dependencies: ["22CE419D03DD06C1"]
+			icon: {
+				id: "iceandfire:dragonegg_red"
+			}
+			id: "2626094AF9EE419E"
+			rewards: [{
+				id: "0AF5E1BCFFD7EEAE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragon_egg"
+				criterion: ""
+				id: "0626B3D60606A9F9"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:hydra_fang"
+			}
+			id: "3BCD891CC1AB132F"
+			rewards: [{
+				id: "015F65305B85EB73"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_hydra"
+				criterion: ""
+				id: "07B149219724ED8A"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: -13.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:troll_tusk"
+			}
+			id: "35B2EDFD205269F5"
+			rewards: [{
+				id: "0D6B01926DA534B6"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_troll"
+				criterion: ""
+				id: "3371F7B3B8788949"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: 8.5d
+		}
+		{
+			dependencies: ["3AC5D7C2509D4292"]
+			icon: {
+				id: "iceandfire:dragonsteel_ice_sword"
+			}
+			id: "3B251DA64AD834FF"
+			rewards: [{
+				id: "3773ED77A1FFDBA0"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragonsteel_weapon"
+				criterion: ""
+				id: "3A5A1D3519C93B4E"
+				type: "advancement"
+			}]
+			x: 32.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["3269DF0EC860731B"]
+			icon: {
+				id: "iceandfire:tide_trident"
+			}
+			id: "303BDBB5B500036A"
+			rewards: [{
+				id: "206FEBF7A7E9FB19"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/use_tide_trident"
+				criterion: ""
+				id: "2E0AC10EE791793E"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:rotten_egg"
+			}
+			id: "37366129028E9FA8"
+			rewards: [{
+				id: "3FD4877438F28538"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/rotten_egg"
+				criterion: ""
+				id: "08E1A59B120FAB16"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["2626094AF9EE419E"]
+			icon: {
+				id: "iceandfire:dragon_flute"
+			}
+			id: "16C4615DB62B22F9"
+			rewards: [{
+				id: "2D26877CB907142F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragon_flute"
+				criterion: ""
+				id: "026D19A24CB3960F"
+				type: "advancement"
+			}]
+			x: 28.0d
+			y: -11.5d
+		}
+		{
+			dependencies: ["37366129028E9FA8"]
+			icon: {
+				id: "iceandfire:cockatrice_eye"
+			}
+			id: "32DAFB211086C198"
+			rewards: [{
+				id: "304B216829119C24"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/tame_cockatrice"
+				criterion: ""
+				id: "1184EF4C77891D39"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:cyclops_eye"
+			}
+			id: "3D023B66CF8D9A81"
+			rewards: [{
+				id: "01CF994FB752095D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_cyclops"
+				criterion: ""
+				id: "3CD0818E0C3BB02B"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: -19.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:siren_tear"
+			}
+			id: "204D23997A7ADFE7"
+			rewards: [{
+				id: "1C4EC50AF70CC8CE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_siren"
+				criterion: ""
+				id: "1B4A9D0AC25E891B"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: 4.5d
+		}
+		{
+			dependencies: ["11F055BB76BEB63C"]
+			icon: {
+				id: "iceandfire:pixie_wand"
+			}
+			id: "268AEF45CB909587"
+			rewards: [{
+				id: "0D38795D1560AA91"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/pixie_wand"
+				criterion: ""
+				id: "000DB1EF7D897904"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: 22.5d
+		}
+		{
+			dependencies: ["0A55831E4039A661"]
+			icon: {
+				id: "iceandfire:bestiary"
+			}
+			id: "33C857C9BFA571D1"
+			rewards: [{
+				id: "07D5C15B2E065791"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/bestiary"
+				criterion: ""
+				id: "29F117C9BFFC26A0"
+				type: "advancement"
+			}]
+			x: 22.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["278F61F48AA0FBAB"]
+			icon: {
+				id: "iceandfire:stymphalian_arrow"
+			}
+			id: "1DFA11D5F5544A21"
+			rewards: [{
+				id: "2FD3AB19D51D54F5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/stymphalian_arrow"
+				criterion: ""
+				id: "09C48BF31523529C"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:sea_serpent_fang"
+			}
+			id: "3269DF0EC860731B"
+			rewards: [{
+				id: "26C0EDF510192BD5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_sea_serpent"
+				criterion: ""
+				id: "2E4FD791DA36B254"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: 2.5d
+		}
+		{
+			dependencies: ["11F055BB76BEB63C"]
+			icon: {
+				id: "iceandfire:pixie_jar_0"
+			}
+			id: "3807A9795C99AB87"
+			rewards: [{
+				id: "26BE3718785A899C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/jar_pixie"
+				criterion: ""
+				id: "16272B98A4B0DC0B"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: 20.5d
+		}
+		{
+			dependencies: ["2E28B3B9CBDBC47C"]
+			icon: {
+				id: "iceandfire:dragonbone_sword_fire"
+			}
+			id: "0A2C5351A0AB4FA4"
+			rewards: [{
+				id: "22E5D394A69FA74F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragonbone_flaming_sword"
+				criterion: ""
+				id: "08A8C5DBDCCD7244"
+				type: "advancement"
+			}]
+			x: 28.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["0772A1B76C72E8FD"]
+			icon: {
+				id: "iceandfire:dragonforge_fire_core"
+			}
+			id: "37D1B7D6DBFA4878"
+			rewards: [{
+				id: "395E8B4DCDD38032"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragon_forge_core"
+				criterion: ""
+				id: "0EA42D0C2B2485AD"
+				type: "advancement"
+			}]
+			x: 28.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:pixie_dust"
+			}
+			id: "11F055BB76BEB63C"
+			rewards: [{
+				id: "0B9559AC6CED015D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/tame_pixie"
+				criterion: ""
+				id: "0F70F3787EBE630C"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: 21.5d
+		}
+		{
+			dependencies: ["37D1B7D6DBFA4878"]
+			icon: {
+				id: "iceandfire:dragonsteel_fire_ingot"
+			}
+			id: "3AC5D7C2509D4292"
+			rewards: [{
+				id: "1D53F9BA8FC7C3EA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragonsteel"
+				criterion: ""
+				id: "39BD0735ABDB6D1F"
+				type: "advancement"
+			}]
+			x: 30.0d
+			y: -1.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:deathworm_tounge"
+			}
+			id: "3788E7A8AC49F6AF"
+			rewards: [{
+				id: "0595AF718FB6AEEE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_deathworm"
+				criterion: ""
+				id: "2310D1CC5696D7B1"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: -17.5d
+		}
+		{
+			dependencies: ["22CE419D03DD06C1"]
+			icon: {
+				id: "iceandfire:dragonbone_pickaxe"
+			}
+			id: "2E28B3B9CBDBC47C"
+			rewards: [{
+				id: "39484BB08EBA04D8"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragonbone_tool"
+				criterion: ""
+				id: "2DEED9AEC678B6E4"
+				type: "advancement"
+			}]
+			x: 26.0d
+			y: 0.5d
+		}
+		{
+			dependencies: ["2626094AF9EE419E"]
+			icon: {
+				id: "iceandfire:dragon_horn"
+			}
+			id: "1C74FDA81EF822C7"
+			rewards: [{
+				id: "2B1289B786455494"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragon_horn"
+				criterion: ""
+				id: "3A3B3DBB6425F250"
+				type: "advancement"
+			}]
+			x: 28.0d
+			y: -9.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:stymphalian_bird_feather"
+			}
+			id: "278F61F48AA0FBAB"
+			rewards: [{
+				id: "0F9FB723CDA3A0F5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_stymphalian_bird"
+				criterion: ""
+				id: "37AA2FD520F3FE1A"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: 6.5d
+		}
+		{
+			dependencies: ["2626094AF9EE419E"]
+			icon: {
+				id: "iceandfire:dragon_meal"
+			}
+			id: "0B1043D9D47CE830"
+			rewards: [{
+				id: "087739602314BE9F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragon_meal"
+				criterion: ""
+				id: "27AF6387AB1FAD53"
+				type: "advancement"
+			}]
+			x: 28.0d
+			y: -7.5d
+		}
+		{
+			dependencies: ["2626094AF9EE419E"]
+			icon: {
+				id: "iceandfire:dragon_stick"
+			}
+			id: "3710271A02912F29"
+			rewards: [{
+				id: "3280218B9F4DB3C5"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/dragon_staff"
+				criterion: ""
+				id: "0327077475CD82F5"
+				type: "advancement"
+			}]
+			x: 28.0d
+			y: -5.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:gorgon_head"
+			}
+			id: "3438F3FC982FE83F"
+			rewards: [{
+				id: "378537AD973DF1CC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/gorgon_head"
+				criterion: ""
+				id: "32FA25C6AE32BE28"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: -21.5d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:dragonbone"
+			}
+			id: "22CE419D03DD06C1"
+			rewards: [{
+				id: "39555B996ECF680D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_if_dragon"
+				criterion: ""
+				id: "041B99259097980C"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: -3.5d
+		}
+		{
+			dependencies: ["09202922844A875B"]
+			icon: {
+				id: "iceandfire:dragon_skull_fire"
+			}
+			id: "0A55831E4039A661"
+			rewards: [{
+				id: "169D1D71BDAF6E73"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/root"
+				criterion: ""
+				id: "28FFEB22F9C40B55"
+				type: "advancement"
+			}]
+			x: 20.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["33C857C9BFA571D1"]
+			icon: {
+				id: "iceandfire:ectoplasm"
+			}
+			id: "22E767534770918C"
+			rewards: [{
+				id: "0E7BF1DAFCBAE1E0"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "iceandfire:iceandfire/kill_ghost"
+				criterion: ""
+				id: "1D71E962078EC533"
+				type: "advancement"
+			}]
+			x: 24.0d
+			y: -15.5d
+		}
+		{
+			dependencies: ["22CE419D03DD06C1"]
+			icon: {
+				id: "iceandfire:dragonbone"
+			}
+			id: "08A6D156D2D64402"
+			rewards: [
+				{
+					count: 2
+					id: "38E3CF39A2B612AD"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "195BA7C34BDE0352"
+					type: "xp"
+					xp: 300
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "0903B5099A6A53B3"
+				type: "checkmark"
+			}]
+			x: 34.0d
+			y: -3.0d
+		}
+		{
+			dependencies: [
+				"08A6D156D2D64402"
+				"37D1B7D6DBFA4878"
+			]
+			icon: {
+				id: "iceandfire:dragonforge_fire_core"
+			}
+			id: "261559598DDA641E"
+			rewards: [
+				{
+					count: 2
+					id: "256CA7C23C6DE7F6"
+					item: {
+						count: 1
+						id: "minecraft:netherite_scrap"
+					}
+					type: "item"
+				}
+				{
+					id: "36CAEB6B9F4FA18F"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "0618B7C2E9C0CADB"
+				type: "checkmark"
+			}]
+			x: 36.0d
+			y: 0.0d
+		}
+		{
+			dependencies: [
+				"261559598DDA641E"
+				"3B251DA64AD834FF"
+				"0E302BA8794596B6"
+				"33DCE74D2692CA14"
+			]
+			icon: {
+				id: "iceandfire:dragonsteel_ice_sword"
+			}
+			id: "009DCD14B8F41B1D"
+			rewards: [
+				{
+					count: 2
+					id: "1D149982DDF45B88"
+					item: {
+						count: 1
+						id: "minecraft:netherite_ingot"
+					}
+					type: "item"
+				}
+				{
+					count: 8
+					id: "090701C22C684523"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "30333DB25331CE3E"
+					type: "xp"
+					xp: 2000
+				}
+			]
+			shape: "gear"
+			tasks: [{
+				id: "3CEC6925C1793627"
+				type: "checkmark"
+			}]
+			x: 38.0d
+			y: 0.0d
+		}
+	]
+}

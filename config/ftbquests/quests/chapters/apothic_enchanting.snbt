@@ -1,0 +1,571 @@
+{
+	autofocus_id: "166ADB42D839D0AE"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "apothic_enchanting"
+	group: "2A9BFF28FEFB9E39"
+	icon: {
+		id: "apothic_enchanting:hellshelf"
+	}
+	id: "3650819E6CB35A17"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["198C19770943CF26"]
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "3B2CDFB9A36DC05A"
+			rewards: [{
+				id: "0A1B9BA29FB65B7D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:quanta50"
+				criterion: ""
+				id: "20E1E3750BC4A844"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["1808F1B97C0DC508"]
+			icon: {
+				id: "apothic_enchanting:heart_seashelf"
+			}
+			id: "1936653DEFBFF24C"
+			rewards: [{
+				id: "2D4861BCBDF7FEFC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:upgrade_seashelf"
+				criterion: ""
+				id: "127D33C445F33BB2"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["2FB5EF63AFD83C2B"]
+			icon: {
+				id: "apothic_enchanting:endshelf"
+			}
+			id: "32E143432C76AEB8"
+			rewards: [
+				{
+					count: 3
+					id: "355D5747C6F98B5C"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "0A4F615F53C5936F"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "apothic_enchanting:endshelf"
+				criterion: ""
+				id: "167365AE569EABDA"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "minecraft:enchanting_table"
+			}
+			id: "166ADB42D839D0AE"
+			rewards: [{
+				id: "24B49D7153373361"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:enchanter"
+				criterion: ""
+				id: "33CA23691073B280"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["1AE4732472F53D68"]
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "38078528DAFC3CD8"
+			rewards: [
+				{
+					count: 3
+					id: "1B1FED222EED082A"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "17B1836D725F0FDA"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "apothic_enchanting:max_stats"
+				criterion: ""
+				id: "086B89F15F44335D"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["046583E33D09751D"]
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "3F910B561E6DBF50"
+			rewards: [
+				{
+					count: 2
+					id: "26E12FECF9C2BDCE"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "1201099AD15FD8E1"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "apothic_enchanting:max_stable"
+				criterion: ""
+				id: "32737F39C42DFD4E"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["00D063E090A086C5"]
+			icon: {
+				id: "minecraft:enchanted_book"
+			}
+			id: "2165D3B7E3966FAC"
+			rewards: [
+				{
+					count: 2
+					id: "3EFA99EC7E3ABECD"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "26B1C1930F5636FF"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "apothic_enchanting:100ench"
+				criterion: ""
+				id: "3F201F51CDFBD11C"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["239C5B947D1FBAE3"]
+			icon: {
+				id: "apothic_enchanting:dormant_deepshelf"
+			}
+			id: "30940D4EB4D72AFA"
+			rewards: [{
+				id: "3CAFFBF15355F91B"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:deepshelf"
+				criterion: ""
+				id: "08CDCB6F7BB47B27"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["166ADB42D839D0AE"]
+			icon: {
+				id: "minecraft:enchanted_book"
+			}
+			id: "284AD51E79325206"
+			rewards: [{
+				id: "33FB5B4373BD1D40"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:30ench"
+				criterion: ""
+				id: "31F4F59BAB8DDADC"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["13DA75E5D75D2D1D"]
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "1D882935EC526126"
+			rewards: [{
+				id: "20B127E3354178CA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:arcana100"
+				criterion: ""
+				id: "17EE31985BA864E4"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["30940D4EB4D72AFA"]
+			icon: {
+				id: "apothic_enchanting:echoing_sculkshelf"
+			}
+			id: "2FB5EF63AFD83C2B"
+			rewards: [{
+				id: "090C0987C34C9CFF"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:sculkshelf"
+				criterion: ""
+				id: "2BF28BE10297E729"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["198C19770943CF26"]
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "046583E33D09751D"
+			rewards: [{
+				id: "0EB65B2BE5F0B245"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:quanta0"
+				criterion: ""
+				id: "0908132D7EB6F1C4"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["35BE7BF51D919ED3"]
+			icon: {
+				id: "apothic_enchanting:blazing_hellshelf"
+			}
+			id: "239C5B947D1FBAE3"
+			rewards: [{
+				id: "13E64186930648BC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:upgrade_hellshelf"
+				criterion: ""
+				id: "345BBB76B84B38A0"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["166ADB42D839D0AE"]
+			icon: {
+				id: "minecraft:bookshelf"
+			}
+			id: "2AC4794095E71BB5"
+			rewards: [{
+				id: "2861BB39C58E16F9"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:bookshelf"
+				criterion: ""
+				id: "140BAF2EA97901E5"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["38078528DAFC3CD8"]
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "06B7C531BAAA90CB"
+			rewards: [
+				{
+					count: 2
+					id: "2ED6890946BC8981"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "3AFB35A1A458D81F"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "apothic_enchanting:max_rectified"
+				criterion: ""
+				id: "04D6CD1583B877EC"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["284AD51E79325206"]
+			icon: {
+				id: "minecraft:enchanted_book"
+			}
+			id: "24698FD7A9F25478"
+			rewards: [
+				{
+					count: 3
+					id: "0CEB31C4AD5EEF2C"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "1857012C16DB696E"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "apothic_enchanting:60ench"
+				criterion: ""
+				id: "138A3B2BBCFB98C3"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3B2CDFB9A36DC05A"]
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "1AE4732472F53D68"
+			rewards: [{
+				id: "1D405DE5043B825D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:quanta100"
+				criterion: ""
+				id: "001CA129F677BCD5"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["198C19770943CF26"]
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "13DA75E5D75D2D1D"
+			rewards: [{
+				id: "021CF720A39A8A40"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:arcana50"
+				criterion: ""
+				id: "286E03DA6B6EDE80"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["2AC4794095E71BB5"]
+			icon: {
+				id: "apothic_enchanting:hellshelf"
+			}
+			id: "35BE7BF51D919ED3"
+			rewards: [{
+				id: "0B40E509F7FF3DA7"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:hellshelf"
+				criterion: ""
+				id: "1E298FFDDF292BA1"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["2AC4794095E71BB5"]
+			icon: {
+				id: "apothic_enchanting:seashelf"
+			}
+			id: "1808F1B97C0DC508"
+			rewards: [{
+				id: "13715F922ECF474E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:seashelf"
+				criterion: ""
+				id: "2AB98B65A1FF5451"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["166ADB42D839D0AE"]
+			icon: {
+				id: "minecraft:experience_bottle"
+			}
+			id: "198C19770943CF26"
+			rewards: [{
+				id: "3F2299E6AC1BA0B7"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "apothic_enchanting:enchanting_stats"
+				criterion: ""
+				id: "13274BD32D839CBD"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["32E143432C76AEB8"]
+			icon: {
+				id: "apothic_enchanting:draconic_endshelf"
+			}
+			id: "27417D0DC9E806D1"
+			rewards: [
+				{
+					count: 2
+					id: "1C142B23A990BD7C"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "2D352DB02452FEF5"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				advancement: "apothic_enchanting:upgrade_endshelf"
+				criterion: ""
+				id: "2667552BE4197830"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["24698FD7A9F25478"]
+			icon: {
+				id: "minecraft:enchanted_book"
+			}
+			id: "00D063E090A086C5"
+			rewards: [
+				{
+					count: 3
+					id: "2DBF77E4250BD239"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "0049E9862626E4CF"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				advancement: "apothic_enchanting:80ench"
+				criterion: ""
+				id: "0B0055E4C3D81560"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+	]
+}

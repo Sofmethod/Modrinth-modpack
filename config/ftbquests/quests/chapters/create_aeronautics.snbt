@@ -1,0 +1,288 @@
+{
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "create_aeronautics"
+	group: "687D3C1391B84DC2"
+	icon: {
+		id: "aeronautics:propeller_bearing"
+	}
+	id: "2AB235EBA6D1DF8B"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			icon: {
+				id: "simulated:physics_assembler"
+			}
+			id: "17837DCDBE3F7BE2"
+			rewards: [{
+				id: "35650193EF2B2A46"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "181B4B7AA76805F7"
+				item: { count: 1, id: "simulated:physics_assembler" }
+				type: "item"
+			}]
+			x: 0.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17837DCDBE3F7BE2"]
+			icon: {
+				id: "simulated:red_portable_engine"
+			}
+			id: "157C673AFA9110D0"
+			rewards: [{
+				id: "1CBB6F94337CD2E6"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "22771F4FB2665022"
+				item: { count: 1, id: "simulated:red_portable_engine" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["157C673AFA9110D0"]
+			icon: {
+				id: "aeronautics:andesite_propeller"
+			}
+			id: "0E7165CB2F0B2AE7"
+			rewards: [{
+				id: "0DE1574EBB8BC920"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3C50F156CB33C310"
+				item: { count: 1, id: "aeronautics:andesite_propeller" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["0E7165CB2F0B2AE7"]
+			icon: {
+				id: "aeronautics:propeller_bearing"
+			}
+			id: "1556D105FB5B8324"
+			rewards: [{
+				id: "3FD56FF2F32D65AE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "383537772CE57ED2"
+				item: { count: 1, id: "aeronautics:propeller_bearing" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: -2.0d
+		}
+		{
+			dependencies: ["17837DCDBE3F7BE2"]
+			icon: {
+				id: "simulated:steering_wheel"
+			}
+			id: "13EBE77D5B3C63F3"
+			rewards: [{
+				id: "3E28F97BFC3CA205"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1B0ECB4CEC8FA381"
+				item: { count: 1, id: "simulated:steering_wheel" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["13EBE77D5B3C63F3"]
+			icon: {
+				id: "simulated:throttle_lever"
+			}
+			id: "17A23D147B351367"
+			rewards: [{
+				id: "11E71F0FFD974682"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "22FA879955474B04"
+				item: { count: 1, id: "simulated:throttle_lever" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17A23D147B351367"]
+			icon: {
+				id: "simulated:analog_transmission"
+			}
+			id: "2AC4B73A74590B3D"
+			rewards: [{
+				id: "2753B78A99B7A07F"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "0CE665EF97AD34C2"
+				item: { count: 1, id: "simulated:analog_transmission" }
+				type: "item"
+			}]
+			x: 6.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["2AC4B73A74590B3D"]
+			icon: {
+				id: "simulated:rope_winch"
+			}
+			id: "3086B5F63E30E4CA"
+			rewards: [{
+				id: "2F33936371C0AE22"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "1C6F714E0E24BC2E"
+				item: { count: 1, id: "simulated:rope_winch" }
+				type: "item"
+			}]
+			x: 8.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["3086B5F63E30E4CA"]
+			icon: {
+				id: "simulated:docking_connector"
+			}
+			id: "033B3131DC2B808D"
+			rewards: [{
+				id: "3415BBCD9FABBD99"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "26ABFB6A165E465F"
+				item: { count: 1, id: "simulated:docking_connector" }
+				type: "item"
+			}]
+			x: 10.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["17837DCDBE3F7BE2"]
+			icon: {
+				id: "aeronautics:levitite"
+			}
+			id: "3DA90780D21305A2"
+			rewards: [{
+				id: "2CF6E93A38A2DDC4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "09720B71747102F2"
+				item: { count: 1, id: "aeronautics:levitite" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3DA90780D21305A2"]
+			icon: {
+				id: "aeronautics:pearlescent_levitite"
+			}
+			id: "270E0B5D072E7D99"
+			rewards: [
+				{
+					count: 3
+					id: "137B23FA46FED7EF"
+					item: {
+						count: 1
+						id: "minecraft:emerald"
+					}
+					type: "item"
+				}
+				{
+					id: "1F828BF772DFBB8A"
+					type: "xp"
+					xp: 150
+				}
+			]
+			shape: "rsquare"
+			tasks: [{
+				id: "2B8BF3ED7DC7E89A"
+				item: { count: 1, id: "aeronautics:pearlescent_levitite" }
+				type: "item"
+			}]
+			x: 4.0d
+			y: 2.0d
+		}
+		{
+			dependencies: ["3DA90780D21305A2"]
+			icon: {
+				id: "aeronautics:adjustable_burner"
+			}
+			id: "3C08D717C84C3670"
+			rewards: [{
+				id: "3BF6E3E9A628891E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				id: "3FDF476C2A1D503C"
+				item: { count: 1, id: "aeronautics:adjustable_burner" }
+				type: "item"
+			}]
+			x: 2.0d
+			y: 4.0d
+		}
+		{
+			dependencies: [
+				"1556D105FB5B8324"
+				"17A23D147B351367"
+				"3C08D717C84C3670"
+			]
+			icon: {
+				id: "minecraft:elytra"
+			}
+			id: "2E4C4D005E806EA3"
+			rewards: [
+				{
+					count: 2
+					id: "031A7DD145D25418"
+					item: {
+						count: 1
+						id: "minecraft:diamond"
+					}
+					type: "item"
+				}
+				{
+					id: "25878521BAEBF4B2"
+					type: "xp"
+					xp: 400
+				}
+			]
+			shape: "hexagon"
+			tasks: [{
+				id: "1DD169D5AEA8E9F2"
+				type: "checkmark"
+			}]
+			x: 8.0d
+			y: -2.0d
+		}
+	]
+}

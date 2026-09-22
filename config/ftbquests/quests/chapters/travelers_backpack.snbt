@@ -1,0 +1,475 @@
+{
+	autofocus_id: "010465FD56C4BAC7"
+	default_hide_dependency_lines: false
+	default_quest_shape: ""
+	filename: "travelers_backpack"
+	group: "7BF87B81CD8F8965"
+	icon: {
+		id: "travelersbackpack:standard"
+	}
+	id: "1B2623C4D4516B26"
+	images: [ ]
+	order_index: 1
+	quest_links: [ ]
+	quests: [
+		{
+			dependencies: ["0597572A6630AC2A"]
+			icon: {
+				id: "minecraft:cauldron"
+			}
+			id: "1702597C6D29B063"
+			rewards: [{
+				id: "2D485F91F2775E66"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:undye_backpack"
+				criterion: ""
+				id: "2C26913974225C98"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 20.0d
+		}
+		{
+			dependencies: ["0597572A6630AC2A"]
+			icon: {
+				id: "minecraft:iron_pickaxe"
+			}
+			id: "09F415D95DAAA3F8"
+			rewards: [{
+				id: "28D2D7A188853BAD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:tool_slots"
+				criterion: ""
+				id: "2D81EF1A9CF36CDE"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 18.0d
+		}
+		{
+			dependencies: ["31FDF3C1E7016F28"]
+			icon: {
+				id: "travelersbackpack:hose"
+			}
+			id: "1ED03B8FCF4EED10"
+			rewards: [{
+				id: "1CBAB194CCEE7E93"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:hose_suck"
+				criterion: ""
+				id: "33EAE967D93204CF"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 16.0d
+		}
+		{
+			dependencies: ["0597572A6630AC2A"]
+			icon: {
+				id: "minecraft:red_dye"
+			}
+			id: "25AE2944C21AF9D9"
+			rewards: [{
+				id: "1ECA191DC08AB39E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:dye_backpack"
+				criterion: ""
+				id: "07F72986FAEED40E"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 10.0d
+		}
+		{
+			dependencies: ["327C670F3A37DE2D"]
+			icon: {
+				id: "minecraft:splash_potion"
+			}
+			id: "1BE3C547CD81B4C0"
+			rewards: [{
+				id: "3E8EAF77AEA1913D"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:hose_spill_potion"
+				criterion: ""
+				id: "0774A7CA52767A49"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["302B2F157A128D4A"]
+			icon: {
+				id: "travelersbackpack:netherite_tier_upgrade"
+			}
+			id: "02287DA7E3FC9ABD"
+			rewards: [{
+				id: "284401829347D2AA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:netherite_upgrade"
+				criterion: ""
+				id: "056BD7D722981109"
+				type: "advancement"
+			}]
+			x: 14.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["31FDF3C1E7016F28"]
+			icon: {
+				id: "travelersbackpack:hose"
+			}
+			id: "394CCD319D660C1A"
+			rewards: [{
+				id: "2244A307A28CBEC0"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:hose_drink"
+				criterion: ""
+				id: "3EF74DF7510ED470"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["010465FD56C4BAC7"]
+			icon: {
+				id: "travelersbackpack:red_sleeping_bag"
+			}
+			id: "0E6DD789300B6095"
+			rewards: [{
+				id: "1C50B317CD304583"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:sleeping_bag"
+				criterion: ""
+				id: "21CDF3F93F1EDD1F"
+				type: "advancement"
+			}]
+			x: 2.0d
+			y: 6.25d
+		}
+		{
+			dependencies: ["277E57CB46C13F2B"]
+			icon: {
+				id: "travelersbackpack:gold_tier_upgrade"
+			}
+			id: "3FE989AD5F109216"
+			rewards: [{
+				id: "1A92A968BBE62A95"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:gold_upgrade"
+				criterion: ""
+				id: "15239FE28A8315D3"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["394CCD319D660C1A"]
+			icon: {
+				id: "minecraft:potion"
+			}
+			id: "075EE9554A595C34"
+			rewards: [{
+				id: "2429D14E0E93E78E"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:hose_drink_potion"
+				criterion: ""
+				id: "2F1A7777416086A6"
+				type: "advancement"
+			}]
+			x: 10.0d
+			y: 12.0d
+		}
+		{
+			dependencies: ["0597572A6630AC2A"]
+			icon: {
+				id: "travelersbackpack:red_sleeping_bag"
+			}
+			id: "2630890539761365"
+			rewards: [{
+				id: "097B0B8AC0A0E800"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:use_sleeping_bag"
+				criterion: ""
+				id: "1DE75F31E31A7CAB"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 22.0d
+		}
+		{
+			dependencies: ["029175FA32DF88E1"]
+			icon: {
+				id: "minecraft:shears"
+			}
+			id: "03685B3264EDB1ED"
+			rewards: [{
+				id: "1C21ED9F4C17A191"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:revert_custom_backpack"
+				criterion: ""
+				id: "3E7E0F85B87DE44A"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 8.0d
+		}
+		{
+			dependencies: ["0597572A6630AC2A"]
+			icon: {
+				id: "travelersbackpack:blank_upgrade"
+			}
+			id: "39ACDFD1D1CABF84"
+			rewards: [{
+				id: "286D9D2CCFEC84AC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:blank_upgrade"
+				criterion: ""
+				id: "0EB9A75D6694DD11"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 3.0d
+		}
+		{
+			dependencies: ["0597572A6630AC2A"]
+			icon: {
+				id: "travelersbackpack:hose"
+			}
+			id: "31FDF3C1E7016F28"
+			rewards: [{
+				id: "300D2D1045488BAE"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:hose"
+				criterion: ""
+				id: "23C5F1355527CCAF"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["39ACDFD1D1CABF84"]
+			icon: {
+				id: "travelersbackpack:iron_tier_upgrade"
+			}
+			id: "277E57CB46C13F2B"
+			rewards: [{
+				id: "29E26DBAAC21069C"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:iron_upgrade"
+				criterion: ""
+				id: "0A18276093920B43"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["3FE989AD5F109216"]
+			icon: {
+				id: "travelersbackpack:diamond_tier_upgrade"
+			}
+			id: "302B2F157A128D4A"
+			rewards: [{
+				id: "3ECA5526696BE610"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:diamond_upgrade"
+				criterion: ""
+				id: "2FB51F36C200CF46"
+				type: "advancement"
+			}]
+			x: 12.0d
+			y: 4.0d
+		}
+		{
+			dependencies: ["0E6DD789300B6095"]
+			icon: {
+				id: "travelersbackpack:backpack_tank"
+			}
+			id: "25A1D942C2ACA547"
+			rewards: [{
+				id: "10C7351DCDEA7D66"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:backpack_tanks"
+				criterion: ""
+				id: "364679491B0ECF08"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 0.0d
+		}
+		{
+			dependencies: ["31FDF3C1E7016F28"]
+			icon: {
+				id: "travelersbackpack:hose"
+			}
+			id: "327C670F3A37DE2D"
+			rewards: [{
+				id: "393CDBDD160655BD"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:hose_spill"
+				criterion: ""
+				id: "3B745D674A7558C6"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 14.0d
+		}
+		{
+			dependencies: ["39ACDFD1D1CABF84"]
+			icon: {
+				id: "travelersbackpack:feeding_upgrade"
+			}
+			id: "00AB63819AD3BDAF"
+			rewards: [{
+				id: "2CCD09A22192DABC"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:functionality_upgrade"
+				criterion: ""
+				id: "10E691FDDB714CAB"
+				type: "advancement"
+			}]
+			x: 8.0d
+			y: 2.0d
+		}
+		{
+			icon: {
+				id: "travelersbackpack:standard"
+			}
+			id: "010465FD56C4BAC7"
+			rewards: [{
+				id: "06B6D33F34B06E95"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:root"
+				criterion: ""
+				id: "1AE2AB07B581B90D"
+				type: "advancement"
+			}]
+			x: 0.0d
+			y: 6.25d
+		}
+		{
+			dependencies: ["0597572A6630AC2A"]
+			icon: {
+				id: "travelersbackpack:blue_sleeping_bag"
+			}
+			id: "3466C156E0C5E717"
+			rewards: [{
+				id: "2F2E23E59AA58DD4"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:change_sleeping_bag"
+				criterion: ""
+				id: "1B6BC958DA19D033"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 6.0d
+		}
+		{
+			dependencies: ["0E6DD789300B6095"]
+			icon: {
+				id: "travelersbackpack:standard"
+			}
+			id: "0597572A6630AC2A"
+			rewards: [{
+				id: "3B5C71D3227FB0EA"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:standard"
+				criterion: ""
+				id: "3BA885272B3F0D06"
+				type: "advancement"
+			}]
+			x: 4.0d
+			y: 12.5d
+		}
+		{
+			dependencies: ["0597572A6630AC2A"]
+			icon: {
+				id: "travelersbackpack:blaze"
+			}
+			id: "029175FA32DF88E1"
+			rewards: [{
+				id: "3CEA410104F5AE39"
+				type: "xp"
+				xp: 50
+			}]
+			tasks: [{
+				advancement: "travelersbackpack:custom_backpack"
+				criterion: ""
+				id: "1A99FBE0BE1850D7"
+				type: "advancement"
+			}]
+			x: 6.0d
+			y: 8.0d
+		}
+	]
+}
