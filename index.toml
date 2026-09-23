@@ -2037,8 +2037,23 @@ hash = "6b26155807b2f3825db22e5be51a9ab330c8a70500a702740726053cb4678349"
 metafile = true
 
 [[files]]
+file = "mods/archers-expansion.pw.toml"
+hash = "8154f76f31daf4d16c1dec85695e04037925e4681054412a1f76bb40e95b7dea"
+metafile = true
+
+[[files]]
+file = "mods/archers.pw.toml"
+hash = "f3582646ae96ee02e9c49ad4022e97a128a011fa97a09b83a46c8dd6cd6010fb"
+metafile = true
+
+[[files]]
 file = "mods/architectury-api.pw.toml"
 hash = "ea336d25c3e21ef168aec20e1ea470c96949ad29632646ee8e8ab0d74b4bbfc9"
+metafile = true
+
+[[files]]
+file = "mods/armor-model-api.pw.toml"
+hash = "dc7bc27468879b22da06641b444e1cd9e9fedc7fd6d8942f14f29756d7c4e59a"
 metafile = true
 
 [[files]]
@@ -2144,6 +2159,11 @@ metafile = true
 [[files]]
 file = "mods/bookshelf-lib.pw.toml"
 hash = "68d6016fa3707c434b3aca5db041c7518c70feb53d0183faa2502cc6efd4c827"
+metafile = true
+
+[[files]]
+file = "mods/bundle-api.pw.toml"
+hash = "a7e46ae0871bb75452fcd2044a7a320beb08b2a691518111c9e4906a9c6fde39"
 metafile = true
 
 [[files]]
@@ -2542,6 +2562,11 @@ hash = "5367193d3f87b7bc5a81bcd64a5b96a843e76d4df7a83c8bb7e1911aa82dd52e"
 metafile = true
 
 [[files]]
+file = "mods/jewelry.pw.toml"
+hash = "f53a0095b5881be20cd480b6b2d3b20ecafbfdffeff0560aa209f481f2542689"
+metafile = true
+
+[[files]]
 file = "mods/jupiter.pw.toml"
 hash = "3f44721c554a06b9e922c6102bed6402fed57d6d340de0299ee4237544724c48"
 metafile = true
@@ -2711,6 +2736,11 @@ hash = "688a2fcd58d20df93c57e571b054b3c582932a795a255dc13c65b055dc1880b1"
 metafile = true
 
 [[files]]
+file = "mods/more-rpg-library.pw.toml"
+hash = "d84884704122020409f4bb341fa39afa2252cb089d387cee3f0bd8f91262c91d"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "f186680e1906cd6fc01c060f48e4e38b2d7401bbfaab538a52ba1b858bc6c3ae"
 metafile = true
@@ -2758,6 +2788,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "46831c04077a06df823bcd0f254833a90a9a9ccc78f5069f4b4c27fa301ac0cf"
+metafile = true
+
+[[files]]
+file = "mods/paladins-and-priests.pw.toml"
+hash = "2ab9efb02b95a962e69f2fed0bc69140c65af856632727c87a4a1a44e9c9f31d"
 metafile = true
 
 [[files]]
@@ -2811,6 +2846,11 @@ hash = "10d7f603799aa8e4185b440595640e35996bc8d9c1cdcc4a645ca394c8fa5d29"
 metafile = true
 
 [[files]]
+file = "mods/ranged-weapon-api.pw.toml"
+hash = "0a7c847cf1bacf6b9756f348a05271c6ff57fad00d1f9d2991ea302f8453340b"
+metafile = true
+
+[[files]]
 file = "mods/rare-ice.pw.toml"
 hash = "54496c6587f1f5e49f8f89490fde5ba56006584cfa8d1bd80b0f61dfeaef865c"
 metafile = true
@@ -2836,18 +2876,23 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
-file = "mods/rpg-skill-tree.pw.toml"
-hash = "e9e14d73ca14d8a6eb35eb3d022861df49a3bee02693be70d31be011d87962c4"
-metafile = true
-
-[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
 
 [[files]]
+file = "mods/runes.pw.toml"
+hash = "05c5359a4419b39c0e72c2693f0cda3bc5959520fe42b348d3bd701384491aef"
+metafile = true
+
+[[files]]
 file = "mods/sable.pw.toml"
 hash = "e4c43e944439f4941ba1c417ab3ac1ec3dbd9c95a8456a2069641d031317e142"
+metafile = true
+
+[[files]]
+file = "mods/shield-api.pw.toml"
+hash = "08f35f067c7a764a894254a8e5c790a8de5e03f21fcff2875a14a31f16b6627a"
 metafile = true
 
 [[files]]
@@ -2896,8 +2941,23 @@ hash = "8d8b6bd6054165cc3b84bac2d748b189d24d4aae409d5d381d57faa4bde22b76"
 metafile = true
 
 [[files]]
+file = "mods/spell-engine.pw.toml"
+hash = "aec176246d24fc4b804218d66e0f467e83d0c19bf8e23e90a5052834c87aad11"
+metafile = true
+
+[[files]]
+file = "mods/spell-power.pw.toml"
+hash = "cc1491f8817a246d40d0222999788e8b3b442474e2c862637e1ef654997f3826"
+metafile = true
+
+[[files]]
 file = "mods/squat-grow.pw.toml"
 hash = "6514d9db32d069dcc96b04075e2514d9dd1c63702424843b00336dc392c1630d"
+metafile = true
+
+[[files]]
+file = "mods/structure-pool-api.pw.toml"
+hash = "1e29968c1d8f6c6ff9de68ceb1f4a477fbf2ebd404ccf6ed59e8c9c2c4285d95"
 metafile = true
 
 [[files]]
@@ -3083,10 +3143,6 @@ hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
 [[files]]
 file = "resourcepacks/Lantern-Fix.zip"
 hash = "eab6e45e2b650a0c7c7e6f1de0827a5b25cbe64afe0355c42ac5606c33e94ba9"
-
-[[files]]
-file = "resourcepacks/Skyrim Music Pack.zip"
-hash = "1602d964111536b51f575c0fbf9fc14806b165f0694c002fb94da2920de37991"
 
 [[files]]
 file = "resourcepacks/golems-refreshed-fa-v2.1.zip"
