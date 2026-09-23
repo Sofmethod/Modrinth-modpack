@@ -1933,10 +1933,6 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "datapacks/skills_del_waton.zip"
-hash = "75a559b6980f9cc83ba0ada40b13f91a1f4d03cc8f2482dd895b7672eaa44931"
-
-[[files]]
 file = "datapacks/swem_replacer.zip"
 hash = "255b8cbdddff72b3ce3fb32769eb96b51ce373e7ce1c843962abd43625a2b8f5"
 
@@ -2837,6 +2833,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
+metafile = true
+
+[[files]]
+file = "mods/rpg-skill-tree.pw.toml"
+hash = "e9e14d73ca14d8a6eb35eb3d022861df49a3bee02693be70d31be011d87962c4"
 metafile = true
 
 [[files]]
