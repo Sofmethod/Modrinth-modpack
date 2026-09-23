@@ -1933,6 +1933,10 @@ file = "config/xaeropatreon.txt"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
+file = "datapacks/skills_del_waton.zip"
+hash = "75a559b6980f9cc83ba0ada40b13f91a1f4d03cc8f2482dd895b7672eaa44931"
+
+[[files]]
 file = "datapacks/swem_replacer.zip"
 hash = "255b8cbdddff72b3ce3fb32769eb96b51ce373e7ce1c843962abd43625a2b8f5"
 
@@ -2064,6 +2068,11 @@ metafile = true
 [[files]]
 file = "mods/attributefix.pw.toml"
 hash = "f0edb6932d0c3f97338cf660763ff43bc5febdf0eb5edeca3a1927c20f14e296"
+metafile = true
+
+[[files]]
+file = "mods/attributes.pw.toml"
+hash = "11ab8a365c5bed4941664f25b31f51ee4db08885c49a0fce64cba5aa5555e2cc"
 metafile = true
 
 [[files]]
@@ -2552,6 +2561,11 @@ hash = "7905c08f37d8ebde50a5330a7dd10029de6259b0cb8adbde1170d93ea20218a7"
 metafile = true
 
 [[files]]
+file = "mods/just-hammers.pw.toml"
+hash = "af4465a52c59ed914f3b924bedb844cee7867b2682a356592aafb7246fd33427"
+metafile = true
+
+[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "c8467cb6639000d1be9e801702e028fd2ce9c0dce6f35e1be4c9264667c9efe6"
 metafile = true
@@ -2856,6 +2870,11 @@ hash = "bfe046bda32074d85647395e9eca88ff6d6d29c4b762866de437d302b81c9d53"
 metafile = true
 
 [[files]]
+file = "mods/skills.pw.toml"
+hash = "1c42d0d46b5325d7c372926d2265f19c0d46a7222b0181596fa8b2ac74e7f126"
+metafile = true
+
+[[files]]
 file = "mods/slice-and-dice.pw.toml"
 hash = "18ca1d438084a8578f4b75f12233db58ca1deec55f117fb875afa21f2c021559"
 metafile = true
@@ -3063,6 +3082,10 @@ hash = "8e44b29560d2e7d952c0a4f77f0451e6dcb048f827189bffc712b446be8de7f2"
 [[files]]
 file = "resourcepacks/Lantern-Fix.zip"
 hash = "eab6e45e2b650a0c7c7e6f1de0827a5b25cbe64afe0355c42ac5606c33e94ba9"
+
+[[files]]
+file = "resourcepacks/Skyrim Music Pack.zip"
+hash = "1602d964111536b51f575c0fbf9fc14806b165f0694c002fb94da2920de37991"
 
 [[files]]
 file = "resourcepacks/golems-refreshed-fa-v2.1.zip"
