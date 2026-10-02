@@ -413,110 +413,6 @@ file = "config/attributefix/caelus/fall_flying.json"
 hash = "17ef1233e3020b53a3835793bc771c00114af5b167f57cb03506098dbc49e535"
 
 [[files]]
-file = "config/attributefix/irons_spellbooks/blood_magic_resist.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/blood_spell_power.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/cast_time_reduction.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/casting_movespeed.json"
-hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/cooldown_reduction.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/eldritch_magic_resist.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/eldritch_spell_power.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/ender_magic_resist.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/ender_spell_power.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/evocation_magic_resist.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/evocation_spell_power.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/fire_magic_resist.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/fire_spell_power.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/holy_magic_resist.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/holy_spell_power.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/ice_magic_resist.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/ice_spell_power.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/lightning_magic_resist.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/lightning_spell_power.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/mana_regen.json"
-hash = "6217856e9bb2355a468bbe03fe24bc97bae91f8deb54e9df42f8a4021cde99e6"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/max_mana.json"
-hash = "d93c8a68daea4dc0cd38d7b9a29e28cc16536332528edff278fdceeeb5a636e2"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/nature_magic_resist.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/nature_spell_power.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/spell_power.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/spell_resist.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
-file = "config/attributefix/irons_spellbooks/summon_damage.json"
-hash = "3e05221436880d09fbac95dfc9cde9d2225e8cfdb81ea0c4a41a453934acf938"
-
-[[files]]
 file = "config/attributefix/minecraft/generic.armor.json"
 hash = "b6aa33f20fbc7bb14c930dfcfd93591f37f2ccf12df0b6da9551f7a6fad1e439"
 
@@ -957,14 +853,6 @@ file = "config/cristellib/iceandfire/structure_toggle_config.json5"
 hash = "c4bad34549f305bb04e594f28281b160e5572579c71e87dbcff345af61e82c0f"
 
 [[files]]
-file = "config/cristellib/irons_spellbooks/structure_placement_config.json5"
-hash = "604e3cdba3aeb339f502dfbd678d465757cc1b7872a81c336b09dcd2ef5f2ed0"
-
-[[files]]
-file = "config/cristellib/irons_spellbooks/structure_toggle_config.json5"
-hash = "6c11a82d5a3442fdff0e5a150c329818566061126e346f6ad6ce3a93fdd7b30d"
-
-[[files]]
 file = "config/cristellib/meadow/structure_placement_config.json5"
 hash = "1fd0b97e2f1f73f6aa69a023b30ea90b4f17ecd03de4cb6e8958d219f5d23961"
 
@@ -1283,22 +1171,6 @@ hash = "fe9bc4c19ac1b1eb866cddefd86e7b98fc573221ba66e16342d596ad42b0fa03"
 [[files]]
 file = "config/ironfurnaces-common.toml"
 hash = "bfb348e145fd39f5b53f94d034a6baf4bed2added70097f5ce507324adee6c3e"
-
-[[files]]
-file = "config/irons_spellbooks-client.toml"
-hash = "3fa2598d7de323567c85ebf73380be870d051381615daecc386d6366b4d7b9d4"
-
-[[files]]
-file = "config/irons_spellbooks-server.toml"
-hash = "b8af7b5dc8e58774cd832abed3657f4c50d8c12cda3f00a7b72b88bb5edbba67"
-
-[[files]]
-file = "config/irons_spellbooks_spell_config/global_config.json"
-hash = "7a8fd5e37e183cccd59a72a4af0b9e1fe1b4d930cd034b2f11da7307a8741580"
-
-[[files]]
-file = "config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
-hash = "ef3c9040b615d325eadeae5e8edb145b4a13ba483959993b9877e7697e2b4699"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
@@ -1942,6 +1814,11 @@ hash = "82becc6910845ae1a68884e6f7a3dcdc861d79a087ae81b1d7e120e82884372d"
 metafile = true
 
 [[files]]
+file = "mods/accessories-compat-layer.pw.toml"
+hash = "c255cf4cd29718e3ab0a4c18df8bb7b626e0092c5aad7b4e67f34fc1ad4492f8"
+metafile = true
+
+[[files]]
 file = "mods/accessories.pw.toml"
 hash = "19cbfb37dc29169b50599dfa328fe12a0ec9caaec8ac02627b5846f3bd9d1425"
 metafile = true
@@ -2043,7 +1920,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "f3582646ae96ee02e9c49ad4022e97a128a011fa97a09b83a46c8dd6cd6010fb"
+hash = "4bff1e8a33a3add308656eb3a1af743204ce6469f0ee14c58ef3014cdb558f9e"
 metafile = true
 
 [[files]]
@@ -2054,6 +1931,16 @@ metafile = true
 [[files]]
 file = "mods/armor-model-api.pw.toml"
 hash = "dc7bc27468879b22da06641b444e1cd9e9fedc7fd6d8942f14f29756d7c4e59a"
+metafile = true
+
+[[files]]
+file = "mods/armory-rpg-series.pw.toml"
+hash = "d67e0afb39466da26d5687f320b9cddacc962b5658a6835dfef826601260e214"
+metafile = true
+
+[[files]]
+file = "mods/arsenal-rpg-series.pw.toml"
+hash = "4dd0f3a3980d883254e550b4d98aa9f13dae45a8113e67565ff62786e0172c12"
 metafile = true
 
 [[files]]
@@ -2092,6 +1979,11 @@ hash = "7813a1f53221b3210d52db22b8a16b397c3a073dbc60cd9acba584f4e7c6bceb"
 metafile = true
 
 [[files]]
+file = "mods/azurelib-armor.pw.toml"
+hash = "86cd6395d41e52dccd3a428f5c1ee72b000ff202a818a9b34e55d2f9d8d66419"
+metafile = true
+
+[[files]]
 file = "mods/azurelib.pw.toml"
 hash = "0bc4527d43a4f7a29a62801efe3cde624aeabf519ab0aebf26c06ae6d7fc9f0b"
 metafile = true
@@ -2112,8 +2004,18 @@ hash = "392901b7f79963442553456af846d06f48b4057a054a928adb8a76eea13c6383"
 metafile = true
 
 [[files]]
+file = "mods/bard-more-rpg-classes.pw.toml"
+hash = "131785a187cbfd71ef841118008c0a47024b61da778899c3d7d917912972f739"
+metafile = true
+
+[[files]]
 file = "mods/bellsandwhistles.pw.toml"
 hash = "e1f4a53e3e52b534add5dd018597fefd345d9bd6350b9c46ef0ec281fc62af8e"
+metafile = true
+
+[[files]]
+file = "mods/berserker-rpg-class.pw.toml"
+hash = "6b2126b01063e2a2f9ae4912234723a1efa429abaaa559014945456fa7902aba"
 metafile = true
 
 [[files]]
@@ -2149,6 +2051,11 @@ metafile = true
 [[files]]
 file = "mods/biomes-o-plenty.pw.toml"
 hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
+metafile = true
+
+[[files]]
+file = "mods/blood-mages-more-magic-series.pw.toml"
+hash = "8b5332d67498a1eb43630c56df61cbd6aef65583d3907139c28d7953f75dd487"
 metafile = true
 
 [[files]]
@@ -2342,6 +2249,11 @@ hash = "a279bece467eb371308e24e363e1297c288a4099c37e3d3cb5ade3f1c82ab9fe"
 metafile = true
 
 [[files]]
+file = "mods/critical-strike.pw.toml"
+hash = "8f7ec1d22f09c9a78d88a13763e4e780f6111e45685f8147e7afd6e49aea4a5c"
+metafile = true
+
+[[files]]
 file = "mods/curios.pw.toml"
 hash = "36debf7653e95a855b4fedacc19027cf2e01960fc0b6d55ef2ffbffbcb455690"
 metafile = true
@@ -2364,6 +2276,16 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
+metafile = true
+
+[[files]]
+file = "mods/dragonsteel-more-magic-series.pw.toml"
+hash = "3f7d90f58737b49ba2d52d1fb721bc32db7720abd1195cda9515e2b7ee5de890"
+metafile = true
+
+[[files]]
+file = "mods/druids.pw.toml"
+hash = "fcbd8179d276d6fddb3e704e324ad7b24c619007af2e485d6a6f76394f9fd211"
 metafile = true
 
 [[files]]
@@ -2482,6 +2404,11 @@ hash = "932c65fb598293dba5dc60a76fc64c2579db427018b10dd4757dd421d9abcaf0"
 metafile = true
 
 [[files]]
+file = "mods/gazebos.pw.toml"
+hash = "443188ff5efd47f1c0b5042092648d7882250388f9c71296d6daf46bf8c9daf5"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "68e15ffc71a84261e0dbbb317329788c21a7b9eb8060687dc8a51008cc3029fe"
 metafile = true
@@ -2532,21 +2459,6 @@ hash = "cd73757a8c093f490d5c7673ad17f4404622a485234b79dc43efa0e67788d66e"
 metafile = true
 
 [[files]]
-file = "mods/irons-lib.pw.toml"
-hash = "5fd6319cbba6abaca989daaca456c052b49f388f7789eb1657fbaf736b4009cb"
-metafile = true
-
-[[files]]
-file = "mods/irons-spellbooks-arcane-essence-blocks.pw.toml"
-hash = "e87d519950f0d9362c919a9afb92688769b321a21b578c01a6d94645dd947cf1"
-metafile = true
-
-[[files]]
-file = "mods/irons-spells-n-spellbooks.pw.toml"
-hash = "46fd3a8062699383239729b7f4937fdd83177581492d3b12c8ad74dd52bfe05a"
-metafile = true
-
-[[files]]
 file = "mods/jade-addons-forge.pw.toml"
 hash = "8cd8400cb4e2c5ba60c8a359a7b6ff501078d2056eab0aba7f6b0ac77b7a0694"
 metafile = true
@@ -2563,7 +2475,7 @@ metafile = true
 
 [[files]]
 file = "mods/jewelry.pw.toml"
-hash = "f53a0095b5881be20cd480b6b2d3b20ecafbfdffeff0560aa209f481f2542689"
+hash = "720e12b39f4689c6d05fd6bf4661b8e54f7b80f6316bf9db5f3c54f8faf58484"
 metafile = true
 
 [[files]]
@@ -2741,6 +2653,16 @@ hash = "d84884704122020409f4bb341fa39afa2252cb089d387cee3f0bd8f91262c91d"
 metafile = true
 
 [[files]]
+file = "mods/more-runes-more-magic-series.pw.toml"
+hash = "21d3f84d6048c126b132733c3a9a73a485f259769e117ea1491389aadd51b70f"
+metafile = true
+
+[[files]]
+file = "mods/more-spell-attributes-more-magic-series.pw.toml"
+hash = "ce949214d84f5e27bb70178b29fa36de4781a746e7a198bb9eaaa9687ccf7284"
+metafile = true
+
+[[files]]
 file = "mods/more-villagers.pw.toml"
 hash = "f186680e1906cd6fc01c060f48e4e38b2d7401bbfaab538a52ba1b858bc6c3ae"
 metafile = true
@@ -2792,7 +2714,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "2ab9efb02b95a962e69f2fed0bc69140c65af856632727c87a4a1a44e9c9f31d"
+hash = "a9c1ecdef94c1e535f7c5ea05e9b720778b8fd9bf0211d7d52a69bb4b6044ad1"
 metafile = true
 
 [[files]]
@@ -2876,6 +2798,11 @@ hash = "c0b066684294c33972d562e0cb08ea17b2d31bcf86cd1d6c63b8e968f0eac7a2"
 metafile = true
 
 [[files]]
+file = "mods/rogues-and-warriors.pw.toml"
+hash = "0ca4e4a6dc001eb5fb81d1817cb8b209e86cb8541a77f6e1de23d92a0e20f45c"
+metafile = true
+
+[[files]]
 file = "mods/rpl.pw.toml"
 hash = "7815e5a589de0c02a62ae83590e1f75f4d0c269e48f2435ce2ac448976ddf49f"
 metafile = true
@@ -2916,6 +2843,11 @@ hash = "bfe046bda32074d85647395e9eca88ff6d6d29c4b762866de437d302b81c9d53"
 metafile = true
 
 [[files]]
+file = "mods/skill-tree.pw.toml"
+hash = "854e45f44175efa93c049a36016bfe19896b52b4acd9b9c6f30f491daeb08390"
+metafile = true
+
+[[files]]
 file = "mods/skills.pw.toml"
 hash = "1c42d0d46b5325d7c372926d2265f19c0d46a7222b0181596fa8b2ac74e7f126"
 metafile = true
@@ -2942,7 +2874,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "aec176246d24fc4b804218d66e0f467e83d0c19bf8e23e90a5052834c87aad11"
+hash = "7e383589313c596e8256e6e0a3f24c1751560ce86708c1fb3d45ac5860b8658a"
 metafile = true
 
 [[files]]
@@ -3028,6 +2960,11 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "8e8279c29671803cae3f9ab39c87956e4a4300fe8f9da9a9222850ca3253fb45"
+metafile = true
+
+[[files]]
+file = "mods/wizards.pw.toml"
+hash = "e6e7bdb68b3a0a824b3c6a19c7f4ec880555f912d6f354d67bbd4c8250922591"
 metafile = true
 
 [[files]]
