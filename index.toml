@@ -2279,8 +2279,8 @@ hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
 metafile = true
 
 [[files]]
-file = "mods/dragon-scale-loot.pw.toml"
-hash = "d79fe1e44f6b15a9101a0a54cf7a0b84927fdcc7ee250521b6567f69c4db7e95"
+file = "mods/dragon-scale.pw.toml"
+hash = "adf731c4cc9a25cb212f6331ceaad6515ff9b65fc0c0883cd782e309cede3d7c"
 metafile = true
 
 [[files]]
