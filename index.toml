@@ -2279,6 +2279,11 @@ hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
 metafile = true
 
 [[files]]
+file = "mods/dragon-scale-loot.pw.toml"
+hash = "d79fe1e44f6b15a9101a0a54cf7a0b84927fdcc7ee250521b6567f69c4db7e95"
+metafile = true
+
+[[files]]
 file = "mods/dragonsteel-more-magic-series.pw.toml"
 hash = "3f7d90f58737b49ba2d52d1fb721bc32db7720abd1195cda9515e2b7ee5de890"
 metafile = true
@@ -2426,11 +2431,6 @@ metafile = true
 [[files]]
 file = "mods/ice-and-fire-dragons-x-better-combat.pw.toml"
 hash = "bd9b481946f4fa0ab5b258fc25ab9b154a83856c913584e2ea5ccba3632c16f5"
-metafile = true
-
-[[files]]
-file = "mods/ice-and-fire-spellbooks.pw.toml"
-hash = "fb9ab7579a68b1de67ec618e653cc4e37763fdc49db42df934e3b024deb71af7"
 metafile = true
 
 [[files]]
