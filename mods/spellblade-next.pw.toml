@@ -1,0 +1,13 @@
+name = "Spellblades and Such"
+filename = "spellbladenext-neoforge-2.9.2+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5f193953e20e1b2eca4fd5580eb8bd4aa42c317d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8197125
+project-id = 811662

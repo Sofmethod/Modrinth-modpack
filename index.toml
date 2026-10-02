@@ -2049,11 +2049,6 @@ hash = "9b1610cd28c49d34ce2fd760d208fb569f0e20055fee4c81ed4da6489b340312"
 metafile = true
 
 [[files]]
-file = "mods/blood-mages-more-magic-series.pw.toml"
-hash = "8b5332d67498a1eb43630c56df61cbd6aef65583d3907139c28d7953f75dd487"
-metafile = true
-
-[[files]]
 file = "mods/bonsai-crops.pw.toml"
 hash = "3045ea85c3cc2c9bd26017fc997912b98c2bf002c148010159162c5023f4ae71"
 metafile = true
@@ -2271,16 +2266,6 @@ metafile = true
 [[files]]
 file = "mods/double-doors.pw.toml"
 hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
-metafile = true
-
-[[files]]
-file = "mods/dragon-scale.pw.toml"
-hash = "adf731c4cc9a25cb212f6331ceaad6515ff9b65fc0c0883cd782e309cede3d7c"
-metafile = true
-
-[[files]]
-file = "mods/dragonsteel-more-magic-series.pw.toml"
-hash = "3f7d90f58737b49ba2d52d1fb721bc32db7720abd1195cda9515e2b7ee5de890"
 metafile = true
 
 [[files]]
@@ -2648,11 +2633,6 @@ hash = "d84884704122020409f4bb341fa39afa2252cb089d387cee3f0bd8f91262c91d"
 metafile = true
 
 [[files]]
-file = "mods/more-runes-more-magic-series.pw.toml"
-hash = "21d3f84d6048c126b132733c3a9a73a485f259769e117ea1491389aadd51b70f"
-metafile = true
-
-[[files]]
 file = "mods/more-spell-attributes-more-magic-series.pw.toml"
 hash = "ce949214d84f5e27bb70178b29fa36de4781a746e7a198bb9eaaa9687ccf7284"
 metafile = true
@@ -2875,6 +2855,11 @@ metafile = true
 [[files]]
 file = "mods/spell-power.pw.toml"
 hash = "cc1491f8817a246d40d0222999788e8b3b442474e2c862637e1ef654997f3826"
+metafile = true
+
+[[files]]
+file = "mods/spellblade-next.pw.toml"
+hash = "264f2aa10377a2d5c8261ce410da2cb803daaf8a0088a048389dc803c0c0f0ef"
 metafile = true
 
 [[files]]
