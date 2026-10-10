@@ -1910,12 +1910,12 @@ metafile = true
 
 [[files]]
 file = "mods/archers-expansion.pw.toml"
-hash = "8154f76f31daf4d16c1dec85695e04037925e4681054412a1f76bb40e95b7dea"
+hash = "5276a058870558aa4fbfa5ee6237ad77e63dd481945bcf1e33a0924631793d62"
 metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "4bff1e8a33a3add308656eb3a1af743204ce6469f0ee14c58ef3014cdb558f9e"
+hash = "59ef95f3ffc0a9f5a4d3be82d09c5f2608c83fc7a4b9dd4ef4eb0070d15d11b7"
 metafile = true
 
 [[files]]
@@ -1930,12 +1930,12 @@ metafile = true
 
 [[files]]
 file = "mods/armory-rpg-series.pw.toml"
-hash = "d67e0afb39466da26d5687f320b9cddacc962b5658a6835dfef826601260e214"
+hash = "91f6a4befb14d12f02e3ee11f25ed9842b3122858693a5096aa74278cad4ad72"
 metafile = true
 
 [[files]]
 file = "mods/arsenal-rpg-series.pw.toml"
-hash = "4dd0f3a3980d883254e550b4d98aa9f13dae45a8113e67565ff62786e0172c12"
+hash = "ec014d5f3a17c0daad38840adc7b5de98de7dacdf9826c32c4c5f6389d27e5cb"
 metafile = true
 
 [[files]]
@@ -2000,7 +2000,7 @@ metafile = true
 
 [[files]]
 file = "mods/bard-more-rpg-classes.pw.toml"
-hash = "131785a187cbfd71ef841118008c0a47024b61da778899c3d7d917912972f739"
+hash = "cd5cfdacebd6cc06882b98aaa9e822e2d5454a8c55a7e0022258829dbf1ccf14"
 metafile = true
 
 [[files]]
@@ -2010,7 +2010,7 @@ metafile = true
 
 [[files]]
 file = "mods/berserker-rpg-class.pw.toml"
-hash = "6b2126b01063e2a2f9ae4912234723a1efa429abaaa559014945456fa7902aba"
+hash = "86f8afdd830950d98df912abd37586d93db3db73bc2b08dd67da2d5a202edbe7"
 metafile = true
 
 [[files]]
@@ -2270,7 +2270,7 @@ metafile = true
 
 [[files]]
 file = "mods/druids.pw.toml"
-hash = "fcbd8179d276d6fddb3e704e324ad7b24c619007af2e485d6a6f76394f9fd211"
+hash = "3166f07901ac26f424b06999434e893a7d9f509c5522687da16cfc725eb3ce1b"
 metafile = true
 
 [[files]]
@@ -2629,7 +2629,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-rpg-library.pw.toml"
-hash = "d84884704122020409f4bb341fa39afa2252cb089d387cee3f0bd8f91262c91d"
+hash = "774b1ab58b6c723fa2ccc172b3c8ce132a7d8c81b454725d5f6d1598f54bfa2e"
 metafile = true
 
 [[files]]
@@ -2689,7 +2689,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "a9c1ecdef94c1e535f7c5ea05e9b720778b8fd9bf0211d7d52a69bb4b6044ad1"
+hash = "f748c8af63f2b877081d4df46fd2b5218ed3de64dc7fe44d94c835fd5946b843"
 metafile = true
 
 [[files]]
@@ -2774,7 +2774,7 @@ metafile = true
 
 [[files]]
 file = "mods/rogues-and-warriors.pw.toml"
-hash = "0ca4e4a6dc001eb5fb81d1817cb8b209e86cb8541a77f6e1de23d92a0e20f45c"
+hash = "e35cf7c4bfef1d4cf8158c4df9134b93bce4f99e00829aa3d48912b7beffc0b7"
 metafile = true
 
 [[files]]
@@ -2815,11 +2815,6 @@ metafile = true
 [[files]]
 file = "mods/simulated-copycats.pw.toml"
 hash = "bfe046bda32074d85647395e9eca88ff6d6d29c4b762866de437d302b81c9d53"
-metafile = true
-
-[[files]]
-file = "mods/skill-tree.pw.toml"
-hash = "854e45f44175efa93c049a36016bfe19896b52b4acd9b9c6f30f491daeb08390"
 metafile = true
 
 [[files]]
@@ -2944,7 +2939,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "e6e7bdb68b3a0a824b3c6a19c7f4ec880555f912d6f354d67bbd4c8250922591"
+hash = "4fe6cc0f09a168ed71d96a30f67570ce76e0c3fa668adde71bd216cfd2b0541f"
 metafile = true
 
 [[files]]
