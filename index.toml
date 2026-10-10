@@ -2749,7 +2749,7 @@ metafile = true
 
 [[files]]
 file = "mods/ranged-weapon-api.pw.toml"
-hash = "0a7c847cf1bacf6b9756f348a05271c6ff57fad00d1f9d2991ea302f8453340b"
+hash = "89e50404074b0d75067f5b8fd5a8d5a0c4b6de2ef1079552f18dc08afb52d93f"
 metafile = true
 
 [[files]]
