@@ -2633,6 +2633,11 @@ hash = "688a2fcd58d20df93c57e571b054b3c582932a795a255dc13c65b055dc1880b1"
 metafile = true
 
 [[files]]
+file = "mods/more-rpg-classes-skill-tree.pw.toml"
+hash = "29d97c530768a414b8384e559cd612dc660507afcfb90683631028b4dcd767a6"
+metafile = true
+
+[[files]]
 file = "mods/more-rpg-library.pw.toml"
 hash = "774b1ab58b6c723fa2ccc172b3c8ce132a7d8c81b454725d5f6d1598f54bfa2e"
 metafile = true
@@ -2820,6 +2825,11 @@ metafile = true
 [[files]]
 file = "mods/simulated-copycats.pw.toml"
 hash = "bfe046bda32074d85647395e9eca88ff6d6d29c4b762866de437d302b81c9d53"
+metafile = true
+
+[[files]]
+file = "mods/skill-tree.pw.toml"
+hash = "24cb3b9895dc5026be8c92177cb0d90a843c00ea29782ce5ff63766360e3a57d"
 metafile = true
 
 [[files]]
