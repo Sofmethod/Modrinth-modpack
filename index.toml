@@ -2589,6 +2589,11 @@ hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
 metafile = true
 
 [[files]]
+file = "mods/mercenaries-and-artificers.pw.toml"
+hash = "5fcbc089b34ae1a057b892453387688bb2c2eb7680e8c2c1f737e2962aedc660"
+metafile = true
+
+[[files]]
 file = "mods/merequester.pw.toml"
 hash = "971daeffde0d98b6b1ae9d5808c6cadc3bda9ac29acb3f86b57e6a324f86d8cb"
 metafile = true
