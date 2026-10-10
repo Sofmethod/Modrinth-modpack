@@ -1,0 +1,13 @@
+name = "Extra Spell Attributes (RPG Series Tweaks)"
+filename = "extraspellattributes-neoforge-1.5.0+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "bb3c9e6cf84a01453604675a7fbf2408deb34c9f"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7027011
+project-id = 941480

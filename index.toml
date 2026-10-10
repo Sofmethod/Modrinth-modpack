@@ -2269,11 +2269,6 @@ hash = "99f1ddd42145295a0e53c87a4e14185c975e8b2174a53295a9021988f0748081"
 metafile = true
 
 [[files]]
-file = "mods/druids.pw.toml"
-hash = "3166f07901ac26f424b06999434e893a7d9f509c5522687da16cfc725eb3ce1b"
-metafile = true
-
-[[files]]
 file = "mods/dynamic-trees-biomes-o-plenty.pw.toml"
 hash = "1b89507fb7bc8c2ed11c020a9014ce4a6552e7d0fe0522f6c1107a27e9c89f07"
 metafile = true
@@ -2346,6 +2341,11 @@ metafile = true
 [[files]]
 file = "mods/explorers-compass.pw.toml"
 hash = "0670ca65c7208aa8211883fae30c935f53cad38196aac46723b10e7bbc695113"
+metafile = true
+
+[[files]]
+file = "mods/extra-spell-attributes.pw.toml"
+hash = "6f90a57459d6deb869b7bc111ff5c529c252417a8a8c34ef0fd6843f152def34"
 metafile = true
 
 [[files]]
@@ -2586,6 +2586,11 @@ metafile = true
 [[files]]
 file = "mods/mekanism.pw.toml"
 hash = "42061fd570a0b7a8063c0860056c6391593190caa0f12d3b49105e52a56817fe"
+metafile = true
+
+[[files]]
+file = "mods/mercenaries-and-artificers.pw.toml"
+hash = "bb76c86696d1686129e6aca840c03571f7de1a71fd67993950e9d16be973aa54"
 metafile = true
 
 [[files]]

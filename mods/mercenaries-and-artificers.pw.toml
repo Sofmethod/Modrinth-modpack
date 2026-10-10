@@ -1,0 +1,13 @@
+name = "Mercenaries and Artificers (RPG Series Plus)"
+filename = "artificers-neoforge-1.17.3+1.21.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "eab96f53a4bccfdb91dd64a02c7da58a61e79170"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7967931
+project-id = 1153070
